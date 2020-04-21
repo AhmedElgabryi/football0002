@@ -1,0 +1,727 @@
+,sport,school,coach
+1,football,Beaver,Randy Hunter
+2,football,Duchesne,Jerry Cowan
+3,football,Enterprise,andy Messersmith
+4,football,Kanab,Bucky Orton
+5,football,Milford,Thane Marshall
+6,football,Monticello,Arthur Adair
+7,football,North Sevier,Devin Lindley
+8,football,North Summit,Devin Smith
+9,football,Parowan,Carter Miller
+10,football,American Leadership Academy,Nate Porter
+11,football,Delta,Russ Fowles
+12,football,Emery,Jon Faimalo
+13,football,Grand County,Dennis Wells
+14,football,Grantsville,Kody Byrd
+15,football,Juab,Mike Bowring
+16,football,Juan Diego Catholic,John Colosimo
+17,football,Judge Memorial,Chase Jones
+18,football,Manti,Cole Meacham
+19,football,Morgan,Kovi Christiansen
+20,football,North Sanpete,Rhett Bird
+21,football,San Juan,Monty Lee
+22,football,South Summit,mike Grajek
+23,football,Summit Academy,Les Hamilton
+24,football,Bear River,Chris Wise
+25,football,Canyon View,Chris Sawyers
+26,football,Cedar,Coach Josh Bennett
+27,football,Desert Hills,Mark Murdoch
+28,football,Dixie,Blaine Monkres
+29,football,Green Canyon,Craig Anhder
+30,football,Hurricane,Skyler Miller
+31,football,Mountain Crest,Jason Lee
+32,football,Mountain View,Tyler Anderson
+33,football,Ogden,Erik Thompson
+34,football,Park City,Josh Montzingo
+35,football,Pine View,Raymond Hosner
+36,football,Snow Canyon,Dustin Gough
+37,football,Alta,ALEMA TEO
+38,football,Bonneville,Jantz Afuvai
+39,football,Box Elder,Robbie Gunter
+40,football,Farmington,Daniel Coats
+41,football,Highland,Brody Benson
+42,football,Lehi,Ed Larson
+43,football,Maple Mountain,Brad Burtenshaw
+44,football,Murray,todd thompson
+45,football,Olympus,Aaron Whitehead
+46,football,Payson,Jeb Clark
+47,football,Provo,Kevin Norman
+48,football,Salem Hills,harry schwenke
+49,football,Spanish Fork,Preston Parrish
+50,football,Springville,Willy Child
+51,football,Timpview,Andy Stokes
+52,football,Viewmont,Scott Ditty
+53,football,Wasatch,Steve Coburn
+54,football,American Fork,Aaron Behm
+55,football,Bingham,John lambourne
+56,football,Clearfield,Andre Dyson
+57,football,Copper Hills,Corey Dodds
+58,football,Corner Canyon,Eric Kjar
+59,football,Cyprus,Tyler Garcia
+60,football,Davis,Mitch Arquette
+61,football,East,Brandon Matich
+62,football,Fremont,Ross Arnold
+63,football,Granger,Alex Gerke
+64,football,Herriman,Dustin Pearce
+65,football,Hunter,Kyle Reece
+66,football,Jordan,Kaleo Teriipaia
+67,football,Northridge,Braden Mitchell
+68,football,Pleasant Grove,Mark Wootton
+69,football,Riverton,Jody Morgan
+70,football,Skyridge,Ansen Hatch
+71,football,Syracuse,Michael Knight
+72,football,Duchesne,Jerry Cowan
+73,football,Monticello,Arthur Adair
+74,football,North Summit,Devin Smith
+75,football,Bellows Free Academy,Geoff Murray
+76,football,Burr & Burton,Jason Thomas
+77,football,Champlain Valley Union,Mike Williams
+78,football,Colchester,THOMAS PERRY
+79,football,Mt. Mansfield,Nick Michaud
+80,football,Rice Memorial,Neil Brodeur
+81,football,Rutland,Mike Norman
+82,football,Bellows Falls,bob lockerby
+83,football,Brattleboro,Chad Pacheco
+84,football,Fair Haven,Jeremy Roberts
+85,football,Lyndon Institute,Chad Simpson
+86,football,Milton,Chris Hughes
+87,football,Mount Anthony,Chad Gordon
+88,football,Mt. Abraham,J. Stetson
+89,football,North Country Union,Tim Simoneau
+90,football,Spaulding,Bob Lamb
+91,football,Mill River,Lisa Marchinkoski
+92,football,Otter Valley,James Hill
+93,football,Poultney,David Capman
+94,football,Springfield,Todd Aiken
+95,football,Windsor,Brad Epstein
+96,football,Bellows Free Academy,Geoff Murray
+97,football,Burr & Burton,Jason Thomas
+98,football,Champlain Valley Union,Mike Williams
+99,football,Colchester,THOMAS PERRY
+100,football,Mt. Mansfield,Nick Michaud
+101,football,Rice Memorial,Neil Brodeur
+102,football,Rutland,Mike Norman
+103,football,Bellows Falls,bob lockerby
+104,football,Brattleboro,Chad Pacheco
+105,football,Fair Haven,Jeremy Roberts
+106,football,Lyndon Institute,Chad Simpson
+107,football,Milton,Chris Hughes
+108,football,Mount Anthony,Chad Gordon
+109,football,Mt. Abraham,J. Stetson
+110,football,North Country Union,Tim Simoneau
+111,football,Spaulding,Bob Lamb
+112,football,Mill River,Lisa Marchinkoski
+113,football,Otter Valley,James Hill
+114,football,Poultney,David Capman
+115,football,Springfield,Todd Aiken
+116,football,Windsor,Brad Epstein
+117,football,Auburn,Camden Akers
+118,football,Bath County,Larry Grubbs
+119,football,Burton,Jim Adams
+120,football,Charles City,Steward Greene
+121,football,Chilhowie,jeff robinson
+122,football,Chincoteague,Tony Nock
+123,football,Colonial Beach,Jeremy Jack
+124,football,Covington,Rodney Tenney
+125,football,Cumberland,Jamaal Artis
+126,football,Eastern Montgomery,Jordan Stewart
+127,football,Eastside [Coeburn/St. Paul],Mike Rhodes
+128,football,Essex,John Fulks
+129,football,Franklin,Darren Parker
+130,football,Galax,Mark Dixon
+131,football,Holston,Jason Matlock
+132,football,Honaker,Doug Hubbard
+133,football,Hurley,Greg Tester
+134,football,Mathews,Carl Kelly
+135,football,McCluer,Mark Wheeler
+136,football,Middlesex,William Jarvis
+137,football,Narrows,Kelly Lowe
+138,football,Northampton,John Edney
+139,football,Northumberland,Aaron Lewis
+140,football,Patrick Henry,Mark Palmer
+141,football,Rappahannock,William West
+142,football,Rappahannock County,Fulmer Burks
+143,football,Riverheads,Jimmy Brenneman
+144,football,Rural Retreat,Casey Stewart
+145,football,Rye Cove,Adam Toney
+146,football,Surry County,Ervin Jones
+147,football,Sussex Central,Curtis Jefferson
+148,football,Thomas Walker,Nick Johnson
+149,football,Twin Valley,Brian Moore
+150,football,Washington & Lee,Malcolm Lewis
+151,football,West Point,L.C. Briggs
+152,football,Amelia County,Joe Daniel
+153,football,Appomattox County,Doug Smith
+154,football,Arcadia,Alan Hall
+155,football,Brunswick,Harold Williams
+156,football,Bruton,reggie jones
+157,football,Buckingham,Seth Wilkerson
+158,football,Chatham,Matt Allen
+159,football,East Rockingham,Donnie Coleman
+160,football,Floyd County,MIKE MYERS
+161,football,Giles,John Williams
+162,football,Glenvar,Kevin Clifford
+163,football,Graham,Tony Palmer
+164,football,Greensville County,Mario Walton
+165,football,Gretna,Cole Simpson
+166,football,Jackson,Peter Lampman
+167,football,King William,Dylan DeHart
+168,football,Lebanon,doug rasnake
+169,football,Luray,Nolan Jeffries
+170,football,Marion,Joey Carroll
+171,football,Marshall,Phillip Sims
+172,football,Martinsville,Terry Knighten
+173,football,Nandua,Thomas Rotkowski
+174,football,Nelson County,Mark Poston
+175,football,Nottoway,Glen Pettis
+176,football,Page County,Frankie Comer
+177,football,Patrick County,David Morrison
+178,football,Poquoson,Elliott Duty
+179,football,Prince Edward County,James Ford
+180,football,Radford,Matthew Saunders
+181,football,Richlands,Greg Mance
+182,football,Ridgeview,Mark Lucas
+183,football,Staunton,David Tibbs
+184,football,Strasburg,Matt Hiserman
+185,football,Stuarts Draft,Nathan Floyd
+186,football,Tazewell,Jme Harris
+187,football,Thomas Jefferson,P.J. Adams
+188,football,Union [Appalachia/Powell Valley],Diana Kilgore
+189,football,Abingdon,Darren Reed
+190,football,Alleghany,Gary Burdette
+191,football,Bassett,James Gilbert
+192,football,Brentsville District,Joe Mullinax
+193,football,Broadway,Brad Lutz
+194,football,Brookville,Jonathan Meeks
+195,football,Byrd,Jeff Highfill
+196,football,Carroll County,Monty Chipman
+197,football,Cave Spring,Tim Fulton
+198,football,Central,Michael Yew
+199,football,Christiansburg,Alex Wilkins
+200,football,Colonial Heights,Adam Tiller
+201,football,Fort Defiance,Dan Rolfe
+202,football,Goochland,Joe Fowler
+203,football,Heritage,Brad Bradley
+204,football,Hopewell,KAREN BOWEN
+205,football,James Monroe,Zane Johnson
+206,football,Lafayette,Andy Linn
+207,football,Lakeland,bryan potts
+208,football,Liberty,Chris Watts
+209,football,Lord Botetourt,Jamie Harless
+210,football,Manassas Park,Mike Kelly
+211,football,Monroe,Jon Rocha
+212,football,Monticello,Jeff Woody
+213,football,New Kent,John Fulks
+214,football,Norcom,William Archie
+215,football,Northside,Scott Fisher
+216,football,Park View,"Tony Whittingham, Jr."
+217,football,Petersburg,Josh Wallace
+218,football,Phoebus,Jeremy Blunt
+219,football,Rustburg,Jack Baker
+220,football,Spotswood,Dale Shifflett
+221,football,Tabb,Matt Lawson
+222,football,Tunstall,Randy Hunsicker
+223,football,Turner Ashby,Charles Newman
+224,football,Warren County,Brian Bush
+225,football,Waynesboro,Brandon Jarvis
+226,football,Wilson Memorial,Jeremiah Major
+227,football,Amherst County,Brian Carter
+228,football,Blacksburg,Eddie sloss
+229,football,Broad Run,Matt Griffis
+230,football,Caroline,Doug Allison
+231,football,Chancellor,Jeff Glessner
+232,football,Charlottesville,Eric Sherry
+233,football,Churchland,Dontrell Leonard
+234,football,Courtland,J. Hall
+235,football,Culpeper County,Wesley South
+236,football,Dinwiddie,Billy Mills
+237,football,Dominion,Drake Woodard
+238,football,Eastern View,Greg Hatfield
+239,football,Fauquier,Joe Prince
+240,football,George Washington,Cathy Jones
+241,football,Glass,Jeff Woody
+242,football,Great Bridge,Brian Boerboom
+243,football,Hampton,Michael Smith
+244,football,Handley,John Davis
+245,football,Hanover,Derek Stoudt
+246,football,"Heritage (Leesburg, VA)",Jesse Encapera
+247,football,Huguenot,Addison Hayes
+248,football,James Wood,Ryan Morgan
+249,football,Jamestown,Donnell Brown
+250,football,King George,Vern Lunsford
+251,football,King's Fork,Anthony Joffrion
+252,football,Lake Taylor,Hank Sawyer
+253,football,Liberty,Tom Buzzo
+254,football,Loudoun County,Tony Rayburn
+255,football,Loudoun Valley,Anthony Long
+256,football,Louisa County,Bill Patrick
+257,football,Menchville,Glenn Tidwell
+258,football,Millbrook,Josh Haymore
+259,football,Monacan,Jim Henderson
+260,football,Orange County,Jesse Lohr
+261,football,Park View,Joshua Wild
+262,football,Patrick Henry,b d
+263,football,Powhatan,Jim Woodson
+264,football,Pulaski County,stephen james
+265,football,Salem,Shawn Wilson
+266,football,Sherando,Bill Hall
+267,football,Smithfield,Mike Newhall
+268,football,Spotsylvania,Alan Edwards
+269,football,Tuscarora,Brandon Wheelbarger
+270,football,Warwick,Corey Hairston
+271,football,Wilson,Ronnie Ratliff
+272,football,Albemarle,Brandon Isaiah
+273,football,Atlee,Roscoe Johnson
+274,football,Bayside,Jonathan White
+275,football,Bird,Troy Taylor
+276,football,Briar Woods,Christian Brown
+277,football,Brooke Point,Dwight Hazelwood
+278,football,Clover Hill,Bryan Jennings
+279,football,Cox,Bill Stachelski
+280,football,Deep Creek,Andre Twine
+281,football,Deep Run,Chad Hornik
+282,football,Fleming,Bobby Martin
+283,football,Freedom,Jared Van Acker
+284,football,Gloucester,Brandon Kelley
+285,football,Granby,Sekou Wilson
+286,football,Green Run,Brandon Williams
+287,football,Harrisonburg,Joey Strader
+288,football,Henrico,Gerald Glasco
+289,football,Hermitage,Patrick Kane
+290,football,Highland Springs,Loren Johnson
+291,football,Kecoughtan,Alonzo Coley
+292,football,Kempsville,Daryl Cherry
+293,football,Lee,Eric Pilson
+294,football,Manchester,Daniel Brunelli
+295,football,Maury,Chris Fraser
+296,football,Midlothian,Matt Hutchings
+297,football,Mountain View,Lou Sorrentino
+298,football,Nansemond River,Justin Conyers
+299,football,North Stafford,Joe Mangano
+300,football,Norview,Dealton Cotton
+301,football,Potomac Falls,Paul Barnes
+302,football,Prince George,Bruce C
+303,football,Princess Anne,James Yeager
+304,football,Riverside,Brian Day
+305,football,Salem,Dean Robb
+306,football,Stafford,Mo Hampton
+307,football,Stone Bridge,Bryson Lenderman
+308,football,Tucker,George Earle
+309,football,Varina,Stu Brown
+310,football,Annandale,Mike Scott
+311,football,Battlefield,Jared Van Acker
+312,football,Centreville,Chris Haddock
+313,football,Chantilly,Mike Lalli
+314,football,Charles J. Colgan,Steve Baudendistel
+315,football,Colonial Forge,Bill Brown
+316,football,Cosby,Peter Mutascio
+317,football,Dale,Kevin Tucker
+318,football,Falls Church,Said Aziz
+319,football,Forest Park,Daniel Bruton
+320,football,Freedom,Darryl Overton
+321,football,Gar-Field,Loren White
+322,football,Grassfield,Marty Asprey
+323,football,Hayfield,Eric Henderson
+324,football,Herndon,Dan Coghlan
+325,football,Hylton,Nate Murphy
+326,football,James River Midlothian,Bobby Henderson
+327,football,John Champe,Jason Dawson
+328,football,Justice,Greg Weisbecker
+329,football,Kellam,Chris Dewitt
+330,football,Lake Braddock,Daniel Reynolds
+331,football,Landstown,Thomas Reamon
+332,football,Langley,Brian Lamb
+333,football,Madison,Justin Counts
+334,football,Marshall,Jason Strickland
+335,football,Massaponax,Eric Ludden
+336,football,McLean,John Scholla
+337,football,Mount Vernon,Monty Fritts
+338,football,Ocean Lakes,Joe Jones
+339,football,Osbourn,Cortez Whiting
+340,football,Potomac,Clarence Martin
+341,football,Riverbend,Clark Harrell
+342,football,Robinson,Scott Vossler
+343,football,South County,Gerry Pannoni
+344,football,Stonewall Jackson,Carroll Walker
+345,football,T.C. Williams,jimmy Longerbeam
+346,football,Tallwood,John Kepple
+347,football,Wakefield,wayne hogwood
+348,football,West Potomac,Jeremiah Ross
+349,football,West Springfield,Anthony Parker
+350,football,Western Branch,Greg Gibson
+351,football,Woodbridge,Alex Urquhart
+352,football,Bellevue Christian,Todd Green
+353,football,Cascade,Dominique Coffin
+354,football,Cascade Christian,Devin Snyder
+355,football,Cashmere,Bryan Bremer
+356,football,Cedar Park Christian,Butch Goncharoff
+357,football,Charles Wright,Brian Burdick
+358,football,Chelan,Travis Domser
+359,football,Chimacum,Christopher Storm
+360,football,Cle Elum-Roslyn,TROY HILBERG
+361,football,College Place,Donald Ponds
+362,football,Columbia,Dan SMITH
+363,football,Colville,Greg Mace
+364,football,Connell,Wayne Riner
+365,football,Deer Park,Keith Stamps
+366,football,Elma,Ron Clark
+367,football,Freeman,Ben Cochran
+368,football,Goldendale,Aaron Cochran
+369,football,Granger,Gary Ely
+370,football,Granite Falls,Brandon Davis
+371,football,Highland,Sean Sleater
+372,football,King's,Jim Shapiro
+373,football,Kiona-Benton,Ken Noel
+374,football,Klahowya,Jeff Witte
+375,football,La Center,John Lambert
+376,football,La Salle,Cody Lamb
+377,football,Lakeside,Brian Dunn
+378,football,Lynden Christian,Dan Kaemingk
+379,football,Medical Lake,Jeremy Bahr
+380,football,Meridian,Bob Ames
+381,football,Montesano,Terry Jensen
+382,football,Mt. Baker,Ron Lepper
+383,football,Newport,Damien Gregory
+384,football,Nooksack Valley,Gary Tenkley
+385,football,Omak,Nick Sackman
+386,football,Port Townsend,Patrick Gaffney
+387,football,River View,Bryce Kennell
+388,football,Riverside,Buddy Wood
+389,football,Royal,Michael Ellis
+390,football,Seton Catholic,Dennis Herling
+391,football,South Whidbey,Mark Hodson
+392,football,Stevenson,David Waymire
+393,football,Tenino,Cary Nagel
+394,football,Vashon Island,Clay Eastly
+395,football,Wahluke,Ryan Antos
+396,football,Warden,Robert Arredondo
+397,football,Almira-Coulee-Hartline,Brandon Walsh
+398,football,Asotin,Jim Holman
+399,football,Bridgeport,Henry Austin
+400,football,Colfax,Mike Morgan
+401,football,Columbia,jeremiah zehetmir
+402,football,Crescent,Brian Shimko
+403,football,Cusick,Alex Laughery
+404,football,Entiat,Brian Bailey
+405,football,Evergreen Lutheran,Phillip Bunkowske
+406,football,Inchelium,Guy Stensgar
+407,football,Liberty,Mike Dewey
+408,football,Lind-Ritzville/Sprague/Washtucna/Kahlotus,Greg Whitmore
+409,football,Lummi,Jim Sandusky
+410,football,Mary M. Knight,Tom Kerr
+411,football,Naselle,Jeff Eaton
+412,football,Northport,Kevin Dionas
+413,football,Oakville,Chris Klatush
+414,football,Odessa,Jeff Nelson
+415,football,Pateros,Marcus Stennes
+416,football,Pomeroy,Kyle Kimble
+417,football,Quilcene,Trey Beathard
+418,football,Rainier Christian,Jeff Nelson
+419,football,Reardan,Eric Nikkola
+420,football,Seattle Lutheran,Conor Koester
+421,football,Selkirk,Jeremy Link
+422,football,Soap Lake,Tony Blankenship
+423,football,St. John-Endicott/LaCrosse,Richard Hallenius
+424,football,Sunnyside Christian,jeremy thomas
+425,football,Tacoma Baptist,Enrico Tipton
+426,football,Taholah,Donald Waugh
+427,football,Washington School for the Deaf,Rob McArthur
+428,football,Wellpinit,Clark Pauls
+429,football,Wilbur-Creston,Darin Reppe
+430,football,Wishkah Valley,Mike Mitchell
+431,football,Archbishop Murphy,Mark Leone
+432,football,Bellingham,Ted Flint
+433,football,Black Hills,Kirk Stevens
+434,football,Blaine,Jay Dodd
+435,football,Bremerton,Paul Theriault
+436,football,Burlington-Edison,Herb Lehman
+437,football,Centralia,Jeremy Thibault
+438,football,Cheney,Bobby Byrd
+439,football,Clarkston,Brycen Bye
+440,football,Clover Park,Jonathan 'Taz' Randall
+441,football,Columbia River,Christian Swain
+442,football,Eatonville,Gavin Kralik
+443,football,Ephrata,Jay Mills
+444,football,Evergreen,Zach Hermsen
+445,football,Fife,Kent Nevin
+446,football,Foss,corey brown
+447,football,Foster,Elijah Ruhl
+448,football,Franklin Pierce,Trevor Hanson
+449,football,Grandview,Darren Mezger
+450,football,Hockinson,Rick Steele
+451,football,Hudson's Bay,Ray Lions
+452,football,Kingston,Alec Grimm
+453,football,Lakewood,Dan Teeter
+454,football,Liberty,Steve Valach
+455,football,Lindbergh,Matt Stuart
+456,football,Lynden,Blake VanDalen
+457,football,Mark Morris,Shawn Perkins
+458,football,Mountlake Terrace,Kelly Dougan
+459,football,North Kitsap,Jeff wEIBLE
+460,football,North Mason,Bill Kluth
+461,football,Olympic,Sal Quitevis
+462,football,Orting,Marty Parkhurst
+463,football,Othello,Roger Hoell
+464,football,Prosser,Corey Ingvalson
+465,football,Pullman,David Cofer
+466,football,Quincy,Phil Frost
+467,football,R.A. Long,David McDaniel
+468,football,Renton,Gustavus Lawlar
+469,football,Rochester,John Moorhead
+470,football,Sammamish,Ry Akana
+471,football,Sedro-Woolley,Dave Ward
+472,football,Sehome,Bob Norvell
+473,football,Selah,Jordan Ramos
+474,football,Sequim,Erik Wiker
+475,football,Shelton,mark smith
+476,football,Steilacoom,Colby Davies
+477,football,Toppenish,Jason Smith
+478,football,Tumwater,Bill Beattie
+479,football,Washington,Mike Von Rueden
+480,football,Washougal,David Hajek
+481,football,West Valley,Ryan Mulvey
+482,football,WF West,Dan Hill
+483,football,White River,Greg Lewandowski
+484,football,Adna,K.C. Johnson
+485,football,Brewster,Jake Johanson
+486,football,Chewelah,Cameron Gump
+487,football,Chief Leschi,Josh bellinger
+488,football,Columbia,Trevor Curtis
+489,football,Concrete,Arthur Sanchez
+490,football,Darrington,Buck Marsh
+491,football,Davenport,Justin Young
+492,football,Dayton/Waitsburg,Troy Larsen
+493,football,Friday Harbor,brock hauck
+494,football,Ilwaco,Sean Cease
+495,football,Kalama,Sean McDonald
+496,football,Kettle Falls,Loren Finley
+497,football,Kittitas/Thorp,Dusty Hutchinson
+498,football,LaConner,Peter Voorhees
+499,football,Lake Roosevelt,Tim Rasmussen
+500,football,Liberty Christian,Craig Lukins
+501,football,Manson,Joey Johanson
+502,football,Morton/White Pass,Lee Metcalf
+503,football,Mossyrock,Chris Fried
+504,football,Napavine,Josh Fay
+505,football,North Beach,Brandon Dearinger
+506,football,Northwest Christian School,Brian Gardner
+507,football,Ocosta,Chris Raffelson
+508,football,Okanogan,Craig Nelson
+509,football,Onalaska,Mazen Saade
+510,football,Pe Ell/Willapa Valley,Keith Shepherd
+511,football,Toledo,Mike Christensen
+512,football,Tonasket,Jay Hawkins
+513,football,Toutle Lake,Art Walsh
+514,football,Tri-Cities Prep,Dan Whitsett
+515,football,Wahkiakum,Eric Hansen
+516,football,White Swan,Andrew Bush
+517,football,Arlington,Greg Dailer
+518,football,Bainbridge,Jeff Rouser
+519,football,Ballard,Ross Humphries
+520,football,Bethel,Mark Iddins
+521,football,Bishop Blanchet,Dominic Salle
+522,football,Bonney Lake,Jason Silbaugh
+523,football,Capital,Terry Rose
+524,football,Central Kitsap,Mark Keel
+525,football,Chief Sealth,Ted Rodriguez
+526,football,Edmonds-Woodway,John Gradwohl
+527,football,Evergreen,Christian Swain
+528,football,Ferndale,Jamie Plenkovich
+529,football,Fort Vancouver,Steve Broussard
+530,football,Franklin,curtis delgardo
+531,football,Garfield,Kellen Alley
+532,football,Gig Harbor,George Fairhart
+533,football,Hermiston,David Faaeteete
+534,football,Ingraham,Zackery Elvig
+535,football,Interlake,Shawn Hartline
+536,football,Kamiakin,Jeff Aliment
+537,football,Kelso,Steve Amrine
+538,football,Lake Washington,Andy Arena
+539,football,Lakes,Dave Miller
+540,football,Lakeside,Mike Lengel
+541,football,"Lincoln (Tacoma, WA)",Masaki Matsumoto
+542,football,"Lincoln (Seattle, WA)",Aaron Hart
+543,football,Lynnwood,Keauntea Bankhead
+544,football,Marysville Getchell,Davis Lura
+545,football,Marysville-Pilchuck,Brandon Carson
+546,football,Mercer Island,Ed Slezinger
+547,football,Mount Tahoma,Leon Hatch
+548,football,Mountain View,Adam Mathieson
+549,football,Mt. Spokane,Terry Cloer
+550,football,Nathan Hale,Hoover Hopkins
+551,football,North Central,Sean Garvey
+552,football,Oak Harbor,Jay Turner
+553,football,O'Dea,Monte Kohler
+554,football,Peninsula,Ross Filkins
+555,football,Prairie,Mike Peck
+556,football,River Ridge,Steve Schultz
+557,football,Rogers,David Chambless
+558,football,Seattle Prep,Aaron Maul
+559,football,Shadle Park,Jim Mace
+560,football,Shorecrest,Brandon Christennsen
+561,football,Shorewood,Brandon Torrey
+562,football,Snohomish,Joey Hammer
+563,football,Southridge,Aaron Sonnichsen
+564,football,Spanaway Lake,John Robak
+565,football,Squalicum,Nick Lucey
+566,football,Stadium,Melissa Hayes
+567,football,Stanwood,Eric Keizer
+568,football,Timberline,Nick Mullen
+569,football,West Seattle,Jeff Scott
+570,football,Auburn,Gordon Elliott
+571,football,Auburn Mountainview,Jared Gervais
+572,football,Auburn Riverside,Marcus Yzaguirre
+573,football,Battle Ground,Mike Kesler
+574,football,Beamer,Darren McKay
+575,football,Bellarmine Prep,Brian Jensen
+576,football,Bothell,Tom Bainter
+577,football,Camas,Jon Eagle
+578,football,Cascade,Jordan Sieh
+579,football,Central Valley,Ryan Butner
+580,football,Chiawana,Keaston Nettnin
+581,football,Curtis,Chris Paulson
+582,football,Davis,Damien Gregory
+583,football,Decatur,Levi Suiaunoa
+584,football,Eastlake,Don Bartel
+585,football,Eastmont,Mike Don
+586,football,Emerald Ridge,Adam Schakel
+587,football,Enumclaw,Mark Gunderson
+588,football,Federal Way,John Meagher
+589,football,Ferris,Jim Sharkey
+590,football,Glacier Peak,Mark Derks
+591,football,Gonzaga Prep,David Mckenna
+592,football,Hanford,Brett Jay
+593,football,Hazen,Chris Bennett
+594,football,Kamiak,bryant thomas
+595,football,Kennedy Catholic,Sheldon Cross
+596,football,Kent-Meridian,Justin Callander
+597,football,Kentridge,Brett Ogata
+598,football,Kentwood,Michael Bush
+599,football,Lake Stevens,Tom Tri
+600,football,Lewis & Clark,Dave Hughes
+601,football,Mariner,Mark Stewart
+602,football,Mead,Benji Sonnichsen
+603,football,Monroe,mike bumpus
+604,football,Moses Lake,Greg Kittrell
+605,football,Mount Si,Charlie Kinnune
+606,football,Mount Vernon,Nic Vasilchek
+607,football,Mt. Rainier,Tremain Mack
+608,football,Newport - Bellevue,Drew Oliver
+609,football,North Creek,Torrey Myers
+610,football,Olympia,Mark Mobley
+611,football,Puyallup,Andrew Lawrence
+612,football,Redmond,Mickey Ahrens
+613,football,Richland,Mike Neidhold
+614,football,Rogers,Gene Bowen
+615,football,Skyline,taylor mat
+616,football,Skyview,Julian Williams
+617,football,South Kitsap,Cory Vartanian
+618,football,Sumner,Keith Ross
+619,football,Sunnyside,John Lobbestael
+620,football,Tahoma,Tony Davis
+621,football,Union,Rory Rosenbach
+622,football,University,Adam Daniel
+623,football,Wenatchee,Scott Devereaux
+624,football,Buffalo,mike sawyer
+625,football,Calhoun,Mike Arthur
+626,football,Cameron,James Rogers
+627,football,Clay-Battelle,Ryan Wilson
+628,football,Doddridge County,Bobby Burnside
+629,football,Greenbrier West,Lewis Mcclung
+630,football,Hannan,Brian Scott
+631,football,Hundred,Rex Rush
+632,football,Madonna,cole staggs
+633,football,Meadow Bridge,Dwayne Reichard
+634,football,Midland Trail,Frank Isaacs
+635,football,Moorefield,Matt Altobello
+636,football,Paden City,Zach Heasley
+637,football,Parkersburg Catholic,curtis shriver
+638,football,Pocahontas County,Chris Sutton
+639,football,Ravenswood,Eric Hupp
+640,football,Richwood,Chad Hall
+641,football,Sherman,michael showalter
+642,football,South Harrison,Chris Underwood
+643,football,St. Marys,John Wolfe
+644,football,Summers County,Chris Vicars
+645,football,Tucker County,A.J. Rapp
+646,football,Tygarts Valley,chris dorminey
+647,football,Tyler,Melinda Hicks
+648,football,Valley,Logan Miller
+649,football,Van,Steve Price
+650,football,Wahama,Dave Barr
+651,football,Webster County,B.J. Phillips
+652,football,Wheeling Central Catholic,Mike Young
+653,football,Williamstown,Steve McIntyre
+654,football,Berkeley Springs,Chip Breeden
+655,football,Bluefield,Freddy Simon
+656,football,Clay County,Jason Nichols
+657,football,East Fairmont,william townsend
+658,football,Elkins,Evan Hott
+659,football,Frankfort,Kevin Whiteman
+660,football,Hoover,Tim Meyer
+661,football,Independence,John Lilly
+662,football,James Monroe,Kevin Long
+663,football,Keyser,Sean Biser
+664,football,Lewis County,Dustin Cogar
+665,football,"Liberty (Clarksburg, WV)",AJ Harman
+666,football,Lincoln,Rob Hawkins
+667,football,Lincoln County,Charles Adkins
+668,football,Logan,Gary Mullins
+669,football,Man,Harvey Arms
+670,football,Nicholas County,Gene Morris
+671,football,Nitro,Zach Davis
+672,football,Oak Glen,Ian Whittington
+673,football,Oak Hill,Jason Blankenship
+674,football,Petersburg,Kevin Board
+675,football,Philip Barbour,Curtis Bodkins
+676,football,PikeView,Jonathan Huffman
+677,football,Poca,Hunter Casto
+678,football,Point Pleasant,Andy Layton
+679,football,Roane County,John Pena
+680,football,Shady Spring,Vince Culicerto
+681,football,Sissonville,Eddie Smolder
+682,football,WestSide,Herbie Halsey
+683,football,Winfield,Craig Snyder
+684,football,Buckhannon-Upshur,Duane Stoeckle
+685,football,Cabell Midland,Luke Salmons
+686,football,Capital,Craig Lawrence
+687,football,George Washington,James LaMaster
+688,football,Greenbrier East,Ray Lee
+689,football,Hampshire,Darren Grace
+690,football,Hedgesville,Joseph Yurish
+691,football,Huntington,Billy Seals
+692,football,Hurricane,Jeremy Taylor
+693,football,Jefferson,Craig Hunter
+694,football,John Marshall,rick goodrich
+695,football,Martinsburg,Dan Running
+696,football,Morgantown,Matt Lacy
+697,football,Musselman,Brian Thomas
+698,football,Preston,Johnathan Tennant
+699,football,South Charleston,Donnie Mays
+700,football,Spring Mills,Tyriq King
+701,football,Spring Valley,Brad Dingess
+702,football,University,John Kelley
+703,football,Washington,Glen Simpson
+704,football,Wheeling Park,Chris Daugherty
+705,football,Buckhannon-Upshur,Duane Stoeckle
+706,football,Clay County,Jason Nichols
+707,football,East Fairmont,william townsend
+708,football,Elkins,Evan Hott
+709,football,Lewis County,Dustin Cogar
+710,football,Liberty,AJ Harman
+711,football,Lincoln,Rob Hawkins
+712,football,Philip Barbour,Curtis Bodkins
+713,football,Preston,Johnathan Tennant
+714,football,Roane County,John Pena
+715,football,Hoover,Tim Meyer
+716,football,Logan,Gary Mullins
+717,football,Nitro,Zach Davis
+718,football,Poca,Hunter Casto
+719,football,Sissonville,Eddie Smolder
+720,football,Buffalo,mike sawyer
+721,football,Greenbrier West,Lewis Mcclung
+722,football,Meadow Bridge,Dwayne Reichard
+723,football,Midland Trail,Frank Isaacs
+724,football,Richwood,Chad Hall
+725,football,Sherman,michael showalter
+726,football,Van,Steve Price

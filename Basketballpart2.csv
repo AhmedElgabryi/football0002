@@ -1,0 +1,667 @@
+,sport,school,coach
+1,Basketball,Skyline,Ronnie McCarver
+2,Basketball,Covenant Christian,Bret Waldrep
+3,Basketball,Pickens County,marcuss barnes
+4,Basketball,Belgreen,Marty Cooper
+5,Basketball,Jacksonville Christian Academy,Coach Morgan
+6,Basketball,Spring Garden,Ricky Austin
+7,Basketball,Florala,Troy Turman
+8,Basketball,Marion,Johnny McCalpine
+9,Basketball,Millry,Teddy Taylor
+10,Basketball,Georgiana,Kirk Norris
+11,Basketball,Brantley,Andre Parks
+12,Basketball,Cornerstone,Ronald Steele
+13,Basketball,Decatur Heritage Christian Academy,Jason Marshall
+14,Basketball,Lanett,John Norris
+15,Basketball,Alabama School for the Deaf,Walter Ripley
+16,Basketball,Lindsay Lane Christian Academy,Stephen Murr
+17,Basketball,McIntosh,Tereance Pinkney
+18,Basketball,Autaugaville,Darren Golson
+19,Basketball,Whitesburg Christian Academy,Rob Murphy
+20,Basketball,Maplesville,Stacy McGehee
+21,Basketball,Shields,DeNeidra Wiggins
+22,Basketball,R.A. Hubbard,"Milton ""Sonny"" Conwill"
+23,Basketball,Mars Hill Bible,Mike Mitchell
+24,Basketball,Winterboro,Sheroderick Smith
+25,Basketball,Athens Bible,Lance Taylor
+26,Basketball,Phillips,Senn Williams
+27,Basketball,Berry,Josh Northington
+28,Basketball,Woodville,kevin smith
+29,Basketball,Faith Christian,Justin Kisor
+30,Basketball,Notasulga,Clifton Knight
+31,Basketball,Ellwood Christian,Willie Shears
+32,Basketball,Brilliant,Ryan Sanderson
+33,Basketball,Wadley,Logan Cofield
+34,Basketball,Lynn,Tab Jefferson
+35,Basketball,Linden,Cordarrin WIlson
+36,Basketball,Pleasant Home,Troy Turman
+37,Basketball,Marion County,willie c williams
+38,Basketball,Loachapoka,Shane Colquhoun
+39,Basketball,Red Level,Allen Catrett
+40,Basketball,Kinston,Karl Bledsoe
+41,Basketball,Marengo,Jamal Smith
+42,Basketball,Coosa Christian,Jammie Lett
+43,Basketball,Talladega County Central,Acardia Garrett
+44,Basketball,Shoals Christian,Wes Hall
+45,Basketball,Falkville,Josh Scott
+46,Basketball,Elba,William Moguel
+47,Basketball,Hackleburg,Trey George
+48,Basketball,Jefferson Christian Academy,Gerald Lee
+49,Basketball,Verbena,Christopher Doss
+50,Basketball,Oakwood Academy,Shawn Green
+51,Basketball,Billingsley,Marvin Morton
+52,Basketball,Vina,D Raper
+53,Basketball,Donoho,Jeremy Satcher
+54,Basketball,St. Luke's Episcopal,Kantonio Davis
+55,Basketball,McKenzie,Miles Brown
+56,Basketball,LaFayette,Obadiah Threadgill III
+57,Basketball,Vincent,Ernie Adkins
+58,Basketball,Geneva County,Joshua Thompson
+59,Basketball,Blacksher,James Bohannon
+60,Basketball,Thorsby,Russell Ricks
+61,Basketball,Red Bay,Matt Noah
+62,Basketball,North Sand Mountain,Cole Hicks
+63,Basketball,Sand Rock,Eddy Norris
+64,Basketball,Luverne,Richard Dorsey
+65,Basketball,Calhoun,Ervin Starr
+66,Basketball,Westbrook Christian,Seth Ford
+67,Basketball,Asbury,Johnny Pelham
+68,Basketball,Barbour County,Steve Fryer
+69,Basketball,Sheffield,Pervis Key
+70,Basketball,Sulligent,tommy chism
+71,Basketball,Daleville,blake garner
+72,Basketball,Aliceville,Christopher Walker
+73,Basketball,Cold Springs,Tim Burleson
+74,Basketball,Section,Derek wynn
+75,Basketball,Central of Coosa County,Jeremy Freeman
+76,Basketball,Sacred Heart Catholic,Ralpheal Graves
+77,Basketball,Chickasaw,Ricky Ruffin
+78,Basketball,Highland Home,Shawn Sellers
+79,Basketball,Hatton,Eric Tate
+80,Basketball,Zion Chapel,Jared Robison
+81,Basketball,Addison,Benjamin Mastin
+82,Basketball,Collinsville,Jon Tidmore
+83,Basketball,Hatch,Dewayne Thigpen
+84,Basketball,Ariton,Kelsey Prestwood
+85,Basketball,Tharptown,Shannon Benford
+86,Basketball,Altamont,Barry Bearden
+87,Basketball,Cottage Hill Christian Academy,John Price
+88,Basketball,Abbeville,Willam Helms
+89,Basketball,Goshen,Daniell Powell
+90,Basketball,Cottonwood,BJ Chitty
+91,Basketball,Central,Toiano Baker
+92,Basketball,West End,Sanford King
+93,Basketball,Cleveland,Justin Henley
+94,Basketball,Leroy,Nehemiah Henry
+95,Basketball,Long,Richard Tisdale
+96,Basketball,Ranburne,Dustin Smith
+97,Basketball,Ider,blake laney
+98,Basketball,Horseshoe Bend,Thomas Boyd
+99,Basketball,Houston County,Brandon Brown
+100,Basketball,Reeltown,Jonathan Gardner
+101,Basketball,Southern Choctaw,Jeremy Noland
+102,Basketball,Samson,"Bill Porter, Jr."
+103,Basketball,Woodland,robert jones
+104,Basketball,Washington County,Brian Henry
+105,Basketball,Gaston,Kolby Brannon
+106,Basketball,New Brockton,Tony Carter
+107,Basketball,Cedar Bluff,Joe Carpenter
+108,Basketball,Piedmont,tommy lewis
+109,Basketball,Thomasville,Buck williams
+110,Basketball,Plainview,robi coker
+111,Basketball,Winfield,Mike Jenkins
+112,Basketball,New Hope,Todd Jeffers
+113,Basketball,Oakman,Derek Roberts
+114,Basketball,Dadeville,Jessie Foster
+115,Basketball,Mobile Christian,Alan Brown
+116,Basketball,St. Michael Catholic,Daniel Nolan
+117,Basketball,Hanceville,Daniel Wakefield
+118,Basketball,Slocomb,Brett Singletary
+119,Basketball,Flomaton,Jarrod Green
+120,Basketball,Saks,Jonathon Miller
+121,Basketball,Opp,Willie Edwards
+122,Basketball,Hale County,Antwan Butler
+123,Basketball,Southside,Cedric Brown
+124,Basketball,Providence Christian,Chris Fain
+125,Basketball,Montgomery Academy,Anthony McCall
+126,Basketball,Geneva,Michael Crews
+127,Basketball,Midfield,Courtney Jones
+128,Basketball,Locust Fork,Barbara Roy
+129,Basketball,Bullock County,douglas moore
+130,Basketball,Gordo,Thomas Reese
+131,Basketball,Randolph County,Matthew Smith
+132,Basketball,St. James,Nigel Card
+133,Basketball,Carbon Hill,Garrett Kirkland
+134,Basketball,Pleasant Valley,ryan mccoy
+135,Basketball,Prattville Christian Academy,Jason Roberson
+136,Basketball,Bayside Academy,Ryan Campbell
+137,Basketball,Holt,Steven Watkins
+138,Basketball,Houston Academy,scott whitaker
+139,Basketball,Greene County,Rodney Wesley
+140,Basketball,Wicksburg,todd reynolds
+141,Basketball,Fultondale,phillip lawson
+142,Basketball,Lexington,Jake Herrera
+143,Basketball,Holly Pond,Mitch Morris
+144,Basketball,Phil Campbell,Shane Clay
+145,Basketball,Comer,Michael Hale
+146,Basketball,Weaver,wesley ginn
+147,Basketball,Straughn,Trevor Driver
+148,Basketball,Brindlee Mountain,Brian Pool
+149,Basketball,Susan Moore,Heath Lauderdale
+150,Basketball,Clements,Mike Holt
+151,Basketball,Lamar County,Ben Johnson
+152,Basketball,T.R. Miller,Terrence Walker
+153,Basketball,Beulah,Doug Warren
+154,Basketball,East Lawrence,Marrieo Davis
+155,Basketball,Holy Family Catholic,Darryl Hagler
+156,Basketball,Wellborn,Beau Winn
+157,Basketball,Lumen Christi,Adam Trombley
+158,Basketball,Blanka,Mickia Walcott
+159,Basketball,Ninilchik,josh demlow
+160,Basketball,Thorne Bay,mark gunkel
+161,Basketball,Nikolaevsk,Steve Klaich
+162,Basketball,Hydaburg,Bradley Stonecypher
+163,Basketball,Birchwood Christian,Micah Ellington
+164,Basketball,Alak,Frank Pickett
+165,Basketball,Andreafski,Tye Burgess
+166,Basketball,Minto,Bryon Charlie
+167,Basketball,Emmonak,Anna Lee
+168,Basketball,Sand Point,Ralph Lindquist
+169,Basketball,Cook Inlet Academy,Brian Moore
+170,Basketball,Skagway,Ross Barrett
+171,Basketball,Akiuk Memorial,Pete Schneidler Esai Twitchell Jr
+172,Basketball,King Cove,Randel Newman
+173,Basketball,Tukurngailngug,Ben Attinger
+174,Basketball,Nuiqsut Trapper,James Taalak
+175,Basketball,Andrews,Cody Thomason
+176,Basketball,Yakutat,"Bert Adams, Jr."
+177,Basketball,Noorvik,Darren Zibell
+178,Basketball,English,Mark Janes
+179,Basketball,Kiana,John Nagy
+180,Basketball,Marshall,Maurice Turet
+181,Basketball,Miller Memorial,william Coach
+182,Basketball,Cordova,Jason Boerger
+183,Basketball,Scammon Bay,Harley Sundown
+184,Basketball,Dillingham,Deon Lopez
+185,Basketball,Metlakatla,Tony Scott
+186,Basketball,Susitna Valley,Mike Matthews
+187,Basketball,Hooper Bay,Albert Green
+188,Basketball,Glennallen,James Fields
+189,Basketball,Tok,Ryan Becker
+190,Basketball,Kokrine Charter,Noah Harris
+191,Basketball,Degnan,Isaiah Towarak
+192,Basketball,Wrangell,Ray Stokes
+193,Basketball,Nenana,Collin stone
+194,Basketball,Craig,Tina Steffen
+195,Basketball,Eagle River Christian Academy,Stewart Allen
+196,Basketball,Seward,Curtis Berry
+197,Basketball,Grace Christian,Chuck Boerger
+198,Basketball,Anchorage Christian,Zack Madren
+199,Basketball,Barrow,Daniel Thomas
+200,Basketball,Delta,Bruce Reiter
+201,Basketball,Galena,Beth Buchanan
+202,Basketball,Bethel,David Cronk
+203,Basketball,Houston,David Portor
+204,Basketball,Homer,Mark Casseri
+205,Basketball,Nome-Beltz,Patrick Callahan
+206,Basketball,Kenai Central,Jim Beeson
+207,Basketball,Eielson,Joseph Ross
+208,Basketball,Sitka,andrew lee
+209,Basketball,Nikiski,Reid Kornstad
+210,Basketball,Kotzebue,Odell garland
+211,Basketball,Fort Thomas,Matthew Dona
+212,Basketball,North Valley Christian Academy,Randy Walker
+213,Basketball,Rock Point,Erick Johnson
+214,Basketball,Baboquivari,Justin Delgado
+215,Basketball,Duncan,Eldon Merrell
+216,Basketball,Mohave Accelerated,Joey Leslie
+217,Basketball,Joseph City,Eric Miller
+218,Basketball,NFL Yet Academy,Albert Ramirez
+219,Basketball,St. David,Nathan Richardson
+220,Basketball,Mogollon,Ron Tenney
+221,Basketball,Patagonia,Nate Porter
+222,Basketball,Anthem Prep,James Sinner
+223,Basketball,The Gregory School,Craig Everson
+224,Basketball,Williams,Troy Mortensen
+225,Basketball,El Capitan,Nathaniel Burnham
+226,Basketball,Arizona School for the Deaf & Blind,Gerald Brown
+227,Basketball,Tohono O'Odham,Elijah Castillo
+228,Basketball,Valley Union,Jeff Baker
+229,Basketball,Arete Prep,Mike Caviness
+230,Basketball,Salome,Brendan Bozic
+231,Basketball,Cibecue/Dischii Biko,Delmer Hooke
+232,Basketball,North Phoenix Preparatory Academy,Frank Reach
+233,Basketball,San Pasqual Valley,willis hawkins
+234,Basketball,St. Michael,Joshua Thompson
+235,Basketball,Grand Canyon,Catheryn Redmon
+236,Basketball,Superior,Ryan Palmer
+237,Basketball,Basis,Chris Bayer
+238,Basketball,Red Mesa,Hank Charleston
+239,Basketball,Immaculate Heart,Mark Hamby
+240,Basketball,Phoenix Day School for the Deaf,Lynn Foley
+241,Basketball,Bagdad,George Diehl
+242,Basketball,Mayer,Sam Stoltenberg
+243,Basketball,Ray,Dustin Bingham
+244,Basketball,Fredonia,Gordon Anderson
+245,Basketball,Academy of Tucson,Mark Lugo-Gomez
+246,Basketball,Green Fields School,Rick Elias
+247,Basketball,Trivium Prep,Ryan Nelson
+248,Basketball,Alchesay,Kyle Goklish
+249,Basketball,St. Augustine Catholic,Michael Reyna
+250,Basketball,Camp Verde,Daniel Wall
+251,Basketball,Scottsdale Christian Academy,Bob Fredericks
+252,Basketball,St. Johns,Rusty Oakes
+253,Basketball,Pima,Cliff Thompson
+254,Basketball,Miami,Ken Vargas
+255,Basketball,Glendale Prep Academy,Steve Silvernail
+256,Basketball,San Manuel,Damon Lovato
+257,Basketball,Thatcher,Rob Matindell
+258,Basketball,Chandler Prep,Cheyan Wilson
+259,Basketball,Arizona Lutheran Academy,Doug Meyer
+260,Basketball,Tonopah Valley,Benjamin Murphy
+261,Basketball,Valley,patrick boone
+262,Basketball,Phoenix Country Day,Shane Lewis
+263,Basketball,San Carlos,Terry Antonio
+264,Basketball,Rancho Solano Prep,Aaron Trigg
+265,Basketball,Leading Edge Academy - GEC,Joe Leon
+266,Basketball,Northland Prep Academy,TJ Harris
+267,Basketball,Desert Christian,Iram Alday
+268,Basketball,Cicero Prep Academy,Billy Hunt
+269,Basketball,Phoenix Christian,Mark Carlino
+270,Basketball,Parker,Rolland Hansen
+271,Basketball,Bisbee,Mike HernandeZ
+272,Basketball,Veritas Prep,Brooks Dockter
+273,Basketball,Gilbert Classical Academy,Darren Hatcher
+274,Basketball,Benson,Chris Taylor
+275,Basketball,Hopi,Rick Baker
+276,Basketball,Morenci,Patrick Hepper
+277,Basketball,Scottsdale Preparatory Academy,Mark Owens
+278,Basketball,Lincoln Prep,Paul Schubring
+279,Basketball,Globe,James Simmons
+280,Basketball,Red Rock,George Gleason
+281,Basketball,Round Valley,Travis Hinton
+282,Basketball,Antelope,Doug Ragels
+283,Basketball,Pinon,Alonzo Bert
+284,Basketball,Santa Rita,Cedric Martin
+285,Basketball,San Miguel,Ricky Dominguez
+286,Basketball,Valley Lutheran,Josh Meckes
+287,Basketball,St. John Paul II Catholic,John Salt
+288,Basketball,Willcox,Corey Downs
+289,Basketball,Many Farms,Gary Begay
+290,Basketball,Tombstone,David Thursby
+291,Basketball,North Pointe Prep,Rose Vargas
+292,Basketball,Tempe Prep,Jonathan Lambros
+293,Basketball,Santa Cruz Valley,Ronald Platerio
+294,Basketball,Heritage Academy,Kurt Gipson
+295,Basketball,Page,Justin Smith
+296,Basketball,Sabino,Marty Roth
+297,Basketball,Valley Christian,Greg Haagsma
+298,Basketball,Paradise Honors,Zach Hettel
+299,Basketball,American Leadership Academy,Ryan McCurdy
+300,Basketball,San Tan Foothills,Joe Galish
+301,Basketball,Winslow,Scott Corum
+302,Basketball,Northwest Christian,Jason Cook
+303,Basketball,Coronado,Mitch Armour
+304,Basketball,Gilbert Christian,Kurt Keener
+305,Basketball,Holbrook,Delmar Johnson
+306,Basketball,Chinle,Raul Mendoza
+307,Basketball,Chino Valley,Ravi Shetty
+308,Basketball,Pusch Ridge Christian Academy,Erik Michaud
+309,Basketball,Snowflake,Andy Wood
+310,Basketball,Fountain Hills,Jeffrey Bonner
+311,Basketball,Florence,David Silvas
+312,Basketball,Blue Ridge,Scott Catt
+313,Basketball,Kingman Academy,William McDavid
+314,Basketball,River Valley,jonathan clark
+315,Basketball,Tuba City,Roger Tsingine
+316,Basketball,Show Low,Matt Thacker
+317,Basketball,Sahuarita,Lee Smith
+318,Basketball,Odyssey Institute,Lynn Ramage
+319,Basketball,Monument Valley,Richard Beverly
+320,Basketball,Benjamin Franklin,Jeff Thomas
+321,Basketball,Yuma Catholic,Bret Felsenthal
+322,Basketball,Bourgade Catholic,Shelton Simmons
+323,Basketball,Window Rock,Tom Bizardi
+324,Basketball,Tanque Verde,Darren Gargus
+325,Basketball,Arizona College Prep,Clint Treadway
+326,Basketball,American Leadership Academy - Gilbert North,Mark Armstrong
+327,Basketball,Coolidge,Bryan Pyles
+328,Basketball,American Leadership Academy - Ironwood,Joe Lundstrom
+329,Basketball,Safford,Sheri Camarena
+330,Basketball,Kingman,Nick Juby
+331,Basketball,Ganado,Julian Chee
+332,Basketball,Catalina,Mark Gaxiola
+333,Basketball,Horizon Honors,Chris Henderson
+334,Basketball,Payson,Joe Sanchez
+335,Basketball,Montgomery Catholic,Mike Curry
+336,Basketball,Williamson,Shumbe Hunter
+337,Basketball,Brooks,Brian Wright
+338,Basketball,Talladega,Chuck Miller
+339,Basketball,Good Hope,Drew Adams
+340,Basketball,UMS-Wright Prep,Michael Napp
+341,Basketball,Montevallo,Greg Dickinson
+342,Basketball,Oneonta,Brandon Crews
+343,Basketball,Sipsey Valley,Adrian Scott
+344,Basketball,Anniston,Schuessler Ware
+345,Basketball,Booker T. Washington,Corvin Johnson
+346,Basketball,Dallas County,Clifford Nix
+347,Basketball,Handley,Blake Smalley
+348,Basketball,Jacksonville,Cordell Hunt
+349,Basketball,Sumter Central,Jazmin Mitchell
+350,Basketball,Hillcrest,Chenson Griffin
+351,Basketball,Headland,Mike Henry
+352,Basketball,White Plains,Chris Randall
+353,Basketball,Holtville,Michael Collins
+354,Basketball,Danville,Scott Ellis
+355,Basketball,North Jackson,Zac Barringer
+356,Basketball,West Morgan,Justin Henley
+357,Basketball,Childersburg,Johnny Johnson
+358,Basketball,Fairview,David Martin
+359,Basketball,Andalusia,Brad Goldman
+360,Basketball,American Christian Academy,Blake Thrasher
+361,Basketball,St. John Paul II,Stuart Allen
+362,Basketball,Lincoln,Jeff Lumpkin
+363,Basketball,Trinity Presbyterian,Matt Arrighi
+364,Basketball,Fayette County,Jason Johnsey
+365,Basketball,Kate Duncan Smith DAR,Kenny Downs
+366,Basketball,Dale County,James Edmonds
+367,Basketball,Loveless Academic Magnet Program,Marcus Townsend
+368,Basketball,Haleyville,Dylan Burleson
+369,Basketball,Cherokee County,Caleb Hays
+370,Basketball,Escambia County,Erin Straughn
+371,Basketball,Wilson,Jeremy Pounders
+372,Basketball,Central,Josh Bryant
+373,Basketball,Ashford,Chase Lewis
+374,Basketball,Greensboro,Barry Williams
+375,Basketball,W.S. Neal,stephen landrum
+376,Basketball,Monroe County,Anthony Hayes
+377,Basketball,Curry,Allan Henderson
+378,Basketball,Randolph School,Mike Morris
+379,Basketball,Northside,Robert Peoples
+380,Basketball,Alabama Christian Academy,Scott Galloway
+381,Basketball,Hokes Bluff,JEFFREY NOAH
+382,Basketball,Priceville,Darrell Haynes
+383,Basketball,Cordova,Wayne Jones
+384,Basketball,Elmore County,Warren Brown
+385,Basketball,Ashville,Tyler Cole
+386,Basketball,Leeds,Ron Hamilton
+387,Basketball,Tallassee,Keiven Mixson
+388,Basketball,Lawrence County,Royal Carpenter/Gary Steadman
+389,Basketball,Springville,Jeff Smith
+390,Basketball,Ramsay,Denton Johnson
+391,Basketball,Greenville,Marcus Mickles
+392,Basketball,Guntersville,Daniel Millard
+393,Basketball,Marbury,reginald brown
+394,Basketball,Sylacauga,Kent Fullington
+395,Basketball,Hamilton,Ethan Lawler
+396,Basketball,LeFlore,Jeffery Pope
+397,Basketball,Pleasant Grove,Jeremy Head
+398,Basketball,St. Paul's Episcopal,Adam Thomas
+399,Basketball,Citronelle,Roosevelt Moore
+400,Basketball,Woodlawn,Demetrius Turner
+401,Basketball,Jasper,Robert Epps
+402,Basketball,Central,Kelvin Lett
+403,Basketball,Arab,Justin Jonus
+404,Basketball,Wenonah,Audwin J Howard
+405,Basketball,Brewbaker Tech,Kendric Larkin
+406,Basketball,Southside,Chad Holderfield
+407,Basketball,Satsuma,Shep Shady
+408,Basketball,Charles Henderson,Doug Branson
+409,Basketball,Demopolis,Norvie Womack
+410,Basketball,Crossville,Tracy Hulgan
+411,Basketball,Briarwood Christian,Bobby Kerley
+412,Basketball,Scottsboro,Heath Lauderdale
+413,Basketball,Center Point,DARRIUS BUSSEY
+414,Basketball,Douglas,Corey Head
+415,Basketball,Faith Academy,Chad Applin
+416,Basketball,John Carroll Catholic,Scott Hawley
+417,Basketball,Munford,Jason Griffin
+418,Basketball,Sardis,Tracy Cheek
+419,Basketball,Mortimer Jordan,Josh Golden
+420,Basketball,West Point,Heith Yearwood
+421,Basketball,Jackson,Marcus Caster
+422,Basketball,Corner,Billy Conner
+423,Basketball,Beauregard,Justin Johnson
+424,Basketball,Rehobeth,Larry Easterwood
+425,Basketball,Carroll,Len Stanford
+426,Basketball,Valley,Marshon Harper
+427,Basketball,Moody,Shane Traylor
+428,Basketball,Etowah,james graves
+429,Basketball,Bibb County,Charles McCaleb
+430,Basketball,Vigor,Renardo Jackson
+431,Basketball,Russellville,Michael Smith
+432,Basketball,Ardmore,Kyle Owens
+433,Basketball,Boaz,Cale Black
+434,Basketball,Brewer,Jeff Thompson
+435,Basketball,Shelby County,Charles Dickinson
+436,Basketball,Parker,Reginald McGary
+437,Basketball,Jemison,Stacy McGehee
+438,Basketball,Dora,Michael Bridges
+439,Basketball,Central of Clay County,Josh Giddens
+440,Basketball,Huffman,Stephen Ward
+441,Basketball,Jemison,Howard Pride
+442,Basketball,Pinson Valley,Darrell Barber
+443,Basketball,Northridge,Coach Brantley
+444,Basketball,Albertville,Patrick Harding
+445,Basketball,Rain,Khari Palmer
+446,Basketball,Eufaula,Michael Smith
+447,Basketball,Selma,Ronald Lane
+448,Basketball,Helena,Chris Laatsch
+449,Basketball,Hartselle,Faron Key
+450,Basketball,Muscle Shoals,Neal Barker
+451,Basketball,Baldwin County,DeMarcus Mosley
+452,Basketball,Oxford,James Slaton
+453,Basketball,Hillcrest,Joe Childers
+454,Basketball,Minor,Torrance Beard
+455,Basketball,Dothan,Janasky L. Fleming
+456,Basketball,Buckhorn,Mark Blevins
+457,Basketball,Homewood,tim shepler
+458,Basketball,Gardendale,Trent Hosmer
+459,Basketball,Hazel Green,Jeremy Crutcher
+460,Basketball,Park Crossing,Vincent Royals
+461,Basketball,Gulf Shores,Clint Wigley
+462,Basketball,Bessemer City,Thaddeus Fitzpatrick
+463,Basketball,Saraland,Nathan Blaylock
+464,Basketball,Russell County,Ronnie Battle
+465,Basketball,Daphne,Cedric Yelding
+466,Basketball,Lanier,Brian Williams Sr.
+467,Basketball,Pelham,joel floyd
+468,Basketball,Cullman,Bobby Meyer
+469,Basketball,McAdory,James Poindexter
+470,Basketball,Athens,Stace Tedford
+471,Basketball,"Carver (Montgomery, AL)",JJ Jackson
+472,Basketball,Chelsea,Nicholas Baumbaugh
+473,Basketball,Columbia,Christopher Blanding
+474,Basketball,Opelika,john wadsworth
+475,Basketball,Robertsdale,"Marshall O. Davis, Jr."
+476,Basketball,Fort Payne,Micheal Banks
+477,Basketball,Shades Valley,Mike Burrus
+478,Basketball,Hueytown,Heath Burns
+479,Basketball,Blount,Jairus jackson
+480,Basketball,"Carver (Birmingham, AL)",Matt Player
+481,Basketball,Wetumpka,Christopher Washington
+482,Basketball,Stanhope Elmore,Terry Hardy
+483,Basketball,Paul W. Bryant,Shon Peck-Love
+484,Basketball,Benjamin Russell,Willie Hicks
+485,Basketball,Jackson-Olin,rodney dorsey
+486,Basketball,Lee,Bryant Johnson
+487,Basketball,Mountain Brook,bucky mcmillan
+488,Basketball,Fairhope,Solomon Johnson
+489,Basketball,Bob Jones,luther tiggs
+490,Basketball,McGill-Toolen,Phillip Murphy
+491,Basketball,Baker,David Armstrong
+492,Basketball,Thompson,Dru Powell
+493,Basketball,Hoover,Charles BURKETT
+494,Basketball,Huntsville,Christian Schweers
+495,Basketball,Oak Mountain,Chris Love
+496,Basketball,Austin,Major Deacon
+497,Basketball,Auburn,Chris Brandt
+498,Basketball,Spain Park,Don Quinn
+499,Basketball,Prattville,Scott Phillips
+500,Basketball,Florence,stevie martin
+501,Basketball,Enterprise,Rhett Harrelson
+502,Basketball,Vestavia Hills,Patrick Davis (need to remove him from Thompson)
+503,Basketball,Central,Bobby Wright
+504,Basketball,Tuscaloosa County,Curt Weeks
+505,Basketball,Gadsden City,Reginald Huff
+506,Basketball,Hewitt-Trussville,Jeff Baker
+507,Basketball,Grissom,Jake Moran
+508,Basketball,Smiths Station,Steven Davis
+509,Basketball,Murphy,Douglas July
+510,Basketball,James Clemens,Danny Petty
+511,Basketball,Bryant,Chenson Griffin
+512,Basketball,Theodore,Phillip Roebling
+513,Basketball,West Valley,Cornelius Mingo Sr.
+514,Basketball,East,Chuck Martin
+515,Basketball,Colony,Tom Berg
+516,Basketball,Dimond,Brad Lauwers
+517,Basketball,Lathrop,Matt Wilken
+518,Basketball,Soldotna,Nolan Rose
+519,Basketball,Ketchikan,Eric Stockhausen
+520,Basketball,Service,Mike` Wyne
+521,Basketball,Chugiak,Josi Schultz
+522,Basketball,Bartlett,Steve Drussell
+523,Basketball,West,Tonio Wyche
+524,Basketball,Kodiak,Ron Bryant
+525,Basketball,Palmer,Jeremy Arnhart
+526,Basketball,Wasilla,Ryan Engebretsen
+527,Basketball,Juneau-Douglas,Steve Potter
+528,Basketball,Eagle River,Robert Adkins
+529,Basketball,Akiuk Memorial,Pete Schneidler Esai Twitchell Jr
+530,Basketball,Miller Memorial,william Coach
+531,Basketball,Blanka,Mickia Walcott
+532,Basketball,King Cove,Randel Newman
+533,Basketball,Sand Point,Ralph Lindquist
+534,Basketball,Tukurngailngug,Ben Attinger
+535,Basketball,Andrews,Cody Thomason
+536,Basketball,Salpointe Catholic,Jim Reynolds
+537,Basketball,Catalina Foothills,Doug DAmore
+538,Basketball,St. Mary's,Damin Lopez
+539,Basketball,Buckeye,Randy Bland
+540,Basketball,Arcadia,Stephen Danford
+541,Basketball,Desert Edge,Scott Lovely
+542,Basketball,Gila Ridge,Joe Daily
+543,Basketball,Mesquite,Carlos Artis
+544,Basketball,Coconino,Mike Moran
+545,Basketball,Dysart,keegan cook
+546,Basketball,Lee Williams,Cain Atkinson
+547,Basketball,Moon Valley,Matt Elliott
+548,Basketball,Shadow Mountain,Curtis Millage
+549,Basketball,Flagstaff,Nick Walton
+550,Basketball,Deer Valley,jed dunn
+551,Basketball,Combs,Ben Johnson
+552,Basketball,Poston Butte,Mike Christenson
+553,Basketball,Bradshaw Mountain,Blair Hillig
+554,Basketball,Palo Verde,Marsharne Flannigan
+555,Basketball,Sahuaro,Jim Henry
+556,Basketball,Cactus,Dirk Walker
+557,Basketball,Pueblo,Jimmie Nelson Jr.
+558,Basketball,Rio Rico,Frank Arellano
+559,Basketball,Marcos de Niza,David Stark
+560,Basketball,Douglas,Abner Cortez
+561,Basketball,Canyon del Oro,Jason Apodaca
+562,Basketball,Cortez,John Jerome
+563,Basketball,Estrella Foothills,Rich Gutwein
+564,Basketball,Vista Grande,Henry Bias
+565,Basketball,Prescott,Travis Stedman
+566,Basketball,Lake Havasu,Ted Darnell
+567,Basketball,Youngker,Rodney Anderson
+568,Basketball,Casa Grande,Robert Peterson
+569,Basketball,Mohave,Kyle Morse
+570,Basketball,Greenway,Howard Mueller
+571,Basketball,Seton Catholic,Commander King
+572,Basketball,Washington,Ty Bauer
+573,Basketball,Amphitheater,Ben Hurley
+574,Basketball,Tempe,Tom Saltzstein
+575,Basketball,Yuma,Curtis Weber
+576,Basketball,Glendale,Scott Stafford
+577,Basketball,Saguaro,Lucas Ramirez
+578,Basketball,Apache Junction,Cornelius Turner
+579,Basketball,Mingus,Albert Rodriguez
+580,Basketball,Walden Grove,Jennifer Meza
+581,Basketball,Ironwood,Jordan Augustine
+582,Basketball,Buena,Dave Glasgow
+583,Basketball,Cactus Shadows,Zach Washut
+584,Basketball,Millennium,Ty Amundsen
+585,Basketball,Gilbert,Jay Caserio
+586,Basketball,South Mountain,Jeremy Soria
+587,Basketball,Sunnyslope,Ray Portela
+588,Basketball,Cienega,Farbod Safavi
+589,Basketball,Paradise Valley,Cory Bardet
+590,Basketball,Carl Hayden Community,Argie Rhymes
+591,Basketball,Sunrise Mountain,Gary Rath
+592,Basketball,McClintock,Samuel Dentz
+593,Basketball,Flowing Wells,Sean Spiece
+594,Basketball,Camelback,Marlon Rhymes
+595,Basketball,Centennial,Randy Lavender
+596,Basketball,Cholla,Masai Dean
+597,Basketball,Ironwood Ridge,Jon Kimberlin
+598,Basketball,Nogales,Ricardo De LA Riva
+599,Basketball,Horizon,Jerry Conner
+600,Basketball,Campo Verde,Mark Martinez
+601,Basketball,Willow Canyon,Joseph Colletti
+602,Basketball,Desert Mountain,Mark Schumaker
+603,Basketball,Apollo,Jacob Marin
+604,Basketball,Williams Field,JoVaughn McCoy
+605,Basketball,Marana,Sean Roebuck
+606,Basketball,Mountain View,Corey Duck
+607,Basketball,Sunnyside,Joel Palomarez
+608,Basketball,Central,Darren Bustos
+609,Basketball,Casteel,Brett Huston
+610,Basketball,Notre Dame Prep,Kyle Diemer
+611,Basketball,Independence,Matt Maragh
+612,Basketball,Desert View,Nino Sanchez
+613,Basketball,Rincon/University,Rich Utter
+614,Basketball,Agua Fria,Francisco Villa
+615,Basketball,Sierra Linda,Joshua Haagensen
+616,Basketball,Kellis,Duncan Thomson
+617,Basketball,Verrado,Craig Marcus
+618,Basketball,Maricopa,Paul Gretkierewicz
+619,Basketball,Goldwater,Nathan Stumpf
+620,Basketball,Fairfax,Josh Wray
+621,Basketball,Empire,Lawrence Cross
+622,Basketball,Metro Tech,Mario Murillo
+623,Basketball,North Canyon,Michael OGuinn
+624,Basketball,Desert Vista,Gino Crump
+625,Basketball,Skyline,James Capriotti
+626,Basketball,La Joya Community,Roger Lefebvre
+627,Basketball,Cesar Chavez,Gary Lee
+628,Basketball,Cibola,Ronald Bratton
+629,Basketball,Hamilton,Doug harris
+630,Basketball,Chandler,Jonathan Rother
+631,Basketball,Tucson High Magnet School,Daryl Jones
+632,Basketball,Brophy College Prep,Matt Hooten
+633,Basketball,Highland,Todd Fazio
+634,Basketball,Desert Ridge,Greg Ream
+635,Basketball,Liberty,Mark Wood
+636,Basketball,Mountain Pointe,Kaimarr Price
+637,Basketball,Mountain View,Gary Ernst
+638,Basketball,Shadow Ridge,Robert Bohon
+639,Basketball,Boulder Creek,Justin Collard
+640,Basketball,Corona del Sol,Neil MacDonald
+641,Basketball,Perry,Sam Duane
+642,Basketball,Basha,Mike Grothaus
+643,Basketball,Westview,Darryl Suber
+644,Basketball,Chaparral,Dan Peterson
+645,Basketball,Valley Vista,Ben Isai
+646,Basketball,Pinnacle,Charles Wilde
+647,Basketball,Kofa,Jeff Frazine
+648,Basketball,Mountain Ridge,Eli Lopez
+649,Basketball,Mesa,Scott Stansberry
+650,Basketball,Westwood,Troy Powell
+651,Basketball,Browne,Michael Lopez
+652,Basketball,Alhambra,Ernie Cobb
+653,Basketball,Tolleson,cameron johnson
+654,Basketball,Queen Creek,Daniel Bobik
+655,Basketball,O'Connor,Andra Rogers
+656,Basketball,Dobson,Rick McConnell
+657,Basketball,North,Ian Moore
+658,Basketball,Red Mountain,Chris Lemon
+659,Basketball,Maryvale,Don Dominguez
+660,Basketball,Copper Canyon,paul murphy
+661,Basketball,Joseph City,Eric Miller
+662,Basketball,Williams,Troy Mortensen
+663,Basketball,Mogollon,Ron Tenney
+664,Basketball,Grand Canyon,Catheryn Redmon
+665,Basketball,Basis,Chris Bayer
+666,Basketball,Mayer,Sam Stoltenberg

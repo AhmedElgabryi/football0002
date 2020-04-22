@@ -1,0 +1,3839 @@
+,sport,school,coach
+0,Badminton,Aragon,Linda Brown
+1,Badminton,Clayton Valley Charter,William Kong
+2,Badminton,De Anza,Eric Chandler
+3,Badminton,St. Mary's,Felicia Rowley
+4,Badminton,Vallejo,Mac McKenzie
+5,dance,Arkadelphia,Caroline Reed
+6,dance,Bauxite,Charlotte Tarver
+7,dance,Beebe,Alison Embrey-Fadely
+8,dance,Blytheville,Kandace McDonald
+9,dance,Carlisle,Tammy Morgenstern
+10,dance,Centennial,Audrey Abeyta
+11,dance,Century,Hallie Hano
+12,dance,Cibola,Jose Chacon
+13,dance,Denmark,Coach Kat
+14,dance,Dumas,Tarji Anderson-Russell
+15,dance,Farmington,Mychelle McGee
+16,dance,Gallup,Kristy Tiley
+17,dance,Gosnell,Breanne Gardner
+18,dance,Grants,Michele Dodds
+19,dance,Guerin,Maggie Weiner
+20,dance,Har-Ber,Dawn Rhodes
+21,dance,Hillcrest,Faith Stibal
+22,dance,Hot Springs,Katie Henson
+23,dance,Idaho Arts Charter,Amanda Bromund
+24,dance,John Marshall,Kacy Schwieder
+25,dance,Jonesboro,Caroline Crawford
+26,dance,Las Cruces,Audrey Solorzano
+27,dance,Little Rock Christian Academy,Carrie Long
+28,dance,McGehee,Kayla Bryant
+29,dance,Metea Valley,Erin Johnson
+30,dance,Moriarty,Taña Chavez
+31,dance,Mountain View,Lesia Morris
+32,dance,North Little Rock,Alexandria Rodgers
+33,dance,Oakley,Stacy Gillette
+34,dance,Payette,Keeli Phillips
+35,dance,Piedra Vista,Ashley Harris
+36,dance,Post Falls,Heidi Wagner
+37,dance,Richard,Maggie Jaskula
+38,dance,Rigby,Cassi Murdock
+39,dance,Rio Rancho,Courtney Willis
+40,dance,Rogers,Madeline Van Hoose
+41,dance,Rogers Heritage,Symphony Philp
+42,dance,Russellville,Nina Chiolino
+43,dance,Sandia Prep,Louie/Courtney Giannini
+44,dance,Severance,Devon Rosson
+45,dance,Silver,Kourtney Epps
+46,dance,Skyview,Annie Calhoun
+47,dance,Southside,Shani Kramer
+48,dance,Springdale,Kyla Gillespie
+49,dance,Syracuse,Cristina Powers
+50,dance,Teton,Rikki Beard
+51,dance,Timberline,Jennifer Smart & Ashley Maggard
+52,dance,Valencia,Cheyenne Tachias
+53,dance,Valley View,Holly Cockrell
+54,dance,Van Buren,Laura Rogers
+55,drill,Oceanside,Luis Aguilar
+56,drill,Sandia,Ann Holmes
+57,drill,Syracuse,Cristina Powers
+58,Basketball,Soda Springs,Wade Schvaneveldt
+59,Basketball,Melba,David Lenz
+60,Basketball,Cole Valley Christian,Annie Mintz
+61,Basketball,New Plymouth,Denise Oliver
+62,Basketball,Grangeville,Michelle Barger
+63,Basketball,Declo,Ashley Baker
+64,Basketball,Bear Lake,Brenda Messerly
+65,Basketball,Ririe,Jake Landon
+66,Basketball,Firth,Sharla Cook
+67,Basketball,West Jefferson,Jalena Dixon
+68,Basketball,Nampa Christian,Jaime Wood
+69,Basketball,Aberdeen,Ryan Wahlen
+70,Basketball,McCall-Donnelly,Cody Hansen
+71,Basketball,Orofino,Tessa Mullinix
+72,Basketball,Wendell,Delon Huse
+73,Basketball,St. Maries,Jay Sines
+74,Basketball,West Side,Ben Bennett
+75,Basketball,Salmon,Pat Behrens
+76,Basketball,Marsing,Jake Dugger
+77,Basketball,Vision,Robert McDougall
+78,Basketball,Sugar-Salem,Crystal Dayley
+79,Basketball,Parma,Michael Calkins
+80,Basketball,Timberlake,Matt Miller
+81,Basketball,Filer,Michael Amaya
+82,Basketball,Snake River,Jeff Steadman
+83,Basketball,Kellogg,Jana Nearing
+84,Basketball,Fruitland,Amber Drollinger
+85,Basketball,Marsh Valley,Kyle McQuivey
+86,Basketball,Kimberly,Stan Watts
+87,Basketball,Bonners Ferry,Rich Feickert
+88,Basketball,Payette,Tory Bratcher
+89,Basketball,Weiser,Laraine Harrison
+90,Basketball,Gooding,Ben Rayfield
+91,Basketball,South Fremont,Ryan Campbell
+92,Basketball,Priest River,Gary Stewart
+93,Basketball,Buhl,Karen Peterson
+94,Basketball,Bonneville,Ryan Erikson
+95,Basketball,Caldwell,William Rodgers
+96,Basketball,Century,Chris Shuler
+97,Basketball,Twin Falls,Nancy Jones
+98,Basketball,Preston,Ryan Harris
+99,Basketball,Middleton,Jacob Doty
+100,Basketball,Blackfoot,Courtnie Smith
+101,Basketball,Sandpoint,Jim Alsager
+102,Basketball,Kuna,Dennis Jordan
+103,Basketball,Burley,Amber Whiting
+104,Basketball,Jerome,Cory Musgrave
+105,Basketball,Bishop Kelly,Derek McCormick
+106,Basketball,Mountain Home,Brent Keener
+107,Basketball,Skyline,Tyrell Keck
+108,Basketball,Hillcrest,Cody Jackson
+109,Basketball,Nampa,Jack Dooley
+110,Basketball,Emmett,Stuart Peterson
+111,Basketball,Minico,Anna Bateman
+112,Basketball,Lakeland,Steve Seymour
+113,Basketball,Idaho Falls,David Vest
+114,Basketball,Wood River,Matt Newhouse
+115,Basketball,Vallivue,Jordan Ax
+116,Basketball,Canyon Ridge,Kevin Cato
+117,Basketball,Moscow,Robin Barnes
+118,Basketball,Ridgevue,Amos Lee
+119,Basketball,Columbia,Brian Thompson
+120,Basketball,Mountain View,connie skogrand
+121,Basketball,Timberline,Todd Simpson
+122,Basketball,Coeur d'Alene,Dale Poffenroth
+123,Basketball,Rigby,Troy Shippen
+124,Basketball,Boise,Kim Brydges
+125,Basketball,Lake City,James Anderson
+126,Basketball,Meridian,Stu Sells
+127,Basketball,Rocky Mountain,Cheryl Hutchinson
+128,Basketball,Eagle,Cody Pickett
+129,Basketball,Post Falls,Marc Allert
+130,Basketball,Highland,Gino Mariani
+131,Basketball,Madison,Allison Sessions
+132,Basketball,Borah,Jason Willer
+133,Basketball,Skyview,Cyndi Pasta
+134,Basketball,Centennial,Candace Thornton
+135,Basketball,North Idaho Christian,jerry bittner
+136,Basketball,Christian Center,Dan Kuetemeyer
+137,Basketball,Council,Dan Shumway
+138,Basketball,Garden Valley,Mike Chandler
+139,Basketball,Horseshoe Bend,Patrick Goff
+140,Basketball,Morton,Bob Becker
+141,Basketball,Simeon,Johnny Davenport
+142,Basketball,Grayslake Central,Steve Ikenn
+143,Basketball,Riverside-Brookfield,Dallas Till
+144,Basketball,MacArthur,MICHAEL WILLIAMS
+145,Basketball,Peoria,Demetrius Edwards
+146,Basketball,Central,Collin Kalamatas
+147,Basketball,Kankakee,Annette Brandy
+148,Basketball,Richland County,Mark Anselment
+149,Basketball,Mattoon,Amanda Aydt
+150,Basketball,Dixon,Luke Ravlin
+151,Basketball,Rich South,Brian Mays
+152,Basketball,Sycamore,Adam Wickness
+153,Basketball,Richwoods,Todd Hursey
+154,Basketball,Kenwood,Andre Lewis
+155,Basketball,Glenbard South,Morgan Kasperek
+156,Basketball,Jersey,Kevin Strebel
+157,Basketball,Geneseo,Scott Hardison
+158,Basketball,Washington,Kimberly Barth
+159,Basketball,Highland,Clint Hamilton
+160,Basketball,Mt. Zion,Shane Davis
+161,Basketball,Clemente,Mark Crawley
+162,Basketball,Providence Catholic,Eileen Copenhaver
+163,Basketball,Fenwick,David Power
+164,Basketball,Wauconda,Jaime Dennis
+165,Basketball,Marian Catholic,Dan Murray
+166,Basketball,Sacred Heart-Griffin,Steve Klunick
+167,Basketball,Boylan Catholic,Paul Perrone
+168,Basketball,Lanphier,Doug Collins
+169,Basketball,Westinghouse,Julius Carter III
+170,Basketball,Hillcrest,Ed Schodrof
+171,Basketball,Comer,Daryl Dildy
+172,Basketball,Payton College Prep,Josh Greenberg
+173,Basketball,Metamora,Brianna Morrow
+174,Basketball,Belvidere North,Aaron Leonard
+175,Basketball,Rock Island,Henry Hall
+176,Basketball,Resurrection,Jon Palicki
+177,Basketball,Perspectives Leadership/Technology,Antonio Reese
+178,Basketball,Hyde Park,Corey Morgan
+179,Basketball,Woodstock North,Michael Lewis
+180,Basketball,Richards,Jeff Kortz
+181,Basketball,Springfield,Brad Scheffler
+182,Basketball,Centralia,Katie Meador-Steffen
+183,Basketball,Vernon Hills,Paul Brettner
+184,Basketball,Dunlap,Heather Cassady
+185,Basketball,Sandwich,Chris Johnson
+186,Basketball,Deerfield,Danielle Ripkey
+187,Basketball,Kaneland,Kelsey Flanagan
+188,Basketball,Rochester,James Boudouris
+189,Basketball,Tinley Park,Ryan Honan
+190,Basketball,Back of the Yards College Prep,Alicia Maxwell
+191,Basketball,Galesburg,Evan Massey
+192,Basketball,Mahomet-Seymour,Nathan Seal
+193,Basketball,Oak Forest,Jeffrey Kelly
+194,Basketball,Agricultural Science,Shawn Finnin
+195,Basketball,Saint Ignatius College Prep,Cara Doyle
+196,Basketball,Mt. Vernon,Jeff Lonnon
+197,Basketball,Amundsen,Cole Hunton
+198,Basketball,Ottawa,Brent Moore
+199,Basketball,St. Francis,Sandy De Craene
+200,Basketball,LaSalle-Peru,Hollis Vickery
+201,Basketball,De La Salle,John Smith
+202,Basketball,Hampshire,Eric Samuelson
+203,Basketball,Morgan Park,Thomas Johnson
+204,Basketball,Alcott/DeVry Advantage Academy,Deandre Ross
+205,Basketball,Chicago Washington,Sara Kalemba
+206,Basketball,Northtown,Jorge Arreguin
+207,Basketball,Lemont,Tracy Rainey
+208,Basketball,Urbana,Chris Mennig
+209,Basketball,Sterling,Taylor Jackson
+210,Basketball,St. Laurence,George Shimko
+211,Basketball,Danville,Zack Patterson
+212,Basketball,Champaign Central,Pancho Moore
+213,Basketball,UIC College Prep,Freddy Corral
+214,Basketball,Trinity,Kim Coleman
+215,Basketball,Crystal Lake South,Mark Mucha
+216,Basketball,Triad,Mike Arbuthnot
+217,Basketball,Canton,Jessica Jones
+218,Basketball,Saint Viator,Jason Raymond
+219,Basketball,Antioch,Tim Borries
+220,Basketball,Brooks,Jasmine Robinson
+221,Basketball,Lincoln,Taylor Rohrer
+222,Basketball,Prairie Ridge,Tim Taege
+223,Basketball,Solorio,Arnell Seifer
+224,Basketball,Peoria Notre Dame,Layne Langholf
+225,Basketball,Streator,Beau Albert
+226,Basketball,Harvard,Larin Filip
+227,Basketball,Waterloo,Tim Augustine
+228,Basketball,Herrin,Bill Green
+229,Basketball,Steinmetz College Prep,Joseph Kaminski
+230,Basketball,Effingham,Jeff Schafer
+231,Basketball,Goode STEM Academy,Kelvyn Phillips
+232,Basketball,North Lawndale,Adrienne Godbold
+233,Basketball,Northside,Henry Henderson
+234,Basketball,Marion,Chris Roberts
+235,Basketball,Woodstock,Rick Prterson
+236,Basketball,Senn,Rene Long
+237,Basketball,Cahokia,Kenny Nance
+238,Basketball,Fenton,David Mello
+239,Basketball,Morris,Luke Windy
+240,Basketball,Muchin College Prep,Elizabeth Greenberg
+241,Basketball,Lake View,Nora Buganski
+242,Basketball,Ridgewood,Kristi Meade
+243,Basketball,Little Village,Kim Bulow
+244,Basketball,Charleston,Kyle Daubs
+245,Basketball,Glenwood,Marne Fauser
+246,Basketball,Elmwood Park,Marinelle Arenga
+247,Basketball,Carbondale,Brad Walker
+248,Basketball,Evergreen Park,Bruce Scaduto
+249,Basketball,Grayslake North,Roger Lass
+250,Basketball,Bulls College Prep,Antoine Simmons
+251,Basketball,Plano,Dave Lay
+252,Basketball,Thornton Fractional North,Julie Heintz
+253,Basketball,Johnson,Shawna Hughes
+254,Basketball,Rich Central,STEPHEN HILL
+255,Basketball,Springfield Southeast,Sandra Griffes-Devoe
+256,Basketball,Bogan,Diane Williams
+257,Basketball,Limestone,Tony Bentley
+258,Basketball,Pritzker,Caroline Schwartz
+259,Basketball,Crystal Lake Central,Derek Crabill
+260,Basketball,North Grand,Krei Meier
+261,Basketball,Mather,Archer Winberg / Courtney Lane
+262,Basketball,Mascoutah,Rebecca Harris
+263,Basketball,Taylorville,Paul Held
+264,Basketball,Bremen,Michael Thompson
+265,Basketball,Rochelle,Kay Dobbs
+266,Basketball,Rantoul,Renee Reed
+267,Basketball,Thornridge,Larry russell
+268,Basketball,Chicago Vocational,Peter Perkins
+269,Basketball,Centennial,Jeff Carleton
+270,Basketball,Bloomington,Tom Whiting
+271,Basketball,Decatur Eisenhower,Johnell Evans
+272,Basketball,Rich East,Jonnie Bass
+273,Basketball,Freeport,Greg Bridges
+274,Basketball,East Peoria,Khassandrae Brown
+275,Basketball,Belvidere,Christina Douglas
+276,Basketball,Illinois Math & Science,JaRod Tobler
+277,Basketball,Manual,Holly Nelson
+278,Basketball,Instituto Health Sciences,Robert Clanton
+279,Basketball,Hinsdale South,Jen Belmonte
+280,Basketball,North Chicago,d b
+281,Basketball,Prosser,Keshaun Thompson
+282,Basketball,Jacksonville,Brandon Radford
+283,Basketball,Edwardsville,Lori Blade
+284,Basketball,Benet Academy,Joe Kilbride
+285,Basketball,Lincoln-Way West,Ryan White
+286,Basketball,Maine West,Kim Demarigny
+287,Basketball,Joliet West,john placher
+288,Basketball,Whitney Young,Kristin Harper
+289,Basketball,Marist,Mary Connolly
+290,Basketball,Libertyville,Greg Pedersen
+291,Basketball,Homewood-Flossmoor,anthony smith
+292,Basketball,O'Fallon,Nick Knolhoff
+293,Basketball,Joliet Central,Laura Brumfiel
+294,Basketball,Fremd,dave yates
+295,Basketball,Downers Grove North,Stephan Bolt
+296,Basketball,Naperville North,Erin Colletti
+297,Basketball,Dundee-Crown,Joe Komaromy
+298,Basketball,Rockford Auburn,TBD
+299,Basketball,Geneva,Sarah Meadows
+300,Basketball,Evanston,Brittanny Johnson
+301,Basketball,York,Brandon Collings
+302,Basketball,Hersey,Mary Fendley
+303,Basketball,Bolingbrook,Christopher Smith
+304,Basketball,Stevenson,Ashley Graham
+305,Basketball,Maine South,Jeffrey Hamann
+306,Basketball,Lake Forest,Kyle Wilhelm
+307,Basketball,Wheaton North,David Eaton
+308,Basketball,Belleville West,Seth Garrett
+309,Basketball,McHenry,Rob Niemic
+310,Basketball,Bartlett,Joseph Eirich
+311,Basketball,Normal West,Corey Ostling
+312,Basketball,Lake Park,Brian Rupp
+313,Basketball,South Elgin,DAN MANDERNACK
+314,Basketball,Argo,Dan McCarthy
+315,Basketball,Lindblom,Dan L Lawson Jr
+316,Basketball,West Aurora,Teresa Waldinger
+317,Basketball,Barrington,Babbi Barreiro
+318,Basketball,Von Steuben,Lanh Morris
+319,Basketball,Thornwood,Kevin Green
+320,Basketball,Oswego,David Beebe
+321,Basketball,Lyons,Kelsey Sopron
+322,Basketball,Quincy,Brad Dance
+323,Basketball,Mother McAuley,Keisha Newell
+324,Basketball,Naperville Central,Andy Nussbaum
+325,Basketball,St. Charles North,Mike Tomczak
+326,Basketball,Glenbard West,Kristi Faulkner
+327,Basketball,Nazareth Academy,Edward Stritzel
+328,Basketball,Carmel,Benjamin Berg
+329,Basketball,Sandburg,Nicholas Fotopoulos
+330,Basketball,Buffalo Grove,Stephen Kolodziej
+331,Basketball,Huntley,Steve Raethz
+332,Basketball,Hononegah,Randy Weibel
+333,Basketball,Moline,Tracy Sant Amour
+334,Basketball,Guilford,Leon Smith
+335,Basketball,Lincoln-Way Central,Dave Campanile
+336,Basketball,Elk Grove,Jennifer Buxton
+337,Basketball,New Trier,Teri Rodgers
+338,Basketball,Lockport,Dan Kelly
+339,Basketball,Thornton,Keithan Holmes
+340,Basketball,Proviso East,Ezra PridGeon Jr
+341,Basketball,Glenbard East,Donald Finnie
+342,Basketball,Harlem,Beth Meyer
+343,Basketball,Zion-Benton,Tanya Johnson
+344,Basketball,Plainfield South,Lincoln DePaula
+345,Basketball,Kennedy,Jazmine Harris
+346,Basketball,Lincoln-Way East,Jim Nair
+347,Basketball,Jones,Nick Teich
+348,Basketball,Palatine,Mark Johnson
+349,Basketball,Lake Zurich,Chris Bennett
+350,Basketball,Oak Lawn,Mark Sevedge
+351,Basketball,Glenbrook North,Nick Capalbo
+352,Basketball,Curie,Caelynn Manning-Allen
+353,Basketball,Lane Tech,Megan Molloy
+354,Basketball,Willowbrook,Terry Harrell
+355,Basketball,Collinsville,Steve McFall
+356,Basketball,Grant Community,Kevin Geist
+357,Basketball,DeKalb,Tyler Bantz
+358,Basketball,Rolling Meadows,Ryan Kirkorsky
+359,Basketball,Waubonsie Valley,David Owles
+360,Basketball,Bloom,Ron Newquist
+361,Basketball,Prospect,Marie Miller
+362,Basketball,Addison Trail,Cory Little
+363,Basketball,Plainfield North,Jim Walter
+364,Basketball,Normal Community,Marcus Mann
+365,Basketball,Crete-Monee,Edward Ivory
+366,Basketball,Highland Park,Jolie Bechtel
+367,Basketball,Lincoln Park,LARRY WASHINGTON
+368,Basketball,Pekin,Brett McGinnis
+369,Basketball,Downers Grove South,Lyndsie Long
+370,Basketball,Stagg,Bill Turner
+371,Basketball,Streamwood,George Rosner
+372,Basketball,Leyden,Stephanie Kuzmanic
+373,Basketball,Hubbard,Elton Harris
+374,Basketball,Blue Island Eisenhower,Terrence Streater
+375,Basketball,Schurz,Beth Rosendahl
+376,Basketball,Aurora East,Lee Clayborn
+377,Basketball,Glenbrook South,Scott Nemecek
+378,Basketball,Thornton Fractional South,Jonathan Hill
+379,Basketball,Batavia,Kevin Jensen
+380,Basketball,Reavis,Tim Zasada
+381,Basketball,Plainfield Central,Armond Frazier
+382,Basketball,Cary-Grove,Tony Moretti
+383,Basketball,Hinsdale Central,Karen Persinger
+384,Basketball,Taft,Iveta Salkauske
+385,Basketball,Schaumburg,Jacqueline Storm
+386,Basketball,Oswego East,Abe Carretto
+387,Basketball,East Moline United,Carie Walker
+388,Basketball,Neuqua Valley,MIchael Williams
+389,Basketball,Metea Valley,Cedric Williams
+390,Basketball,Yorkville,Kim Wensits
+391,Basketball,Waukegan,Nicole Keith
+392,Basketball,Niles West,Kyle Braheny
+393,Basketball,Conant,Todd Strauch
+394,Basketball,Shepard,Rick Gamino
+395,Basketball,Larkin,Stephen Knapp
+396,Basketball,Belleville East,Amanda Kemezys
+397,Basketball,Warren Township,John Stanczykiewicz
+398,Basketball,Bradley-Bourbonnais,Mike Kohl
+399,Basketball,Romeoville,Julio Carrasco
+400,Basketball,Cicero Morton,Krissy Anthonsen
+401,Basketball,Rockford East,Greg Fiorucci
+402,Basketball,St. Charles East,Aubree Schuett
+403,Basketball,Minooka,Jeff Easthon
+404,Basketball,Proviso West,Terriel Cannon
+405,Basketball,Jacobs,Jonathon Reibel
+406,Basketball,Maine East,Nicole Rinaldi
+407,Basketball,Mundelein,Greg Dorgan
+408,Basketball,Plainfield East,Tony Waznonis
+409,Basketball,Glenbard North,Steve Wit
+410,Basketball,West Chicago,TJ Nall
+411,Basketball,Niles North,Dan Paxson
+412,Basketball,Wheeling,Matthew Weber
+413,Basketball,Wheaton-Warrenville South,Rob Kroehnke
+414,Basketball,Oak Park-River Forest,James P Coughlin
+415,Basketball,Elgin,Nicholas Bumbales
+416,Basketball,Jefferson,Amber Lee-Black
+417,Basketball,Alton,Tammy Talbert
+418,Basketball,Andrew,Bobby Matz
+419,Basketball,Mattoon,Amanda Aydt
+420,Basketball,Mt. Zion,Shane Davis
+421,Basketball,Lincoln,Taylor Rohrer
+422,Basketball,Mahomet-Seymour,Nathan Seal
+423,Basketball,Effingham,Jeff Schafer
+424,Basketball,Charleston,Kyle Daubs
+425,Basketball,Dixon,Luke Ravlin
+426,Basketball,Rock Falls,eric wolf
+427,Basketball,Winnebago,Judy Krause
+428,Basketball,Stillman Valley,Bobby Mellon
+429,Basketball,Byron,Eric Yerly
+430,Basketball,Mendota,John Hansen
+431,Basketball,Lutheran,Joni Carlson
+432,Basketball,Genoa-Kingston,Brendan Royalty
+433,Basketball,Oregon,Wendy Lambrigtsen
+434,Basketball,Rockford Christian,Chris Bork
+435,Basketball,Peoria,Demetrius Edwards
+436,Basketball,Richwoods,Todd Hursey
+437,Basketball,Normal West,Corey Ostling
+438,Basketball,Normal Community,Marcus Mann
+439,Basketball,Urbana,Chris Mennig
+440,Basketball,Danville,Zack Patterson
+441,Basketball,Champaign Central,Pancho Moore
+442,Basketball,Peoria Notre Dame,Layne Langholf
+443,Basketball,Bloomington,Tom Whiting
+444,Basketball,Centennial,Jeff Carleton
+445,Basketball,Eldorado,Wendy Kmucha
+446,Basketball,Hamilton County,Clint Winemiller
+447,Basketball,Fairfield,Tonya Conrad
+448,Basketball,Carmi-White County,Clinton Wolff
+449,Basketball,Edwards County,Johnathan Henton
+450,Basketball,Goreville,Mike Helton
+451,Basketball,Chester,Pat Knowles
+452,Basketball,Sesser-Valier/Waltonville,Rick Metcalf
+453,Basketball,Vienna,Jamie Kerley
+454,Basketball,Trico,Tony Berry
+455,Basketball,Knox,Neill Minix
+456,Basketball,Angola,Brandon Appleton
+457,Basketball,Brownstown Central,Brandon Allman
+458,Basketball,Benton Central,David Baxter
+459,Basketball,Salem,Jerry Hickey
+460,Basketball,Greensburg,Jason Simpson
+461,Basketball,Winchester Community,Holly Gutierrez
+462,Basketball,Evansville Memorial,Lee Auker
+463,Basketball,Lawrenceburg,Zane White
+464,Basketball,Washington,Gretchen Miles
+465,Basketball,Silver Creek,Scott Schoen
+466,Basketball,Gibson Southern,Kyle Brasher
+467,Basketball,Norwell,Eric Thornton
+468,Basketball,Mishawaka Marian,Steve Scott
+469,Basketball,Vincennes Lincoln,Travis Connor
+470,Basketball,Danville,Kaley May
+471,Basketball,Tri-West Hendricks,Tom Gliva
+472,Basketball,Edgewood,Gary Sims
+473,Basketball,Yorktown,Joy Matthews
+474,Basketball,Woodlan,Gary Cobb
+475,Basketball,Sullivan,Julie Meeks
+476,Basketball,South Bend Washington,Karis Phillips
+477,Basketball,Heritage Hills,Kim Brown
+478,Basketball,Tippecanoe Valley,Chris Kindig
+479,Basketball,Brown County,Matt Roberts
+480,Basketball,Speedway,Joe Smith
+481,Basketball,Heritage Christian,rick risinger
+482,Basketball,Oak Hill,Rodger Cameron
+483,Basketball,Bellmont,Andy Heim
+484,Basketball,West Lafayette,Jane Schott
+485,Basketball,Fort Wayne Bishop Luers,mark pixley
+486,Basketball,Garrett,Bob Lapadot
+487,Basketball,South Bend St. Joseph,Becca Bruszewski
+488,Basketball,Hanover Central,Luis Roldan
+489,Basketball,Lebanon,Candice Huckstep
+490,Basketball,Mt. Vernon,Doug Blair
+491,Basketball,Griffith,Dustin Nelson
+492,Basketball,Lakeland,Daniel Huizenga
+493,Basketball,Boonville,Jason Gansman
+494,Basketball,Indianapolis Cardinal Ritter,Tom Downard
+495,Basketball,Central Noble,Josh Treesh
+496,Basketball,Jay County,Kirk Comer
+497,Basketball,Fort Wayne Concordia Lutheran,Dave Miller
+498,Basketball,Indian Creek,Brian Ferris
+499,Basketball,Heritage,Melissa Connor
+500,Basketball,Eastern,Andy Steele
+501,Basketball,Mississinewa,Laura Friday
+502,Basketball,Peru,David Weeks
+503,Basketball,North Harrison,Barry Geltmaker
+504,Basketball,Charlestown,scott matthews
+505,Basketball,Kankakee Valley,Douglas Nelson
+506,Basketball,Hamilton Heights,Keegan Cherry
+507,Basketball,Rushville,Melissa Marlow
+508,Basketball,Indianapolis Bishop Chatard,Katie Fisher
+509,Basketball,Scottsburg,Donna Cheatham
+510,Basketball,South Vermillion,scott jones
+511,Basketball,Corydon Central,Michael Uhl
+512,Basketball,Wheeler,Amanda Gibson
+513,Basketball,Indianapolis Washington,Damon Lee
+514,Basketball,Greencastle,Kellie Kirkhoff
+515,Basketball,West Noble,Dale Marano
+516,Basketball,Fort Wayne Bishop Dwenger,Steve Wiktorowski
+517,Basketball,West Vigo,Jon Kirchoff
+518,Basketball,North Montgomery,Ryan Nuppnau
+519,Basketball,Calumet New Tech,Trevor Borom
+520,Basketball,Western,Lisa Pflueger
+521,Basketball,Glenn,Kyle Amor
+522,Basketball,Maconaquah,Pete Hatcher
+523,Basketball,Guerin Catholic,Marc Quaranta
+524,Basketball,Twin Lakes,Brad Bowsman
+525,Basketball,Franklin County,Joe Adams
+526,Basketball,Wawasee,Matt Carpenter
+527,Basketball,Monrovia,Kevin Rounds
+528,Basketball,Northview,zack keyes
+529,Basketball,Pike Central,Randy Graham
+530,Basketball,Indianapolis Shortridge,Michael Fox
+531,Basketball,Beech Grove,Kristin Raker
+532,Basketball,Princeton,Charles Mair
+533,Basketball,Batesville,Bryan Helvie
+534,Basketball,South Bend Clay,Mark Westendorp
+535,Basketball,Owen Valley,Trace Temples
+536,Basketball,Indianapolis Emmerich Manual,Jim Sturgeon
+537,Basketball,Crawfordsville,Tyler Smith
+538,Basketball,Brebeuf Jesuit Preparatory,Erin Miller
+539,Basketball,Muncie Burris,David Harman
+540,Basketball,Delta,Andy Lewman
+541,Basketball,River Forest,Brad Redelman
+542,Basketball,South Dearborn,Doug Robertson
+543,Basketball,New Prairie,Todd Dermody
+544,Basketball,Herron,Lisa Myers
+545,Basketball,Hammond,Eundee Kyles
+546,Basketball,Leo,Carrie Shappell
+547,Basketball,New Castle,Molly Swift
+548,Basketball,Evansville Bosse,Garland Copeland
+549,Basketball,Frankfort,Joe Marsh
+550,Basketball,Hammond Gavit,Alana Anderson
+551,Basketball,Hammond Clark,Okeisha Howard
+552,Basketball,Culver Academies,Gary Christlieb
+553,Basketball,Jimtown,Alicia Harkins
+554,Basketball,Northwestern,Kathie Layden
+555,Basketball,Crown Point,Chris Seibert
+556,Basketball,Homestead,Rod parker
+557,Basketball,Fishers,Will Staal
+558,Basketball,Mt. Vernon,Julie Shelton
+559,Basketball,Penn,Kristi Ulrich
+560,Basketball,Hamilton Southeastern,Chris Huppenthal
+561,Basketball,Harrison,Rush McColley
+562,Basketball,Lawrence North,Chris Giffin
+563,Basketball,Martinsville,Jessi Johnson
+564,Basketball,East Central,Kevin Moore
+565,Basketball,Munster,Jim Davidson
+566,Basketball,Bedford North Lawrence,Jeff Allen
+567,Basketball,Center Grove,Kevin Stuckmeyer
+568,Basketball,Evansville North,Tyler Choate
+569,Basketball,Portage,Marc Bruner
+570,Basketball,Goshen,Shaun Hill
+571,Basketball,Chesterton,Marney Sisson
+572,Basketball,Carroll,mark redding
+573,Basketball,Roncalli,Stan Benge
+574,Basketball,LaPorte,Rob Walker
+575,Basketball,Brownsburg,Debbie Guckenberger
+576,Basketball,Warren Central,Stacy Mitchell
+577,Basketball,Marion,Lawrence Jordan
+578,Basketball,New Palestine,Sarah Gizzi
+579,Basketball,Castle,bob meier
+580,Basketball,Warsaw,Lenny Krebs
+581,Basketball,Mooresville,Mark Hurt
+582,Basketball,Columbus East,danny brown
+583,Basketball,Huntington North,Matt Hinds
+584,Basketball,Concord,Cassie Cepeda
+585,Basketball,Columbia City,Amy Shearer
+586,Basketball,Elkhart Central,william coatie
+587,Basketball,Carmel,Erin Trimpe
+588,Basketball,Columbus North,Patrick McKee
+589,Basketball,Fort Wayne South Side,Juanita Goodwell
+590,Basketball,Lawrence Central,Antoine Wynne
+591,Basketball,North Central,DeeAnn Ramey
+592,Basketball,Bloomington South,Larry Winters
+593,Basketball,Merrillville,Amy Govert
+594,Basketball,Lowell,Kelly Chavez
+595,Basketball,Cathedral,Lisa Finn
+596,Basketball,Lake Central,Joe Huppenthal
+597,Basketball,Valparaiso,Candy Wilson
+598,Basketball,Fort Wayne Northrop,Rashida Muhammad
+599,Basketball,Anderson,Shannon Cleckley
+600,Basketball,Westfield,ginny smith
+601,Basketball,Jeffersonville,Michael Warren
+602,Basketball,McCutcheon,Jeff Knoy
+603,Basketball,Franklin Central,Vince Cerbone
+604,Basketball,Pendleton Heights,Chad Cook
+605,Basketball,South Bend Riley,Suntana Anderson
+606,Basketball,Ben Davis,Joe Lentz
+607,Basketball,Plymouth,David Duncan
+608,Basketball,Richmond,Shane Hillard
+609,Basketball,Jasper,Jessica Mehringer
+610,Basketball,Decatur Central,Daryl Gibbs
+611,Basketball,Southport,Adam morelock
+612,Basketball,Plainfield,Curt Benge
+613,Basketball,Avon,Corie West
+614,Basketball,Terre Haute North Vigo,Mike Allen
+615,Basketball,Michigan City,Mike Megyese
+616,Basketball,Whiteland,Kyle Shipp
+617,Basketball,Noblesville,Donna Buckley
+618,Basketball,Greenfield-Central,Bradley Key
+619,Basketball,Hobart,Tim Feddeler
+620,Basketball,Franklin Community,josh sabol
+621,Basketball,Northridge,Douglas Springer
+622,Basketball,Jennings County,Kristi Sigler
+623,Basketball,Highland,Tracie Mezera
+624,Basketball,Evansville Reitz,Gary Loveless
+625,Basketball,East Noble,DeAnn Booth
+626,Basketball,Indianapolis Crispus Attucks,James Banks
+627,Basketball,Bloomington North,Jeff Turmail
+628,Basketball,Terre Haute South Vigo,Will Staal
+629,Basketball,Seymour,Jason Longmeier
+630,Basketball,Perry Meridian,Mike Armstrong
+631,Basketball,Muncie Central,Ronnie Howell
+632,Basketball,New Albany,Tammy Geron
+633,Basketball,South Bend Adams,Leon Scott
+634,Basketball,Evansville Central,David Alexander
+635,Basketball,Zionsville,Andy Maguire
+636,Basketball,Indianapolis Arsenal Technical,Kevin Merriweather
+637,Basketball,Logansport,Meranda Cooper
+638,Basketball,Floyd Central,Kirk Hamsley
+639,Basketball,Greenwood,Justin Bennett
+640,Basketball,Fort Wayne Snider,Gregory Addison
+641,Basketball,Gary West Side,shanee butler
+642,Basketball,Lafayette Jefferson,Andy Baker
+643,Basketball,Hammond Morton,Deandre Williams
+644,Basketball,Fort Wayne Wayne,Lacia Gorman
+645,Basketball,New Haven,MyQueisha Bratton
+646,Basketball,Kokomo,Tod Windlan
+647,Basketball,Shelbyville,Becca Hoefler
+648,Basketball,DeKalb,Brett Eltzroth
+649,Basketball,Pike,Robert Anglea
+650,Basketball,Fort Wayne North Side,Michael Wallace
+651,Basketball,Mishawaka,Sarah DeShone
+652,Basketball,Woodlan,Gary Cobb
+653,Basketball,Jay County,Kirk Comer
+654,Basketball,Adams Central,Doug Curtis
+655,Basketball,South Adams,Brett Freeman
+656,Basketball,Heritage,Melissa Connor
+657,Basketball,Southern Wells,Jessica Killingbeck
+658,Basketball,Vincennes Lincoln,Travis Connor
+659,Basketball,Washington,Gretchen Miles
+660,Basketball,Boonville,Jason Gansman
+661,Basketball,Mt. Carmel,tim willis
+662,Basketball,Jasper,Jessica Mehringer
+663,Basketball,Mt. Vernon,Doug Blair
+664,Basketball,Loogootee,Chad Wade
+665,Basketball,Vincennes Rivet,Tim Young
+666,Basketball,South Knox,Hollie Eaves
+667,Basketball,Barr-Reeve,Bret Graber
+668,Basketball,North Knox,steve meurer
+669,Basketball,Northeast Dubois,Andy Chinn
+670,Basketball,Wood Memorial,Johnnie Bartley
+671,Basketball,Shoals,Kyle Turpin
+672,Basketball,Oak Hill,Rodger Cameron
+673,Basketball,Frankton,Stephan Hamaker
+674,Basketball,Mississinewa,Laura Friday
+675,Basketball,Blackford,Mitch Waters
+676,Basketball,Eastbrook,Jeff Liddick
+677,Basketball,Alexandria-Monroe,Gregory Warren
+678,Basketball,Madison-Grant,Brandon Bradley
+679,Basketball,Crosspointe Christian Academy,Justin Schellenberg
+680,Basketball,Tabernacle Christian,Justin Scholl
+681,Basketball,Indiana Christian Academy,Daniel Stevens
+682,Basketball,Colonial Christian,Dan Dawson
+683,Basketball,Heritage Hall Christian,Liz Halleck
+684,Basketball,Osage,Chad Erickson
+685,Basketball,West Marshall,Fred Zeller
+686,Basketball,Red Oak,Maddie Gelber
+687,Basketball,Gilbert,Mike Frisk
+688,Basketball,West Liberty,Nick Heath
+689,Basketball,Cherokee Washington,Heath Hagberg
+690,Basketball,South Central Calhoun,Eric Francis
+691,Basketball,Pocahontas,Robert Maske
+692,Basketball,Assumption,Katelyn McNamara
+693,Basketball,Central Lee,Jerry Ireland
+694,Basketball,Benton,Laurie Donald
+695,Basketball,Creston,Tony Neubauer
+696,Basketball,Algona,Brad Sudol
+697,Basketball,Eddyville-Blakesburg-Fremont,Tony Fenton
+698,Basketball,Spirit Lake,BJ Mayer
+699,Basketball,East Sac County,Mike Fischer
+700,Basketball,Northeast,Johnny Driscoll
+701,Basketball,Nevada,Tony Neubauer
+702,Basketball,PCM,Jeff Lindsay
+703,Basketball,New Hampton,Chad Pemble
+704,Basketball,Williamsburg,Austin Mullikin
+705,Basketball,Beckman,Chad Thomason
+706,Basketball,Tipton,Chad Rezac
+707,Basketball,Anamosa,Doug Arnold
+708,Basketball,Sheldon,Kris Groff
+709,Basketball,Greene County,Tyler Westhoff
+710,Basketball,Clarke,Jeb ESLICK
+711,Basketball,South Tama County,Todd Dale
+712,Basketball,Saydel,Scott Powell
+713,Basketball,Marion,Sheryl Gaffney-Paige
+714,Basketball,Bishop Heelan Catholic,Darron Koolstra
+715,Basketball,Keokuk,Michael Davis
+716,Basketball,Maquoketa,James Doepke
+717,Basketball,Lewis Central,Derek Archer
+718,Basketball,Clear Creek-Amana,Eric Gjerde
+719,Basketball,A-D-M,Jim Depue
+720,Basketball,Decorah-North Winneshiek,Shannon Quandahl
+721,Basketball,Fairfield,Jeff Miller
+722,Basketball,Winterset,Andy Pickering
+723,Basketball,Mason City,Curt Klaahsen
+724,Basketball,Central Clinton,Chad Specht
+725,Basketball,Washington,Jordan Bentley
+726,Basketball,Carlisle,Jim Flaws
+727,Basketball,Spencer,Don Martindale
+728,Basketball,Western Dubuque,Casey Bryant
+729,Basketball,Perry,Cassandra Smith
+730,Basketball,Fort Madison,charles knipe
+731,Basketball,Hoover,jason karaidos
+732,Basketball,Storm Lake,Mike Wabeke
+733,Basketball,Clinton,Cathy Marx
+734,Basketball,Iowa City,bill mctaggart
+735,Basketball,Davenport North,Richard Uthoff
+736,Basketball,Dowling Catholic,Kristin Meyer
+737,Basketball,Valley,Josef Sigrist
+738,Basketball,"Lincoln (Council Bluffs, IA)",Chad Schaa
+739,Basketball,Indianola,Chris Honeck
+740,Basketball,Urbandale,Kenton Tennal
+741,Basketball,Iowa City West,BJ Mayer
+742,Basketball,Hempstead,Everette Locklear
+743,Basketball,Pleasant Valley,Jennifer Goetz
+744,Basketball,Ames,Joel Sullivan
+745,Basketball,Dubuque Senior,Dusty Rogers
+746,Basketball,"Jefferson (Council Bluffs, IA)",Nicole Vetter
+747,Basketball,Des Moines North,haywood boston
+748,Basketball,Des Moines East,Sam Powell
+749,Basketball,Burlington,Dee Warner
+750,Basketball,"Jefferson (Cedar Rapids, IA)",Larry Niemeyer
+751,Basketball,Diagonal,Jim Goins
+752,Basketball,Ankeny Christian Academy,Christopher Harken
+753,Basketball,Dowling Catholic,Kristin Meyer
+754,Basketball,Urbandale,Kenton Tennal
+755,Basketball,Ames,Joel Sullivan
+756,Basketball,Valley,Josef Sigrist
+757,Basketball,Mason City,Curt Klaahsen
+758,Basketball,Des Moines North,haywood boston
+759,Basketball,Des Moines East,Sam Powell
+760,Basketball,Hoover,jason karaidos
+761,Basketball,Nemaha Central,Hadden Hiltgen
+762,Basketball,Riley County,Harold Oliver
+763,Basketball,Frontenac,Scott Fields
+764,Basketball,Eureka,Shelly Hoyt
+765,Basketball,Halstead,Derek Schutte
+766,Basketball,Cheney,Rod Scheer
+767,Basketball,Haven,Dwight Roper
+768,Basketball,Scott,Sarah McCormick
+769,Basketball,Phillipsburg,Rachel Miller
+770,Basketball,Sabetha,Nate Bauman
+771,Basketball,Colby,Tom Stephens
+772,Basketball,Wellsville,Brock Campbell
+773,Basketball,Cherryvale,David Smedley
+774,Basketball,Galena,Preston Scarrow
+775,Basketball,Hugoton,Emmanuel Adigun
+776,Basketball,Hesston,Matt Richardson
+777,Basketball,Beloit,Shauna Remus
+778,Basketball,Trinity Academy,Lori Broadie
+779,Basketball,Anderson County,Amy Disbrow
+780,Basketball,Cimarron,Eli Applegate
+781,Basketball,Jefferson West,John Malloy
+782,Basketball,Norton,George Rossi
+783,Basketball,Rock Creek,Mike Zabel
+784,Basketball,Council Grove,Jason Shelangouski
+785,Basketball,Goodland,Ronnie Wolf
+786,Basketball,Osage City,Chris Kirkpatrick
+787,Basketball,Columbus,Marty Atnip
+788,Basketball,Humboldt,Aubrey Jones
+789,Basketball,Baxter Springs,Kris Crotts
+790,Basketball,Atchison County,Mike Eckert
+791,Basketball,Silver Lake,Tyler Stewart
+792,Basketball,Perry-Lecompton,Jami Hodge
+793,Basketball,Lakin,Vanessa Esquibel
+794,Basketball,Thomas More Prep-Marian,Rose McFarland
+795,Basketball,St. Marys,Randy Wild
+796,Basketball,Santa Fe Trail,Denver Ramsey
+797,Basketball,Osawatomie,Hayley Jones
+798,Basketball,Anthony-Harper-Chaparral,Kyle Regier
+799,Basketball,Lyons,Bj Smith
+800,Basketball,Hiawatha,Jolene Bannister
+801,Basketball,Marysville,Amy Renyer
+802,Basketball,Russell,Frank Schulte
+803,Basketball,Burlington,Doug Stewart
+804,Basketball,Pleasant Ridge,Michael Koontz
+805,Basketball,Holcomb,Andrea Ardery
+806,Basketball,Fredonia/Elk Valley,Chad Estes
+807,Basketball,Collegiate,Brett Gunderson
+808,Basketball,Hoisington,Mandy Mason
+809,Basketball,Smoky Valley,Larry Van Der Wege
+810,Basketball,Caney Valley,Emily Washburn
+811,Basketball,Minneapolis,Bryan Weatherman
+812,Basketball,Prairie View,Brianna Haupt
+813,Basketball,Maur Hill Prep-Mount Academy,Luke Noll
+814,Basketball,West Franklin,Trish Rogers
+815,Basketball,Royal Valley,Kyle Porter
+816,Basketball,Kingman,Bill Kelley
+817,Basketball,Concordia,Michael Wahlmeier
+818,Basketball,Southwestern Heights,Bob Murphy
+819,Basketball,Larned,Ashley Crosby
+820,Basketball,Nickerson,Jon McLean
+821,Basketball,Piper,Shane Stout
+822,Basketball,Bishop Miege,terry english
+823,Basketball,Circle,Brian Henry
+824,Basketball,Labette County,Heather Wilson
+825,Basketball,Chapman,Drew Gruver
+826,Basketball,Baldwin,Bob Martin
+827,Basketball,Clay Center,Jeff Edwards
+828,Basketball,Andale,ted anderson
+829,Basketball,Chanute,Dustin Fox
+830,Basketball,Buhler,Jack Conkling
+831,Basketball,Girard,Brad Herlocker
+832,Basketball,Holton,Kurt Haussler
+833,Basketball,Clearwater,Casey Carlson
+834,Basketball,Independence,James Cole
+835,Basketball,Wellington,Eric Adams
+836,Basketball,Paola,Stuart Ross
+837,Basketball,Rose Hill,Greg Welch
+838,Basketball,Hayden,Carvel Reynoldson
+839,Basketball,Iola,Becky Carlson
+840,Basketball,Louisburg,Shawn Lowry
+841,Basketball,Atchison,Andrew Lillie
+842,Basketball,Winfield,Jason VenJohn
+843,Basketball,Fort Scott,Jeff Armstrong
+844,Basketball,Abilene,Mike Liby
+845,Basketball,Field Kindley,Anita Walker
+846,Basketball,Ottawa,Matt Schurman
+847,Basketball,Tonganoxie,Mitch Loomis
+848,Basketball,Augusta,Rainey Maloy
+849,Basketball,El Dorado,Jordan Crawford
+850,Basketball,Ulysses,Tim Hofferber
+851,Basketball,Mulvane,Daniel Myears
+852,Basketball,McPherson,Chris Strathman
+853,Basketball,"Central (Andover, KS)",Stana Jefferson
+854,Basketball,Seaman,Matt Tinsley
+855,Basketball,Aquinas,Rick Hetzel
+856,Basketball,Maize South,Ben Hamilton
+857,Basketball,Bishop Carroll,Taylor Dugan
+858,Basketball,Schlagle,Sonya Scott
+859,Basketball,"Central (Salina, KS)",Chris Fear
+860,Basketball,Maize,Jerrod Handy
+861,Basketball,Basehor-Linwood,Noah Simpson
+862,Basketball,Lansing,KC Simmons
+863,Basketball,De Soto,Ryan Robie
+864,Basketball,Goddard,Kevin Hackerott
+865,Basketball,Kapaun Mt. Carmel,Billy Graf
+866,Basketball,Sumner Academy,Todd wassmann
+867,Basketball,Blue Valley Southwest,TJ Taylor
+868,Basketball,St. James Academy,Greg Hohensinner
+869,Basketball,Shawnee Heights,Bob Wells
+870,Basketball,Northwest,Deitric Sanders
+871,Basketball,Eisenhower,Matt Brumley
+872,Basketball,Pittsburg,Eric Flaton
+873,Basketball,Bonner Springs,Nick Schuster
+874,Basketball,South,Ryan Stuart
+875,Basketball,Emporia,Carolyn Lee
+876,Basketball,Andover,Seth Anderson
+877,Basketball,Valley Center,Trent Preheim
+878,Basketball,Spring Hill,Clay Frigon
+879,Basketball,Highland Park,Sanetra Jackson
+880,Basketball,Great Bend,Jason Tatkenhorst
+881,Basketball,Hays,Kyle Porter
+882,Basketball,Leavenworth,Ryan Foster
+883,Basketball,Arkansas City,Brandon Pride
+884,Basketball,Washington,Katrena Richard
+885,Basketball,Newton,Kate Bremerman
+886,Basketball,West,David Meseke
+887,Basketball,Liberal,Carter Kruger
+888,Basketball,Topeka,Hannah Alexander
+889,Basketball,Derby,Jodie Karsak
+890,Basketball,Heights,Kip Pulliam
+891,Basketball,Blue Valley North,Ann Fritz
+892,Basketball,Olathe East,Brian Martin
+893,Basketball,Washburn Rural,kevin bordewick
+894,Basketball,Dodge City,Kelley Snodgrass
+895,Basketball,Shawnee Mission Northwest,Tyler Stewart
+896,Basketball,Olathe West,Rick Rhoades
+897,Basketball,Olathe North,Nick Bradford
+898,Basketball,Olathe Northwest,Joel Branstrom
+899,Basketball,Shawnee Mission West,Ryan Foster
+900,Basketball,Olathe South,Mike Allen
+901,Basketball,Blue Valley,Ryan Mahoney
+902,Basketball,Shawnee Mission East,Austin Klumpe
+903,Basketball,Hutchinson,tom clark
+904,Basketball,Manhattan,Scott Mall
+905,Basketball,Southeast,Donald Dixon
+906,Basketball,Garden City,Matt Pfeifer
+907,Basketball,Harmon,Mr. Bryant Tucker Sr.
+908,Basketball,Lawrence Free State,Bryan Duncan
+909,Basketball,East,James Cole
+910,Basketball,West,Mironda Moore
+911,Basketball,"North (Shawnee Mission, KS)",Amanda McNeill
+912,Basketball,"South (Shawnee Mission, KS)",Terry Tinich
+913,Basketball,Mill Valley,John McFall
+914,Basketball,Lawrence,Jeff Dickson
+915,Basketball,Gardner-Edgerton,Scott Schaefer
+916,Basketball,Blue Valley West,Rick Strecker
+917,Basketball,Blue Valley North West,Matthew Shulman
+918,Basketball,"North (Wichita, KS)",Michael Bailey
+919,Basketball,Junction City,Tim Testa
+920,Basketball,Wyandotte,William Wells
+921,Basketball,"South (Wichita, KS)",David Clark
+922,Basketball,Flint Hills Christian,Stacie Kemler
+923,Basketball,Washington County HomeSchool,Casey Parham
+924,Basketball,Tyro Christian,Terry Byrd
+925,Basketball,Wichita HomeSchool,trey hall
+926,Basketball,Reno County HomeSchool,BRIAN DEETZ
+927,Basketball,Derby,Jodie Karsak
+928,Basketball,Maize,Jerrod Handy
+929,Basketball,Hutchinson,tom clark
+930,Basketball,South,Ryan Stuart
+931,Basketball,Haysville Campus,Josh Curtiss
+932,Basketball,Central,Chris Fear
+933,Basketball,Community Christian,Mary Lee Evers
+934,Basketball,Paducah Tilghman,Steve Dreher
+935,Basketball,Graves County,Aaron Beth
+936,Basketball,Mayfield,Bradley Nanney
+937,Basketball,Marshall County,Dan Langhi
+938,Basketball,Calloway County,Valerie Waller
+939,Basketball,Murray,Wyatt Foust
+940,Basketball,Trigg County,Amy Breckel
+941,Basketball,Crittenden County,Shannon Hodge
+942,Basketball,Lyon County,Malissa Thomas
+943,Basketball,Henderson County,Jeff Haile
+944,Basketball,Webster County,Brandon Fisher
+945,Basketball,Madisonville-North Hopkins,Jeff Duvall
+946,Basketball,Caldwell County,Chuck Mitchell
+947,Basketball,Hopkins County Central,Jennifer McCalister
+948,Basketball,Hopkinsville,Tonya Wells
+949,Basketball,Christian County,Kiki Radford
+950,Basketball,University Heights,Taylor Sparks
+951,Basketball,St. Louis Catholic,Tony Johnson
+952,Basketball,Brusly,Trent Ellis
+953,Basketball,Parkview Baptist,Christina Lockett Anderson
+954,Basketball,Caldwell Parish,Abby Thompson
+955,Basketball,Albany,Stacy Darouse
+956,Basketball,Mansfield,Kendra Jones
+957,Basketball,Buckeye,Garrett Hoffpauir
+958,Basketball,University Lab,Bonita Johnson
+959,Basketball,Jennings,Eric Guidry
+960,Basketball,Baker,Charles Harris
+961,Basketball,King Charter,Antoinette Gay
+962,Basketball,Westlake,gloria fontenot
+963,Basketball,Pine Prairie,Renotta Edwards
+964,Basketball,E.D. White,Marcey Zeringue
+965,Basketball,Iota,Meghann LeJeune
+966,Basketball,Madison Prep Academy,dwayne hayes
+967,Basketball,Loranger,Sean Shields
+968,Basketball,South Beauregard,susan johnson
+969,Basketball,Abbeville,Jeffery Davis
+970,Basketball,Ursuline Academy,Kris Goff
+971,Basketball,Haynes Academy,Michael Bonura
+972,Basketball,Kenner Discovery Health Sciences Academy,Jeryl Fischtziur
+973,Basketball,Donaldsonville,SHAWANCY JOSEPH
+974,Basketball,Kaplan,Amelia Broussard
+975,Basketball,Carroll,patrick sumbler
+976,Basketball,Crowley,Alton Allen
+977,Basketball,Church Point,Jamal Broussard
+978,Basketball,Green Oaks,Jessica Elie
+979,Basketball,Ville Platte,Dot Doulet
+980,Basketball,Bossier,Cherise Sims
+981,Basketball,Sumner,Kara Corkern
+982,Basketball,Union Parish,chateria brown
+983,Basketball,Sci Academy,Jira Williams
+984,Basketball,St. James,Curtis Lawrence
+985,Basketball,St. Martinville,Roddy Chaisson
+986,Basketball,Lutcher,Taylor Crappell
+987,Basketball,Archbishop Hannan,Austin Puntila
+988,Basketball,Iowa,Tisha Whittington
+989,Basketball,Glen Oaks,Alicia Dedeaux
+990,Basketball,Wossman,matthew reed
+991,Basketball,De La Salle,Mike Mosley
+992,Basketball,Mentorship Academy,Eric Brown
+993,Basketball,Sterlington,Mike Crumpler
+994,Basketball,Richwood,Kristy Brothers
+995,Basketball,McDonogh 35,Danielle Allen-Lewis
+996,Basketball,Mamou,Mark Temple
+997,Basketball,Bogalusa,Jarvious D.Grayson
+998,Basketball,West Feliciana,Timothy Washington
+999,Basketball,Patrick Taylor Science & Tech Academy,Tevyn Cagins
+1000,Basketball,Marksville,Joseph Greenhouse
+1001,Basketball,Academy of the Sacred Heart,Micki Andry
+1002,Basketball,Loyola College Prep,Kyle Tanner
+1003,Basketball,Wright,Kiejon Belvin
+1004,Basketball,Erath,Andrea Bernard
+1005,Basketball,Lake Charles College Prep,Chantel Citizen-Williams
+1006,Basketball,North Webster,John Carodine
+1007,Basketball,David Thibodaux,Candace Ardoin
+1008,Basketball,Frederick A. Douglass,Joshua Reed
+1009,Basketball,International,Bernette Tolston
+1010,Basketball,LaGrange,lakeem holmes
+1011,Basketball,Huntington,Brian Shyne
+1012,Basketball,Lee,valencia wilson
+1013,Basketball,Edna Karr,Lester Washington
+1014,Basketball,South Lafourche,Rainie Terrebonne
+1015,Basketball,A.J. Ellender,kenneth dixon
+1016,Basketball,Northwood,Patrick Lindsey
+1017,Basketball,Opelousas,Leslie Pitre
+1018,Basketball,Belle Chasse,Kayla Inabinett
+1019,Basketball,Assumption,Amy Blanchard
+1020,Basketball,Bolton,Antonio Keller
+1021,Basketball,St. Michael,Jeanne Kenney
+1022,Basketball,North Vermilion,Casey Meador
+1023,Basketball,St. Thomas More,stephen strojny
+1024,Basketball,Neville,Lorrie Guimbellot
+1025,Basketball,Pearl River,Sarah Stroyewski
+1026,Basketball,Teurlings Catholic,Joe Heintz
+1027,Basketball,Woodlawn-Shreveport,Demitice Williams-Elie
+1028,Basketball,Easton,Darius Mimms
+1029,Basketball,Franklin Parish,porsha williams
+1030,Basketball,Benjamin Franklin,Chrissa Hailey
+1031,Basketball,Vandebilt Catholic,Jerwaski Coleman
+1032,Basketball,Tioga,Deborah Johnson
+1033,Basketball,Westgate,Raphael Baranco
+1034,Basketball,Minden,Jacob Brown
+1035,Basketball,Carencro,Keesha Sices
+1036,Basketball,Livingston Collegiate Academy,Kwame Jordan
+1037,Basketball,Carver Collegiate Academy,William Green
+1038,Basketball,Peabody,Marjorie Cotton
+1039,Basketball,Washington,Terence Winn
+1040,Basketball,Istrouma,Ernie Blanson
+1041,Basketball,Lakeshore,DeLynn Stelly
+1042,Basketball,Bastrop,Gerline Guillaume
+1043,Basketball,Cecilia,Jasmine Narcisse
+1044,Basketball,Plaquemine,Brannon Dillon
+1045,Basketball,St. Scholastica,DJ D
+1046,Basketball,South Terrebonne,Nick Cenac
+1047,Basketball,Beau Chene,Melanie Durio
+1048,Basketball,DeRidder,Charles Kiely
+1049,Basketball,Washington-Marion,Nikki Mason
+1050,Basketball,Livonia,Angell Gosserand
+1051,Basketball,Landry-Walker,Lester Washington
+1052,Basketball,Morgan City,Duriel Singleton
+1053,Basketball,Academy of Our Lady,Gabie Huling
+1054,Basketball,Franklinton,Elecia Crain
+1055,Basketball,Cabrini,Nancy Walsh
+1056,Basketball,Eleanor McMain,Alendra Brown-Niang
+1057,Basketball,New Orleans Military & Maritime Academy,James Singleton
+1058,Basketball,Broadmoor,Sean Beauchamp
+1059,Basketball,Salmen,Panayiotis Bountovinas
+1060,Basketball,Eunice,John Burson
+1061,Basketball,Rayne,Chester Randell
+1062,Basketball,Lusher,Jenn Miller
+1063,Basketball,North DeSoto,Stephanie Locke
+1064,Basketball,Cox,Barbara Weary
+1065,Basketball,Northside,Amy Desermeoux
+1066,Basketball,Leesville,Daniel Greenhouse
+1067,Basketball,Belaire,Ella Reado
+1068,Basketball,Evangel Christian Academy,Meoka Young
+1069,Basketball,Hahnville,Arrianna Smith
+1070,Basketball,Sulphur,Helen LeFevre
+1071,Basketball,Pineville,Tiffany Edmondson
+1072,Basketball,Ponchatoula,Patricia Landaiche
+1073,Basketball,John Curtis Christian,Barbara Farris
+1074,Basketball,Ouachita Parish,Amber Obaze-Ford
+1075,Basketball,East St. John,Stasha Thomas
+1076,Basketball,Zachary,Michael Stephens
+1077,Basketball,Benton,Mary Ward
+1078,Basketball,Captain Shreve,Keith Greene
+1079,Basketball,Chalmette,Shondra Johnson
+1080,Basketball,Mt. Carmel,Jamie Thomatis
+1081,Basketball,Walker,Korey Arnold
+1082,Basketball,Parkway,Gloria Williams
+1083,Basketball,St. Mary's Dominican,Ryan Reuter
+1084,Basketball,West Jefferson,Patrick Smith
+1085,Basketball,Lafayette,Tarunye Kanonu
+1086,Basketball,Terrebonne,Gus Brown
+1087,Basketball,West Monroe,John Green
+1088,Basketball,Fontainebleau,Elicia Ocmond
+1089,Basketball,Denham Springs,Shelly Laprarie
+1090,Basketball,L.W. Higgins,Jacade Gordon
+1091,Basketball,West Ouachita,Jim Murphy
+1092,Basketball,Northshore,Tory Hearn
+1093,Basketball,Barbe,Kelly Durio
+1094,Basketball,Live Oak,michele yawn
+1095,Basketball,St. Amant,Kristy Englade
+1096,Basketball,John Ehret,G.J. GRANDPRE
+1097,Basketball,Hammond,kovi dillon
+1098,Basketball,McKinley,Temeka Johnson
+1099,Basketball,Southwood,Terry Josting
+1100,Basketball,Sam Houston,jason jagneaux
+1101,Basketball,Natchitoches Central,Nikki Jones
+1102,Basketball,Archbishop Chapelle,Mike Krajcer
+1103,Basketball,East Ascension,Dennis Chandler
+1104,Basketball,Dutchtown,Annette Lowery
+1105,Basketball,Slidell,Raymond Winzy
+1106,Basketball,Haughton,Jenifer Pesnell
+1107,Basketball,Airline,Lyndzee McConathy
+1108,Basketball,Alexandria,Clay Russell
+1109,Basketball,Bonnabel,Francis Cohen
+1110,Basketball,New Iberia,Robert Pinckney
+1111,Basketball,Ruston,Jenna Bolin
+1112,Basketball,Mandeville,Melissa Weinmunson
+1113,Basketball,Bourgeois,Leon Veal
+1114,Basketball,Central Lafourche,Kevin Naquin
+1115,Basketball,Byrd,Joanna Tate
+1116,Basketball,Riverdale,Matthew Young
+1117,Basketball,Acadiana,catherine cassidy
+1118,Basketball,Scotlandville,Katrell Dixon
+1119,Basketball,Thibodaux,Ashley Adams
+1120,Basketball,Central,TERRIOR MORRIS-JONES
+1121,Basketball,Destrehan,Meagan Stock
+1122,Basketball,Grace King,Gary Perkins
+1123,Basketball,St. Joseph's Academy,Mina Williams
+1124,Basketball,Woodlawn-B.R.,Jonathan Kohn
+1125,Basketball,East Jefferson,Henry Latten
+1126,Basketball,Covington,Christine Beauvais
+1127,Basketball,Vision Academy,michael mcdaniel
+1128,Basketball,Grace Christian,Anna Phillips
+1129,Basketball,Fairview,Kyle Jinks
+1130,Basketball,Hathaway,James Welch
+1131,Basketball,Monterey,Stacy Morgan
+1132,Basketball,Lacassine,Jeremy Hollier
+1133,Basketball,Zwolle,Tim Parker
+1134,Basketball,Stanley,Cleve Craig
+1135,Basketball,University Academy,Craig Whittington
+1136,Basketball,Forest,pamela shelton
+1137,Basketball,Choudrant,Geoff Underwood
+1138,Basketball,Singer,Stacy Nortman
+1139,Basketball,Anacoco,Michele Goins
+1140,Basketball,Family Community Christian,Heath Young
+1141,Basketball,Quitman,Jacob Barron
+1142,Basketball,Glenmora,Robert Flowers
+1143,Basketball,Castor,Kenneth Collinsworth
+1144,Basketball,Midland,Amanda Fontenot
+1145,Basketball,Holden,Lisa Thornton
+1146,Basketball,Doyline,Curtis Allen
+1147,Basketball,Bell City,Tracy Fontenot
+1148,Basketball,Simsboro,carol ward
+1149,Basketball,Weston,David Brown
+1150,Basketball,Elizabeth,Selena Friday
+1151,Basketball,Saline,larry williams
+1152,Basketball,Oak Hill,Candace Black
+1153,Basketball,Pitkin,Dana Wisby
+1154,Basketball,Converse,Rhonda Byrd
+1155,Basketball,Maurepas,Brittany Lauzervich
+1156,Basketball,Mt. Hermon,Barbara Smith
+1157,Basketball,Negreet,Wendy Thaxton
+1158,Basketball,Academy of the Sacred Heart,Mark A
+1159,Basketball,Christ Episcopal School,Stephen Griffin
+1160,Basketball,Hicks,Mike Charrier
+1161,Basketball,Reeves,Mark Dronet
+1162,Basketball,Plainview,Phillip George
+1163,Basketball,Summerfield,Randy Carlisle
+1164,Basketball,Gibsland-Coleman,Roger Jones
+1165,Basketball,Family Christian,steve rachal
+1166,Basketball,Ebarb,Darrin Dyess
+1167,Basketball,Calvin,Lance Carpenter
+1168,Basketball,Evans,Haley King
+1169,Basketball,Epps,Penny Hale
+1170,Basketball,Georgetown,Haley King
+1171,Basketball,Johnson Bayou,Amber Trahan
+1172,Basketball,Pleasant Hill,Jeremy Leach
+1173,Basketball,Hornbeck,Brittany Downs
+1174,Basketball,Harrisonburg,Gene Edwards
+1175,Basketball,Atlanta,Daniel Greenhouse
+1176,Basketball,South Cameron,Kyla Foster Richard
+1177,Basketball,Phoenix,Beau felder
+1178,Basketball,Louisiana School for the Deaf,Denton Mallas
+1179,Basketball,Simpson,Stephen Briscoe
+1180,Basketball,Grand Isle,Racheal Vaughn
+1181,Basketball,Hackberry,Jay Bergeron
+1182,Basketball,Downsville,David Rader
+1183,Basketball,Lutheran,Calvin Behrens
+1184,Basketball,New Living Word,LaWanda Wright
+1185,Basketball,Southwest Louisiana HomeSchool,CLINT DANIEL
+1186,Basketball,Faith Training Christian Academy,Walter Young
+1187,Basketball,Pontchartrain Christian HomeSchool,Eric Singletary
+1188,Basketball,Bethel Christian,Alberta Johnson
+1189,Basketball,Northeast Baptist,Dale Gregory
+1190,Basketball,Lighthouse Christian Preparatory,Shaquayla H. Darby
+1191,Basketball,Haynesville,Monica Ridley
+1192,Basketball,Homer,Elaine Gilbert
+1193,Basketball,Lincoln Prep,Antonio Hudson
+1194,Basketball,Plain Dealing,Nick Wainwright
+1195,Basketball,Calvary Baptist Academy,Chandelle Scott
+1196,Basketball,Ringgold,Shelie Collins
+1197,Basketball,Waterville,Ted Rioux
+1198,Basketball,Hermon,Amanda Cummings
+1199,Basketball,Wells,don abbott
+1200,Basketball,Oceanside,Samantha Bragg
+1201,Basketball,Yarmouth,Christina Strong
+1202,Basketball,Mountain Valley,Ryan Casey
+1203,Basketball,Poland,Michael Susi
+1204,Basketball,Orono,Nick Winchester
+1205,Basketball,Washington Academy,Vincent Emery
+1206,Basketball,Winthrop,Joe Burnham
+1207,Basketball,Fort Fairfield,Larry Gardner
+1208,Basketball,Boothbay,Dan Wolotsky
+1209,Basketball,Monmouth Academy,Katie McAllister
+1210,Basketball,Penobscot Valley,Nathaniel Case
+1211,Basketball,Carrabec,Josh Bishop
+1212,Basketball,Richmond,Michael Ladner
+1213,Basketball,Hall-Dale,Jarod Richmond
+1214,Basketball,Fort Kent,Travis Delisle
+1215,Basketball,Mattanawcook,Brian McDormand
+1216,Basketball,Woodland,Michelle Ripley
+1217,Basketball,Madawaska,Dean Gendreau
+1218,Basketball,Telstar,Kelly Dole
+1219,Basketball,Waynflete,James Marshall
+1220,Basketball,Lee Academy,Michael Richardson
+1221,Basketball,Shead,Dean Preston
+1222,Basketball,Wisdom,Derek Grivois
+1223,Basketball,Jonesport-Beals,Bill Z. Fan
+1224,Basketball,Machias,Matthew Johnson
+1225,Basketball,Bangor Christian,Phil Robinson
+1226,Basketball,Gardiner,Mike Gray
+1227,Basketball,Erskine Academy,Scott Corey
+1228,Basketball,Messalonskee,Keith Derosby
+1229,Basketball,Lawrence,John Donato
+1230,Basketball,Mt. Blue,Zac Conlogue
+1231,Basketball,Camden Hills,Kim Kuhn
+1232,Basketball,Kennebunk,Rob Sullivan
+1233,Basketball,Marshwood,Lee Petrie
+1234,Basketball,Gray-New Gloucester,Michael Andreasen
+1235,Basketball,York,Rick Clark
+1236,Basketball,Westbrook,Todd Day
+1237,Basketball,Leavitt,Tammy Anderson
+1238,Basketball,Fryeburg,Daniel Leland
+1239,Basketball,Portland,Gerry Corcoran
+1240,Basketball,Cheverus,Steve Huntington
+1241,Basketball,Lewiston,Mike McGraw
+1242,Basketball,South Portland,Lynne Hasson
+1243,Basketball,Gorham,Laughn Berthiaume
+1244,Basketball,Massabesic,ian ryan
+1245,Basketball,Sanford,Tracy Lizotte
+1246,Basketball,Bonny Eagle,scott regan
+1247,Basketball,Easton,Kurisha Hoffman
+1248,Basketball,Poly,Kendall Peace
+1249,Basketball,Great Mills,Matt Wood
+1250,Basketball,Bel Air,Calvin Skelton
+1251,Basketball,Frederick,Ashley Bush
+1252,Basketball,Hereford,bryan lintner
+1253,Basketball,River Hill,Teresa Waters
+1254,Basketball,Reservoir,Deb Taylor
+1255,Basketball,North Point,Michael Serpone
+1256,Basketball,Rockville,Gretchen Gregg
+1257,Basketball,St. Charles,Darrelle Smith
+1258,Basketball,Marriotts Ridge,Caitlin Bay
+1259,Basketball,Kent Island,David Plumer
+1260,Basketball,Towson,Jen Hahn
+1261,Basketball,Oxon Hill,Devone Williams
+1262,Basketball,Aberdeen,Stacy Lilies
+1263,Basketball,Franklin,Denikwa James
+1264,Basketball,Decatur,Scott Kurtz
+1265,Basketball,Chopticon,Joe Cook
+1266,Basketball,C. Milton Wright,Marvin Evans
+1267,Basketball,Tuscarora,Charlie Thomas
+1268,Basketball,Woodlawn,Sherri Anderson
+1269,Basketball,Huntingtown,Jennifer Bodden
+1270,Basketball,Manchester Valley,Heather DeWees
+1271,Basketball,Linganore,Rachael Easterday
+1272,Basketball,Oakland Mills,Walt Hagins
+1273,Basketball,Centennial,Robert Slopek
+1274,Basketball,Wilde Lake,Rhonda Corkeron
+1275,Basketball,Chesapeake,Maria Gray
+1276,Basketball,Potomac,Robert Surratt
+1277,Basketball,Edgewood,Wes Laguerre
+1278,Basketball,North Hagerstown,catherine parson
+1279,Basketball,Damascus,Ryan Hudy
+1280,Basketball,Northeast,Ed nalley
+1281,Basketball,Kenwood,Chanel Wright-Greene
+1282,Basketball,Hammond,Raymona Reid
+1283,Basketball,Northern,Bradley Kingsbury
+1284,Basketball,Watkins Mill,ivan hicks
+1285,Basketball,Dundalk,Cindy Vetri
+1286,Basketball,Lansdowne,Nick Welsh
+1287,Basketball,Magruder,Justin Morris
+1288,Basketball,South Hagerstown,Matt Faircloth
+1289,Basketball,Howard,Scott Robinson
+1290,Basketball,Churchill,John Beauregard
+1291,Basketball,Flowers,Roderick Hairston
+1292,Basketball,Old Mill,Rick Smith
+1293,Basketball,Western,KENNETH ROBINSON
+1294,Basketball,Clarksburg,Cecilia Natoli
+1295,Basketball,Bethesda-Chevy Chase,Ryan Ingalls
+1296,Basketball,Wise,stephon seraile
+1297,Basketball,South River,mike zivic
+1298,Basketball,Meade,Aanika O'Connor
+1299,Basketball,Severna Park,Kristofer Dean
+1300,Basketball,Sherwood,Sandi Williams
+1301,Basketball,Catonsville,mike mohler
+1302,Basketball,Quince Orchard,Bobby Bishop
+1303,Basketball,Arundel,Coach Rogers
+1304,Basketball,Paint Branch,Ravilia McMiller
+1305,Basketball,Eleanor Roosevelt,delton fuller
+1306,Basketball,Laurel,Michael Hines
+1307,Basketball,Blair,Steve Jackson
+1308,Basketball,Glen Burnie,J Mason
+1309,Basketball,Bladensburg,Coach Butler
+1310,Basketball,Urbana,Joseph Blaser
+1311,Basketball,Suitland,KEITH LYNCH
+1312,Basketball,Whitman,Peter Kenah
+1313,Basketball,Perry Hall,Linda Caccavalla
+1314,Basketball,Bowie,Charles Alston
+1315,Basketball,Parkdale,"Lawrence Watson, Sr."
+1316,Basketball,Walter Johnson,Jason Campbell
+1317,Basketball,Blake,Kenneth Prather
+1318,Basketball,Northwood,David Prophet
+1319,Basketball,Leonardtown,Tylita Butler
+1320,Basketball,Parkville,Kareem Hayes
+1321,Basketball,Einstein,Anthony Williams
+1322,Basketball,Broadneck,Juan McKinney
+1323,Basketball,North County,WILBERT RYDELL PIERCE
+1324,Basketball,Northwest,Justin Sickeri
+1325,Basketball,DuVal,Latia Howard
+1326,Basketball,Northwestern,keith devoe
+1327,Basketball,Mergenthaler Vo-Tech,Jermaine Johnson
+1328,Basketball,Annapolis,Lee Williams
+1329,Basketball,High Point,Lynette O'Reggio
+1330,Basketball,Kennedy,Kevin Thompson
+1331,Basketball,Springbrook,LYNETTE OREGGIO
+1332,Basketball,St. Frances Academy,Jerome Shelton
+1333,Basketball,Pallotti,Joe Mathews
+1334,Basketball,McDonogh,Brad Rees
+1335,Basketball,St. John's Catholic Prep,Maddie McConnell
+1336,Basketball,Roland Park Country,Dani Steinbach
+1337,Basketball,Archbishop Spalding,linda Dorsey
+1338,Basketball,John Carroll,Tyrell Howard-Franklin
+1339,Basketball,St. Timothy's,Michael Buchanan
+1340,Basketball,Mercy,Steve Anderson
+1341,Basketball,Our Lady of Mount Carmel,Rob Long
+1342,Basketball,Mount de Sales Academy,Trish Armstrong
+1343,Basketball,St. Mary's,Chuck Miller
+1344,Basketball,Gerstell Academy,Shane Stem
+1345,Basketball,Annapolis Area Christian,Jim Domoracki
+1346,Basketball,Bryn Mawr,Mimi Walters
+1347,Basketball,Concordia Prep,John Cooney
+1348,Basketball,Oldfields,Bez Wallace
+1349,Basketball,Park School,TC Caviness
+1350,Basketball,Indian Creek,Jamie Cook
+1351,Basketball,Beth Tfiloh,Jack Warnick
+1352,Basketball,Catholic,Mulligan Burns
+1353,Basketball,Friends,Ken Zalis
+1354,Basketball,Key,Terry Mundell
+1355,Basketball,Old Mill,Rick Smith
+1356,Basketball,Meade,Aanika O'Connor
+1357,Basketball,South River,mike zivic
+1358,Basketball,Arundel,Coach Rogers
+1359,Basketball,Severna Park,Kristofer Dean
+1360,Basketball,Glen Burnie,J Mason
+1361,Basketball,Chesapeake,Maria Gray
+1362,Basketball,Northeast,Ed nalley
+1363,Basketball,Southern,Michael Doyle
+1364,Basketball,Broadneck,Juan McKinney
+1365,Basketball,North County,WILBERT RYDELL PIERCE
+1366,Basketball,Frankfort,Michael Miller
+1367,Basketball,Southern,Rodger Bowman
+1368,Basketball,Keyser,josh blowe
+1369,Basketball,Bishop Walsh,David Winner
+1370,Basketball,Fort Hill,Amber Waltz
+1371,Basketball,Millbury,Steve Reno
+1372,Basketball,Millis,David Fallon
+1373,Basketball,Sutton,Tim Anderson
+1374,Basketball,Lunenburg,Barry Call
+1375,Basketball,Ayer Shirley,Pete Page
+1376,Basketball,Littleton,Al Duffett
+1377,Basketball,Prouty,David Woodward
+1378,Basketball,Dover-Sherborn,Bob Willey
+1379,Basketball,Uxbridge,Mark Donahue
+1380,Basketball,Oxford,Mellissa Paulhus
+1381,Basketball,Bartlett,Chris Delvecchio
+1382,Basketball,Nipmuc Regional,William Leaver
+1383,Basketball,Clinton,Marissa Garrity
+1384,Basketball,Notre Dame Academy,Joseph Kusz
+1385,Basketball,Bellingham,Stacy Bilodeau
+1386,Basketball,Blackstone-Millville,Mike Choquette
+1387,Basketball,Maynard,Charlotte Dzerkacz
+1388,Basketball,Academy of Notre Dame,Christia Ouellette
+1389,Basketball,Blackstone Valley RVT,John Ryding
+1390,Basketball,Advanced Math & Science Academy,Dennis Zilembo
+1391,Basketball,Tri-County RVT,Julie Caffrey
+1392,Basketball,West Boylston,Kelli McSweeney
+1393,Basketball,Greater Lowell Tech,David Maclaughlan
+1394,Basketball,Whitinsville Christian,Kris VandenAkker
+1395,Basketball,Montachusett RVT,Scott Malboeuf
+1396,Basketball,Tahanto Regional,Kim Dufresne
+1397,Basketball,Norfolk County Agricultural,William Cannon
+1398,Basketball,Douglas,Ralph Quinn
+1399,Basketball,Nashoba Valley Tech,Norbert Mchale
+1400,Basketball,Assabet Valley RVT,Frank Ferreer
+1401,Basketball,Bethany Christian Academy,Patrick Burke
+1402,Basketball,Worcester Tech,Patrick Phenix
+1403,Basketball,Prospect Hill Academy,Brian Harris
+1404,Basketball,Pioneer Charter School of Science,KATIE O'NEILL
+1405,Basketball,Foxborough Regional Charter,Mike Blase
+1406,Basketball,Pioneer Charter School of Science II,Adam Marchant
+1407,Basketball,Boston Prep,Michael Lester
+1408,Basketball,MATCH,Jakoya Wilkins
+1409,Basketball,Central Catholic,Sue Downer
+1410,Basketball,Chelmsford,Kevin Branco
+1411,Basketball,Cambridge Rindge & Latin,Dana Ellcock
+1412,Basketball,Andover,Alan Hibino
+1413,Basketball,Everett,Tammy Turner
+1414,Basketball,Lynn English,Mackenzie Charles
+1415,Basketball,Lexington,Steve Solly
+1416,Basketball,Billerica Memorial,Chris Doneski
+1417,Basketball,Beverly,Matt Smith
+1418,Basketball,Reading Memorial,Kim Penney
+1419,Basketball,Haverhill,Melissa Tarpy
+1420,Basketball,Belmont,Paula Christofori
+1421,Basketball,Boston Latin,Keri Orellana
+1422,Basketball,Waltham,Julie Ranucci
+1423,Basketball,Malden,Scott Marino
+1424,Basketball,Peabody Veterans Memorial,Jane Heil
+1425,Basketball,Methuen,Hilary Glynn
+1426,Basketball,Revere,Lianne O'Hara
+1427,Basketball,Lawrence,Dan Blouin
+1428,Basketball,Pentucket Regional,John McNamara
+1429,Basketball,Marblehead,Jaimee Callahan
+1430,Basketball,Wilmington,Jim McCune
+1431,Basketball,North Reading,Bob Romeo
+1432,Basketball,Burlington,Pam MacKay
+1433,Basketball,Newburyport,Gregg Dollas
+1434,Basketball,Danvers,patrick veilleux
+1435,Basketball,Hamilton-Wenham Regional,Jason Cacciapuoti
+1436,Basketball,Wakefield Memorial,Jason Pavey
+1437,Basketball,Dracut,Peter Witts
+1438,Basketball,Somerville,Paul O'Halloran
+1439,Basketball,Arlington Catholic,Dave Brady
+1440,Basketball,Swampscott,Katelyn Leonard
+1441,Basketball,Chelsea,Matthew LaBranche
+1442,Basketball,Melrose,Rob Ferrante
+1443,Basketball,Triton Regional,Dan Boyle
+1444,Basketball,Winchester,Johnna Fisher
+1445,Basketball,Gloucester,Brandon Lewis
+1446,Basketball,Amesbury,Gregg Dollas
+1447,Basketball,Whittier RVT,KEVIN BRADLEY
+1448,Basketball,Winthrop,Joseph Lowe
+1449,Basketball,Bishop Fenwick,Adam DeBaggis
+1450,Basketball,East Boston,Phillip Brangiforte
+1451,Basketball,Boston Latin Academy,William Dever
+1452,Basketball,Shawsheen Valley Tech,Richard Barriss
+1453,Basketball,Manchester Essex,Lauren Dubois
+1454,Basketball,Watertown,Patrick Ferdinand
+1455,Basketball,Bedford,Alvin Mayard
+1456,Basketball,Greater Lawrence Tech,Tara Mansour
+1457,Basketball,Charlestown,Rayetta Perkins-Jones
+1458,Basketball,Ipswich,Mandy Carter-Zegarowski
+1459,Basketball,Stoneham,Angela Billings
+1460,Basketball,Georgetown,Barri Ann Alonzo
+1461,Basketball,Brighton,Andrew Floyd
+1462,Basketball,Byron,Theresa Marvin
+1463,Basketball,Pewamo-Westphalia,Steve Eklund
+1464,Basketball,Westwood,Kurt Corcoran
+1465,Basketball,Kent City,Scott Carlson
+1466,Basketball,Manton,Jon Paul Katona
+1467,Basketball,Schoolcraft,Steve Kulczyk
+1468,Basketball,Hemlock,Joseph Rodriguez
+1469,Basketball,Lake City,Bill Tisron
+1470,Basketball,Glen Lake,Jason Bradford
+1471,Basketball,Columbia Central,Codi Cole
+1472,Basketball,Whitmore Lake,Nicholas Livingston
+1473,Basketball,Ecorse,Raul Jenkins
+1474,Basketball,Springport,Rick Saldana
+1475,Basketball,Grass Lake,Andrea Cabana
+1476,Basketball,Oscoda,Mark Toppi
+1477,Basketball,Gobles,John Curtis
+1478,Basketball,Morley Stanwood,Rob Brauher
+1479,Basketball,Charlevoix,Keith Haske
+1480,Basketball,Hart,Travis Rosema
+1481,Basketball,Arbor Prep,Scott Stine
+1482,Basketball,Hackett Catholic Prep,Maureen Brown
+1483,Basketball,Sandusky,Al DeMott
+1484,Basketball,St. Francis,Tyler Schell
+1485,Basketball,Lutheran Northwest,Jimmy Mehlberg
+1486,Basketball,Stockbridge,Michael Dalton
+1487,Basketball,Sand Creek,Matt Benge
+1488,Basketball,Bishop Foley,Jasper Ocampo
+1489,Basketball,Shrine Catholic,Lindsay Noble
+1490,Basketball,Reese,Joshua Pickell
+1491,Basketball,Calumet,Derek Gardner
+1492,Basketball,Advanced Tech Academy,Peter PInto
+1493,Basketball,Alcona,Mark Feldhiser
+1494,Basketball,Bloomingdale,Kirsten Allison
+1495,Basketball,Pinconning,Mindy Stokoszynski
+1496,Basketball,Harbor Beach,Jim Tamlyn
+1497,Basketball,University Liggett,John Bandos
+1498,Basketball,Quincy,Jared Stuchell
+1499,Basketball,Calvin Christian,Dan Vander Wal
+1500,Basketball,Negaunee,Brandon Sager
+1501,Basketball,Erie-Mason,Bryan Parran
+1502,Basketball,Pershing,Melonie Martin
+1503,Basketball,Black River,Tim Witvoet
+1504,Basketball,McBain,Drew Bronkema
+1505,Basketball,Gwinn,Brad Pfluger
+1506,Basketball,Grand Traverse Academy,Al Hatch
+1507,Basketball,Bronson,tony Lasky
+1508,Basketball,Blissfield,Ryan Gilbert
+1509,Basketball,White Cloud,Jana Dakin
+1510,Basketball,Leslie,Justin Houghton
+1511,Basketball,St. Charles,Andre Williams
+1512,Basketball,Mancelona,Jason Helwig
+1513,Basketball,Taylor Prep,Victor Corley
+1514,Basketball,Carson City-Crystal,Tim Stout
+1515,Basketball,Shelby,Sarah Wolting
+1516,Basketball,Jonesville,tom dunn
+1517,Basketball,Beaverton,Renee Inscho
+1518,Basketball,Bark River-Harris,Joshua Eagle
+1519,Basketball,Houghton Lake,Gregory Kauffman
+1520,Basketball,Farwell,Mike Groulx
+1521,Basketball,Saugatuck,Kevin Tringali
+1522,Basketball,Kellogg,Mike Mohn
+1523,Basketball,NorthPointe Christian,Emily Elliott
+1524,Basketball,Bentley,Amanda Kagerer
+1525,Basketball,Cabrini,Marc Strong
+1526,Basketball,Potterville,Kevin Christiansen
+1527,Basketball,Concord,Robert Rando
+1528,Basketball,Star International Academy,Haley Hofbauer
+1529,Basketball,Canton Preparatory,Cory runge
+1530,Basketball,Harrison,Nichole Carlstrom
+1531,Basketball,Bad Axe,Bob Breault
+1532,Basketball,East Jackson,MIKE MERICLE
+1533,Basketball,Galesburg-Augusta,Mark Stephenson
+1534,Basketball,Richard,Laua Guzman
+1535,Basketball,Evart,Larry Brown
+1536,Basketball,Mt. Clemens,Jason Monk
+1537,Basketball,Manchester,Corey Fether
+1538,Basketball,Ravenna,d jones
+1539,Basketball,Brown City,Cindy Burton
+1540,Basketball,Napoleon,Liz Hampton
+1541,Basketball,Bendle,Liane Steller
+1542,Basketball,Perry,Tim Beebe
+1543,Basketball,Valley Lutheran,Matt Princing
+1544,Basketball,Whiteford,Les manley
+1545,Basketball,Cass City,Steve Hollocker
+1546,Basketball,Dansville,Eric Ream
+1547,Basketball,Reading,Kevin Bailey
+1548,Basketball,Montabella,Terry Larsen
+1549,Basketball,Hesperia,Vince Grodus
+1550,Basketball,St. Mary Catholic Central,rick niemi
+1551,Basketball,Marlette,Cathy Storm
+1552,Basketball,Unionville-Sebewaing,Bryce Frahm
+1553,Basketball,Manistique,Laurel Ashbrook
+1554,Basketball,Covenant Christian,Laura Kaptein
+1555,Basketball,Lumen Christi Catholic,Michael Wilson
+1556,Basketball,Greenhills,Ernest Righetti
+1557,Basketball,New Haven,jd clark
+1558,Basketball,Tawas Area,Jason Kaniszewski
+1559,Basketball,Ishpeming,Ryan Reichel
+1560,Basketball,Detroit Community,Willie Riley
+1561,Basketball,Bath,Chris Rypstra
+1562,Basketball,Academy of the Sacred Heart,Christine Pedder
+1563,Basketball,Millington,Christian Selich
+1564,Basketball,Pine River Area,Brian Goodenow
+1565,Basketball,Hanover-Horton,Andrew Birch
+1566,Basketball,Elk Rapids,mike brown
+1567,Basketball,Hill-McCloy,Corey Oleyar
+1568,Basketball,Fennville,Chip Nightingale
+1569,Basketball,North Muskegon,Ryan Hankinson
+1570,Basketball,Holton,Joey Mason
+1571,Basketball,Mason County Central,Michael Weinert
+1572,Basketball,Michigan Collegiate,Ricardo Brown
+1573,Basketball,Vassar,Craig McCloud
+1574,Basketball,Hope Of Detroit Academy,Essence Gresham
+1575,Basketball,Beatty,Janice Gatson
+1576,Basketball,Watervliet,Jeff Riley
+1577,Basketball,Memphis,Ryan Ballor
+1578,Basketball,Whittemore-Prescott,Jayme Nickell
+1579,Basketball,Rogers City,Duane Pitts
+1580,Basketball,Addison,John Williams
+1581,Basketball,Homer,John Williams
+1582,Basketball,Maple Valley,Robb Rosin
+1583,Basketball,Capac,Sarah Mousseau
+1584,Basketball,Landmark Academy,William Stier
+1585,Basketball,Clintondale,Brandon Seays
+1586,Basketball,Inland Lakes,Patrick Clancy
+1587,Basketball,Detroit Cristo Rey,Juan Lovelace
+1588,Basketball,"Madison (Madison Heights, MI)",Robert Hillary
+1589,Basketball,Union City,Mike O'Reilly
+1590,Basketball,Laker,J. Dubs
+1591,Basketball,St. Louis,Walter Berry
+1592,Basketball,Bangor,Chris Fenner
+1593,Basketball,Lawton,dennis warkentien
+1594,Basketball,Lakeville,Frank Gibson
+1595,Basketball,Atherton,Darcell Price
+1596,Basketball,Vandercook Lake,Terrence Willis
+1597,Basketball,Beal City,Brad Henry
+1598,Basketball,Riverside Academy West,Terry Laesser
+1599,Basketball,Michigan Lutheran,Ron Briney
+1600,Basketball,Ubly,Joel Leipprandt
+1601,Basketball,St.Ignace,Dorene Ingalls
+1602,Basketball,Inter-City Baptist,Evan Kraatz
+1603,Basketball,Kingston,Dave Lester
+1604,Basketball,Calvary Baptist Academy,Sandra Herriage
+1605,Basketball,Baraga,Tom Goodreau
+1606,Basketball,Camden-Frontier,Melissa Warfield
+1607,Basketball,Ewen-Trout Creek,Jaclyn Besonen
+1608,Basketball,Fowler,Nathan Goerge
+1609,Basketball,Walkerville,marc pascavis
+1610,Basketball,Sacred Heart Academy,Damon Brown
+1611,Basketball,Athens,Calvin Quist
+1612,Basketball,Big Bay de Noc,Angie Lalonde
+1613,Basketball,Pittsford,Jen Sprunger
+1614,Basketball,Carney-Nadeau,Travis Depuydt
+1615,Basketball,Posen,Karl Momrik
+1616,Basketball,Pickford,Paul Griffin
+1617,Basketball,Peck,jamie abrego
+1618,Basketball,Saginaw Arts & Sciences Academy,Cindy Tennant
+1619,Basketball,Marion,Matthew LaGrow
+1620,Basketball,St. Mary Cathedral,dale jacob
+1621,Basketball,Mackinaw City,Adam Stefanski
+1622,Basketball,Calvary Christian,Brad Richards
+1623,Basketball,Hillsdale Academy,Kevin Reed
+1624,Basketball,Calhoun Christian,Chad Smith
+1625,Basketball,Engadine,Roger French
+1626,Basketball,L'Anse,shawn hendrickson
+1627,Basketball,Mid Peninsula,Phil Croasdell
+1628,Basketball,Our Lady of the Lakes,Steve Robak
+1629,Basketball,Harbor Light Christian,Eric Huffman
+1630,Basketball,Genesee Christian,Dj Boike
+1631,Basketball,Maplewood Baptist Academy,Colleen Rader
+1632,Basketball,Plymouth Christian Academy,Rodney Windle
+1633,Basketball,Morrice,Kris Smith
+1634,Basketball,Merrill,Jason Buckley
+1635,Basketball,Hillman,john kuzewski
+1636,Basketball,Michigan Lutheran Seminary,Brian Blaine
+1637,Basketball,Parkway Christian,Joe Malburg
+1638,Basketball,Bay Mills Ojibwe Charter,Ashley Bishop
+1639,Basketball,All Saints Central,Michael Debo
+1640,Basketball,Litchfield,Alvaro Alvarez-Herrera
+1641,Basketball,Genesee,Amanda Johnston
+1642,Basketball,Livingston Christian,scott slater
+1643,Basketball,Wolverine,Gary Matelski
+1644,Basketball,Fairview,Marc Winton
+1645,Basketball,Merritt Academy,Amy Mitchell
+1646,Basketball,River Valley,Jason Alexander
+1647,Basketball,Dryden,Richard kage
+1648,Basketball,North Huron,Chad Knoblock
+1649,Basketball,Mason County Eastern,Kate Chaney
+1650,Basketball,Leland,Megan Munoz
+1651,Basketball,Lake Michigan Catholic,Eric Christensen
+1652,Basketball,North Central,Tyler Swanson
+1653,Basketball,Austin Catholic,Angela D'Ascenzo
+1654,Basketball,Onaway,marty mix
+1655,Basketball,Chassell,Brandi Hainault
+1656,Basketball,St. Mary,Pete Finch
+1657,Basketball,Frankfort,Reznich Timothy
+1658,Basketball,Colon,Robbie Hattan
+1659,Basketball,Onekama,JAMES ARMSTRONG
+1660,Basketball,Southfield Christian,Seena Allen
+1661,Basketball,Oakland Christian,Josh Thayer
+1662,Basketball,Brimley,Raymond Bell
+1663,Basketball,Climax-Scotts,Joshua Vick
+1664,Basketball,Rudyard,Carlos Molina
+1665,Basketball,Mackinac Island,Mary Patay
+1666,Basketball,Potter's House Christian,Michael Wood
+1667,Basketball,Breckenridge,Phillip Baldwin
+1668,Basketball,Lansing Christian,Jason Salsbury
+1669,Basketball,Coleman,Nick Katzinger
+1670,Basketball,Mio-Au Sable,Christina Tappan
+1671,Basketball,Crossroads Charter Academy,JJ Eads
+1672,Basketball,Will Carleton Academy,Jack Gadwood
+1673,Basketball,Stephenson,jeff sunstrom
+1674,Basketball,Jackson Christian,Scott Hands
+1675,Basketball,Forest Park,Jeff Syrjanen
+1676,Basketball,Central Lake,Al Becker
+1677,Basketball,Universal Learning Academy,Katy Scott
+1678,Basketball,Cardinal Mooney Catholic,Susan Everhart
+1679,Basketball,Lutheran,Keith Brown
+1680,Basketball,Pentwater,Joe Gorton
+1681,Basketball,North Adams-Jerome,Doug Dospoy
+1682,Basketball,West Michigan Lutheran,Aaron Cochrill
+1683,Basketball,Vestaburg,Matthew Koutz
+1684,Basketball,Suttons Bay,Laurie Lacross
+1685,Basketball,Mayville,Jaden Clobes
+1686,Basketball,Roeper,Corray Lett
+1687,Basketball,Mendon,Leasa Griffith
+1688,Basketball,Muskegon Heights,Tyrie Johnson
+1689,Basketball,Buckley,Dan Harris
+1690,Basketball,Mesick,Josh Longstreth
+1691,Basketball,DeTour,James Geyer
+1692,Basketball,St. Philip Catholic Central,Devon Gibson
+1693,Basketball,Tri-Unity Christian,Bryan Sinner
+1694,Basketball,Lawrence,John Guillean
+1695,Basketball,Frankel Jewish Academy of Metro Detroit,Ja'Rayl Gordon
+1696,Basketball,New Life Christian Academy,Dennis Muxlow
+1697,Basketball,Brethren,Julie Riggs
+1698,Basketball,Burr Oak,David Brackett
+1699,Basketball,Dollar Bay,Steve Krahling
+1700,Basketball,Carsonville-Port Sanilac,Kurt Long
+1701,Basketball,Tekonsha,Aryn Henry
+1702,Basketball,Newberry,Jim Dzelak
+1703,Basketball,Akron-Fairgrove,Andrew Beauvais
+1704,Basketball,Waldron,Jon Burk
+1705,Basketball,Morenci,Albert Ortega
+1706,Basketball,Lake Linden-Hubbell,Timm Gast
+1707,Basketball,Webberville,travis brown
+1708,Basketball,Atlanta,Jon Wells
+1709,Basketball,Caseville,Joey Sancrant
+1710,Basketball,International Academy,Sean Brandon Jr.
+1711,Basketball,Superior Central,Greg Trowbridge
+1712,Basketball,Fulton,Chad Walden
+1713,Basketball,Ashley,Joseph Shaw
+1714,Basketball,More Academy,James Taylor
+1715,Basketball,Auburn Hills Christian,Liz Scruggs
+1716,Basketball,Whitefish Township,Alan Smith
+1717,Basketball,Eau Claire,Vernell Wilson
+1718,Basketball,West Michigan Academy of Environmental Science,Peter Jackson
+1719,Basketball,Bear Lake,Scott Brown
+1720,Basketball,Academy for Business & Tech,Jared Berry
+1721,Basketball,Marshall Academy,John Grafton
+1722,Basketball,Michigan School for the Deaf,Micki Lewis
+1723,Basketball,Novi Christian Academy,Rob Blackwell
+1724,Basketball,Vanderbilt,Christopher Rupe
+1725,Basketball,Potter's House Christian,John Spooner
+1726,Basketball,Calvary Christian,Brad Richards
+1727,Basketball,Grand River Prep,Ray Fron
+1728,Basketball,Potter's House Christian,Michael Wood
+1729,Basketball,Black River,Tim Witvoet
+1730,Basketball,Tri-Unity Christian,Bryan Sinner
+1731,Basketball,Wellspring Prep,Matt Haack
+1732,Basketball,Berrien Springs,William Eichberg
+1733,Basketball,Comstock,Ernie Ramirez
+1734,Basketball,Michigan Lutheran,Ron Briney
+1735,Basketball,River Valley,Jason Alexander
+1736,Basketball,Lake Michigan Catholic,Eric Christensen
+1737,Basketball,Lawrence,John Guillean
+1738,Basketball,Concord,Robert Rando
+1739,Basketball,Marshall,Bruce Remme
+1740,Basketball,Becker,Dan Baird
+1741,Basketball,Como Park,Alexis Gray-Lawson
+1742,Basketball,Simley,Tim Peper
+1743,Basketball,Red Wing,Kraig Ulveling
+1744,Basketball,DeLaSalle,Tanisha Scott
+1745,Basketball,Hermantown,Beth Clark
+1746,Basketball,Austin,Gary Peterson
+1747,Basketball,Hutchinson,Tim Ellefson
+1748,Basketball,Alexandria,wendy kohler
+1749,Basketball,Mankato West,Kristin Krusemark
+1750,Basketball,Big Lake,Nate Chapman
+1751,Basketball,Hill-Murray,Erin Herman
+1752,Basketball,Bemidji,Steve Schreiber
+1753,Basketball,St. Croix Lutheran,David Mielke
+1754,Basketball,Richfield,Tre Jackson
+1755,Basketball,Kasson-Mantorville,Ryan Haraldson
+1756,Basketball,Mahtomedi,Eric Prose
+1757,Basketball,Willmar,Brad Atchison
+1758,Basketball,Monticello,Craig Geyen
+1759,Basketball,Zimmerman,Gregory Heinecke
+1760,Basketball,Worthington,Eric Lindner
+1761,Basketball,Highland Park,Deborah Williams
+1762,Basketball,Detroit Lakes,Mike Hoganson
+1763,Basketball,Princeton,Pedro Valdivieso
+1764,Basketball,Orono,Ryan Martin
+1765,Basketball,Totino-Grace,Jessica Priest
+1766,Basketball,Sibley,Scott Wadie
+1767,Basketball,Roosevelt,Michael Wright
+1768,Basketball,St. Anthony Village,Mary Hadler
+1769,Basketball,Rocori,Val Fraley
+1770,Basketball,Mankato East,Mike Barger
+1771,Basketball,New Ulm,Dan Reinhart
+1772,Basketball,Fridley,Drew Reiter
+1773,Basketball,Grand Rapids,Kristine Hamling
+1774,Basketball,North Branch,Jerome Huselid
+1775,Basketball,Sartell-St. Stephen,Katie Huschle
+1776,Basketball,Byron,Darren Nelson
+1777,Basketball,Albert Lea,Jason Thompson
+1778,Basketball,Sauk Rapids-Rice,Jon Roesch
+1779,Basketball,South St. Paul,Austin Junker
+1780,Basketball,Mound-Westonka,Alan Hiebert
+1781,Basketball,Harding,Kelly Sandquist
+1782,Basketball,Chisago Lakes Area,Craig Walker
+1783,Basketball,St. Cloud Tech,Kris Hagen
+1784,Basketball,Benilde-St. Margaret's,Michael Swann
+1785,Basketball,Delano,Amy Gould
+1786,Basketball,Edison,Faith A. Johnson Patterson
+1787,Basketball,Little Falls,Deb Yliniemi-Ahlin
+1788,Basketball,Denfeld,Greg Goman
+1789,Basketball,Cloquet,Jeff Ojanen
+1790,Basketball,Winona,Tim Gleason
+1791,Basketball,Apollo,Mike Myers-Schleif
+1792,Basketball,Faribault,Patrick Garcia
+1793,Basketball,Hopkins,Brian Cosgriff
+1794,Basketball,Farmington,Liz Carpentier
+1795,Basketball,Minneapolis South,Nathan McGuire
+1796,Basketball,Maple Grove,Mark Cook
+1797,Basketball,Park Center,Barb Metcalf
+1798,Basketball,Wayzata,Mike Schumacher
+1799,Basketball,Rosemount,Chris Harder
+1800,Basketball,Chaska,Tara Seifert
+1801,Basketball,Mayo,rich decker
+1802,Basketball,Stillwater,willie taylor
+1803,Basketball,New Prague,Ron Gunderson
+1804,Basketball,Spring Lake Park,Randy Eatherton
+1805,Basketball,Centennial,Jamie Sobolik
+1806,Basketball,Forest Lake,Jen Wagner
+1807,Basketball,Robbinsdale Cooper,Jennifer Rademacher
+1808,Basketball,St. Michael-Albertville,Kent Hamre
+1809,Basketball,Elk River,Jeremy Digiovanni
+1810,Basketball,John Marshall,Mike Archer
+1811,Basketball,Minneapolis Southwest,Dan Froehlich
+1812,Basketball,Blaine,Chris Brustuen
+1813,Basketball,Roseville,Jeff Crosby
+1814,Basketball,Moorhead,Jim Kapitan
+1815,Basketball,Burnsville,Maurice Hodges
+1816,Basketball,Cambridge-Isanti,Jody Ledahl
+1817,Basketball,Lakeville North,Shelly Clemons
+1818,Basketball,Minnetonka,Leah Dasovich
+1819,Basketball,Andover,Ray Brodeur
+1820,Basketball,Shakopee,Juan Mitchell
+1821,Basketball,Eden Prairie,ellen wiese
+1822,Basketball,St. Louis Park,Arsenio Richardson
+1823,Basketball,White Bear Lake,Jeremy Post
+1824,Basketball,St. Paul Central,Marta Waalen
+1825,Basketball,Woodbury,megan kirchenwitz
+1826,Basketball,Chanhassen,Arthur Crutch
+1827,Basketball,Washburn,Cornelius Bishop
+1828,Basketball,Hastings,Padrick Judd
+1829,Basketball,Apple Valley,Jeremy Gordon
+1830,Basketball,Prior Lake,mike gidley
+1831,Basketball,Rogers,Greg Amundson
+1832,Basketball,Anoka,Nick Novak
+1833,Basketball,Duluth East,Brea Boomer
+1834,Basketball,Mounds View,Ashlie Anzel
+1835,Basketball,Owatonna,Lindsey Hugstad-Vaa
+1836,Basketball,Edina,Jenny Johnson
+1837,Basketball,Cretin-Derham Hall,Crystal Flint
+1838,Basketball,Osseo,Jen Moen
+1839,Basketball,Eagan,Matt Froehle
+1840,Basketball,Buffalo,Grant Stewart
+1841,Basketball,Irondale,Michelle Helfrey
+1842,Basketball,Jefferson,Paul Lambrecht
+1843,Basketball,Century,Chadd Clarey
+1844,Basketball,Park,Scott Wadie
+1845,Basketball,Eastview,Paul Goetz
+1846,Basketball,Tartan,zack vogelsberg
+1847,Basketball,Coon Rapids,Tom Weko
+1848,Basketball,Robbinsdale Armstrong,Antiwan Easley
+1849,Basketball,Houston,Dale Moga
+1850,Basketball,Fillmore Central,Heath Olstad
+1851,Basketball,Kingsland,Eric Breitsprecher
+1852,Basketball,Grand Meadow,Ryan Queensland
+1853,Basketball,Hayfield,Fred Kindschy
+1854,Basketball,Blooming Prairie,John Worke
+1855,Basketball,Mabel-Canton,Adam Wilder
+1856,Basketball,Lanesboro,Ryan Scheevel
+1857,Basketball,Spring Grove,Aly Meyer
+1858,Basketball,Lyle/Pacelli,Anne Christopherson
+1859,Basketball,Schaeffer Academy,Kevin Lash
+1860,Basketball,Bethlehem Academy,Jake Hanson
+1861,Basketball,LeRoy-Ostrander,Trevor Carrier
+1862,Basketball,Minnesota State Academy for the Deaf,Ryan Hastings
+1863,Basketball,Waterville-Elysian-Morristown,Linda Coleman
+1864,Basketball,Central Minnesota Christian,Bryan De Groot
+1865,Basketball,St. Mary's,Bruce Woitas
+1866,Basketball,Buffalo Lake-Hector-Stewart,Josh Tjosaas
+1867,Basketball,Martin County West,Rodger Taylor
+1868,Basketball,Sleepy Eye,Ryan Hulke
+1869,Basketball,Cleveland,Brian Link
+1870,Basketball,New Ulm Cathedral,Dave Wilfahrt
+1871,Basketball,Renville County West,Daniel Hup
+1872,Basketball,United South Central,Geri Murra
+1873,Basketball,Minneota,Chad Johnson
+1874,Basketball,Southwest Minnesota Christian,Denise Nerem
+1875,Basketball,Lac qui Parle Valley,John Nolte
+1876,Basketball,Lakeview,Mike Imes
+1877,Basketball,Canby,Kevin M. Hansen
+1878,Basketball,Adrian,Randy Strand
+1879,Basketball,Murray County Central,Laura Jenson
+1880,Basketball,Wabasso,Neil Dolan
+1881,Basketball,MACCRAY,Shaun Condon
+1882,Basketball,Russell-Tyler-Ruthton,Darin Dahle
+1883,Basketball,Westbrook-Walnut Grove,Sheryl Woelber
+1884,Basketball,Edgerton,Andrew Fleischman
+1885,Basketball,Echo Charter,Jerry S. Gladis
+1886,Basketball,Mayer Lutheran,Kris Gustin
+1887,Basketball,Heritage Christian Academy,Lori Crellin
+1888,Basketball,Avail Academy,Paul Spencer
+1889,Basketball,Lester Prairie/Holy Trinity,Mike Lee
+1890,Basketball,Christ's Household of Faith,Vernon Harms
+1891,Basketball,Legacy Christian Academy,Kyle Ague
+1892,Basketball,North Lakes Academy,Jeff Beimert
+1893,Basketball,Liberty Classical Academy,David St. Martin
+1894,Basketball,West Lutheran,Nathan Veach
+1895,Basketball,PACT Charter,Scott Antl
+1896,Basketball,Minnesota North Star Academy,Kevin Kovacs
+1897,Basketball,Minnesota Transitions,Codey Miller
+1898,Basketball,Trinity at River Ridge,Dave Beskar
+1899,Basketball,Walker-Hackensack-Akeley,Jim Lien
+1900,Basketball,Sebeka,Mike Heino
+1901,Basketball,Belgrade-Brooten-Elrosa,Kristina Anderson
+1902,Basketball,East Central,Rod Erickson
+1903,Basketball,Ogilvie,Jonathan Nelson
+1904,Basketball,Braham,Amber Hoffman
+1905,Basketball,Upsala,Nick Klug
+1906,Basketball,Verndale,Arthur Schluttner
+1907,Basketball,Browerville,Mark Perkins
+1908,Basketball,Nevis,Paul Schroeder
+1909,Basketball,Swanville,Aaron Gapinski
+1910,Basketball,Kerkhoven-Murdock-Sunburg,Jeff Holtkamp
+1911,Basketball,Barnum,Randy Myhre
+1912,Basketball,Hinckley-Finlayson,Sue Grimm
+1913,Basketball,Isle,Paul Tinjum
+1914,Basketball,St. John's Prep,Annie Haws
+1915,Basketball,McGregor,James Fischer
+1916,Basketball,Senatobia,Tosheba Jones
+1917,Basketball,Belmont,Chris Higginbottom
+1918,Basketball,Crystal Springs,Katrecia Craig
+1919,Basketball,Tylertown,Jeremy Harrell
+1920,Basketball,Ruleville Central,Chiquita Bracey
+1921,Basketball,Kossuth,Angie Malone
+1922,Basketball,Southeast Lauderdale,Dana Buchanan
+1923,Basketball,Jefferson Davis County,Marcus Luckett
+1924,Basketball,Independence,Jerome Martin
+1925,Basketball,Franklin County,Rickey O'Quinn
+1926,Basketball,Holly Springs,Andre Jones
+1927,Basketball,Velma Jackson,Rochelle Day
+1928,Basketball,Forest,Teont Boyd
+1929,Basketball,Amory,Brian Pearson
+1930,Basketball,Aberdeen,Lorenzo Conley
+1931,Basketball,Houston,Chris Pettit
+1932,Basketball,Kemper County,Ronnie Slaughter
+1933,Basketball,Yazoo County,Christine Demus
+1934,Basketball,Seminary,Megan Keyes
+1935,Basketball,St. Andrew's Episcopal,Burney King
+1936,Basketball,West Marion,Steven Fortenberry
+1937,Basketball,Byhalia,james sales
+1938,Basketball,Jefferson County,Flora McKnight
+1939,Basketball,Choctaw County,Mandy Jewell
+1940,Basketball,Nettleton,Shane Hayles
+1941,Basketball,Humphreys County,Richard Horton
+1942,Basketball,Booneville,Michael Smith
+1943,Basketball,Columbia,charlie james
+1944,Basketball,Coahoma Agricultural,Edward Thomas
+1945,Basketball,Hazlehurst,TeAirra Wlbert-Menzie
+1946,Basketball,North Panola,Caleb Vaughan
+1947,Basketball,Morton,Darius Walker
+1948,Basketball,Hatley,Ginger McAlester
+1949,Basketball,Clarkdale,Britt Bennett
+1950,Basketball,Alcorn Central,Charlette Foster
+1951,Basketball,Port Gibson,Chelsea Williams
+1952,Basketball,Noxubee County,Glenda Liddell-White
+1953,Basketball,Magee,Kendria Young
+1954,Basketball,Wilkinson County,Jarrett Henderson
+1955,Basketball,Raleigh,Matthew Wallace
+1956,Basketball,McLaurin,ShaRhonda Gipson
+1957,Basketball,Winona,Veronica Helms
+1958,Basketball,Water Valley,John Sherman
+1959,Basketball,Amanda Elzy,Michael Curry
+1960,Basketball,Ripley,Steve Willey
+1961,Basketball,Pontotoc,Kyle Heard
+1962,Basketball,Choctaw Central,Bill Smith
+1963,Basketball,McComb,Charlton Grey
+1964,Basketball,Greene County,Dale Kimble
+1965,Basketball,Stone,SAMUEL SMITH
+1966,Basketball,Moss Point,Ethan Porter
+1967,Basketball,Tishomingo County,Brian Middleton
+1968,Basketball,Purvis,Michael Thornton
+1969,Basketball,Louisville,Fredrick Morris
+1970,Basketball,Clarksdale,GREGORY WILSON
+1971,Basketball,Newton County,Cory Cleveland
+1972,Basketball,South Pontotoc,Bill Russell
+1973,Basketball,Greenwood,Ted Barrett
+1974,Basketball,South Pike,Hilton Harrell
+1975,Basketball,Leake Central,Eric Jones
+1976,Basketball,Kosciusko,Cory Guyton
+1977,Basketball,Raymond,Candace Roberts
+1978,Basketball,Northeast Lauderdale,Frederick Liddell
+1979,Basketball,Pass Christian,Greta Ainsworth
+1980,Basketball,North Pike,Laura Holman
+1981,Basketball,Sumrall,Portland Brown
+1982,Basketball,Gentry,Sarita Cooper
+1983,Basketball,New Albany,Micha Washington
+1984,Basketball,Quitman,jennie vance
+1985,Basketball,Lawrence County,Vicki Rutland
+1986,Basketball,Vancleave,Timothy Bryant
+1987,Basketball,Florence,Lauren Dixon
+1988,Basketball,Bay,Cindy Necaise
+1989,Basketball,North Pontotoc,Matt Waldrop
+1990,Basketball,Itawamba Agricultural,Anna Porter
+1991,Basketball,Shannon,Warren Jennings
+1992,Basketball,Poplarville,Robin Jeffries
+1993,Basketball,Mooreville,Kala Parker
+1994,Basketball,Mendenhall,Benjamin Johnson
+1995,Basketball,Lanier,"Jonas James, Jr."
+1996,Basketball,Corinth,Domonique Allen
+1997,Basketball,Forrest County Agricultural,Mack Gardner
+1998,Basketball,Yazoo City,Ashley Justice
+1999,Basketball,West Lauderdale,Matt Lum
+2000,Basketball,Rosa Fort,Jasmyne Maxie
+2001,Basketball,Caledonia,Gary Griffin
+2002,Basketball,Brookhaven,Preston Wilson
+2003,Basketball,Columbus,Yvonne Hairston
+2004,Basketball,Lafayette,Shayne Linzy
+2005,Basketball,Wayne County,Gina Skelton
+2006,Basketball,Cleveland Central,Whitney Williams
+2007,Basketball,Hattiesburg,Caronica DeBose Jackson
+2008,Basketball,Holmes County Central,Luana Greer
+2009,Basketball,Provine,Erica Stringfellow Smith
+2010,Basketball,Vicksburg,Troy Stewart
+2011,Basketball,West Jones,Sharon P Murray
+2012,Basketball,Pearl River Central,Tony LaBella
+2013,Basketball,New Hope,Nick Christy
+2014,Basketball,Saltillo,Coach Goree
+2015,Basketball,South Jones,Jay Stafford
+2016,Basketball,Laurel,sherri cooley
+2017,Basketball,Neshoba Central,Jerry Byrd
+2018,Basketball,Grenada,DAVID MONTGOMERY
+2019,Basketball,Jim Hill,Jacqueline Ross
+2020,Basketball,Callaway,Stacey Bailey
+2021,Basketball,Gautier,Mary Bradley
+2022,Basketball,Ridgeland,wade hawkins
+2023,Basketball,Natchez,Alphaka Moore
+2024,Basketball,Forest Hill,charles moore
+2025,Basketball,Pascagoula,Jessica Hayes
+2026,Basketball,East Central,Wes Brewer
+2027,Basketball,West Point,Dash Daniel
+2028,Basketball,Picayune,Toby Bush
+2029,Basketball,Lake Cormorant,Justin Neely
+2030,Basketball,Center Hill,Emily Owens
+2031,Basketball,Long Beach,Chris Odom
+2032,Basketball,Canton,Talisha Jones
+2033,Basketball,Meridian,Deneshia Faulkner
+2034,Basketball,Pearl,Lacey Kennedy
+2035,Basketball,Tupelo,Matt Justice
+2036,Basketball,Hernando,Daniel Forbes
+2037,Basketball,Clinton,Pearlene Fairley
+2038,Basketball,Harrison Central,Nancy Ladner
+2039,Basketball,Germantown,Jamie Glasgow
+2040,Basketball,Olive Branch,Jason Thompson
+2041,Basketball,St. Martin,Gina Bell
+2042,Basketball,Brandon,Candace Foster
+2043,Basketball,Murrah,Anson Ross
+2044,Basketball,Greenville,Dakedreon Lampkin
+2045,Basketball,D'Iberville,Renee Ladner
+2046,Basketball,Hancock,Jamie Sisco
+2047,Basketball,Madison Central,Tameika Brown
+2048,Basketball,Oak Grove,Mark Swindle
+2049,Basketball,Horn Lake,Janna Thompson
+2050,Basketball,South Panola,ralph stallings
+2051,Basketball,Ocean Springs,LaShonda Smith
+2052,Basketball,Oxford,Cliff Ormon
+2053,Basketball,Terry,Ruth M. Buck
+2054,Basketball,Starkville,Kristie Williams
+2055,Basketball,Biloxi,Devin Hill
+2056,Basketball,West Harrison,Otis Gates
+2057,Basketball,Gulfport,Brooke Glass
+2058,Basketball,DeSoto Central,Gwendolyn Johnson Petty
+2059,Basketball,Southaven,Justin McMurphy
+2060,Basketball,Warren Central,Darein Hilliard
+2061,Basketball,Lewisburg,Jason Greer
+2062,Basketball,Northwest Rankin,KENYON ROSS
+2063,Basketball,Petal,Kotreece Bender
+2064,Basketball,Deer Creek,George Roberson
+2065,Basketball,Central School,Rhonda Martin
+2066,Basketball,Prairie View Academy,Lizz Webb
+2067,Basketball,Prentiss Christian,Les Dungan
+2068,Basketball,North Sunflower Academy,George Roberson
+2069,Basketball,Briarfield Academy,john frantom
+2070,Basketball,Sharkey Issaquena Academy,Mindy Brown
+2071,Basketball,Calhoun Academy,Jon Hood
+2072,Basketball,DeSoto,John Stoker
+2073,Basketball,Greenville Christian,Brother Sandifer
+2074,Basketball,Glenbrook,luke Ritchie
+2075,Basketball,Manchester Academy,Emily Poe
+2076,Basketball,Sylva Bay Academy,Seth Cheatham
+2077,Basketball,St. Joseph,Suzzette Suggs
+2078,Basketball,Marvell Academy,cathy wilson
+2079,Basketball,Newton County Academy,Wynona Basinger
+2080,Basketball,Porter's Chapel Academy,ej creel
+2081,Basketball,West Memphis Christian,Tabetha Bramucci
+2082,Basketball,Christian Collegiate Academy,Coach Bishop
+2083,Basketball,Lee Academy,John Stoker
+2084,Basketball,Tri-County Academy,Rod Delaney
+2085,Basketball,North Delta,Harrison Nickle
+2086,Basketball,Lee Academy,Michael Peckham
+2087,Basketball,Kirk Academy,Robin Chastain
+2088,Basketball,Columbia Academy,Tommy Sumrall
+2089,Basketball,Wayne Academy,Tamber Proctor
+2090,Basketball,Central Holmes Christian,David Lloyd Jr.
+2091,Basketball,Lamar Christian,George Coll
+2092,Basketball,Laurel Christian,Dana Loftin Douglas
+2093,Basketball,Oak Hill Academy,Stan Hughey
+2094,Basketball,River Oaks,Rob Garlington
+2095,Basketball,Strafford,Steve Frank
+2096,Basketball,Hancock,Mike Wersching
+2097,Basketball,El Dorado Springs,Beau Swopes
+2098,Basketball,South Callaway,Darren Humphrey
+2099,Basketball,Palmyra,Chris Parsons
+2100,Basketball,Southern Boone,Damon Wren
+2101,Basketball,Macon,Richard Driscoll
+2102,Basketball,"St. Pius X (Festus, MO)",Aaron Portell
+2103,Basketball,Whitfield,Michael Slater
+2104,Basketball,"St. Pius X (Kansas City, MO)",Krista Daniels
+2105,Basketball,Steelville,Seth Collins
+2106,Basketball,Licking,Steven Rissler
+2107,Basketball,St. James,Terry Wells
+2108,Basketball,California,Bobby Sangster
+2109,Basketball,Maryville,Quentin Albrecht
+2110,Basketball,Lutheran,Erin Pauk
+2111,Basketball,Lift for Life Academy,Chandra Palmer
+2112,Basketball,Liberty,Eli Ernst
+2113,Basketball,West County,Joe Arnold
+2114,Basketball,Miller Career Academy,Darrin White
+2115,Basketball,St. Michael the Archangel,Mary Kroening
+2116,Basketball,New Madrid County Central,BJ Stone
+2117,Basketball,Chillicothe,Darren Smith
+2118,Basketball,Montgomery County,Joe Basinger
+2119,Basketball,Butler,Bradley Diehl
+2120,Basketball,Clever,Dan Jones
+2121,Basketball,North Tech,John Magee
+2122,Basketball,Hermann,TODD ANDERSON
+2123,Basketball,Mt. Vernon,Doug Hepler
+2124,Basketball,Grandview,Stephen Noblitt
+2125,Basketball,Southeast,Reginald Ramsey
+2126,Basketball,Carrollton,Mitch Hundley
+2127,Basketball,Ava,Mark Wendler
+2128,Basketball,Seneca,Drew Schulte
+2129,Basketball,Lawson,Lisa Glenn
+2130,Basketball,Saxony Lutheran,Sam Sides
+2131,Basketball,Trinity Catholic,Teron Sharp
+2132,Basketball,Cameron,matt wenck
+2133,Basketball,Metro,Gary Glascock
+2134,Basketball,Clinton,David Rogers
+2135,Basketball,New Covenant Academy,David Anderlik
+2136,Basketball,Monroe City,Cody Leonard
+2137,Basketball,Trenton,Kameron Cool
+2138,Basketball,Hollister,Jimmy Lincoln
+2139,Basketball,Charleston,Tony Watkins
+2140,Basketball,Hallsville,Brad blakemore
+2141,Basketball,Sarcoxie,April Kennedy
+2142,Basketball,Fatima,Matt Baker
+2143,Basketball,Summit Christian Academy,Coach Gary Newsome
+2144,Basketball,Blair Oaks,Darren Heckman
+2145,Basketball,Kennett,Jim Vaughan
+2146,Basketball,Kelly,Darrin Pruitt
+2147,Basketball,Twin Rivers,David Crockett
+2148,Basketball,Highland,Meleia Niemann
+2149,Basketball,Dixon,James Thompson
+2150,Basketball,Central,DL Marshall
+2151,Basketball,Duchesne,Charlie Elmendorf
+2152,Basketball,Stockton,Kevin Burns
+2153,Basketball,Holden,Charlie Castle
+2154,Basketball,Fair Grove,jennifer talbert
+2155,Basketball,Richmond,Jennifer Clark
+2156,Basketball,Orchard Farm,Michael Seideman
+2157,Basketball,Pierce City,Tiffany Dirks
+2158,Basketball,Willow Springs,Dj Gutscher
+2159,Basketball,Brookfield,Anthony Fairchild
+2160,Basketball,Woodland,Adam Stevens
+2161,Basketball,Cuba,Ryan Bobbitt
+2162,Basketball,McCluer South-Berkeley,Gregory Brown
+2163,Basketball,Caruthersville,Bradley Sneed
+2164,Basketball,Maplewood-Richmond Heights,Philip Crawford
+2165,Basketball,Bowling Green,Craig Smith
+2166,Basketball,Knob Noster,Sarah Dillon
+2167,Basketball,St. Paul Lutheran,John Beerman
+2168,Basketball,Centralia,Rebecca Schemmer
+2169,Basketball,East Newton,Clayton Bagby
+2170,Basketball,Barstow,Liz Monahan
+2171,Basketball,Kingston,Bobby Rousan
+2172,Basketball,Buffalo,Tom Stokes
+2173,Basketball,North Callaway,Morgan Beamer
+2174,Basketball,Houston,Brent Kell
+2175,Basketball,Conway,Ben Phillips
+2176,Basketball,Father Tolton,Curt Riley
+2177,Basketball,Fredericktown,Scott Davis
+2178,Basketball,Eldon,Ashley Agee
+2179,Basketball,University Academy Charter,Shane O'Neal
+2180,Basketball,Lathrop,Cassy Nicolay
+2181,Basketball,Cardinal Ritter College Prep,Darren Wade
+2182,Basketball,Lamar,Mandy Moyer
+2183,Basketball,Mountain Grove,Courtney Davault
+2184,Basketball,Hogan Prep Charter,Jeffrey Burgett
+2185,Basketball,Bourbon,Randy Payne
+2186,Basketball,Versailles,Mandi Young
+2187,Basketball,Sherwood,Levi Schrock
+2188,Basketball,Warsaw,Cody Morgan
+2189,Basketball,Clearwater,Cheryl Dean
+2190,Basketball,Winfield,Timothy Smith
+2191,Basketball,Soldan International Studies,Mildred Taylor-Myers
+2192,Basketball,Springfield Catholic,Jacob Morlan
+2193,Basketball,Bayless,Victoria Hunt
+2194,Basketball,Living Word Christian,David Sparks
+2195,Basketball,Lexington,Brad Young
+2196,Basketball,Carl Junction,Brad Shorter
+2197,Basketball,West Plains,Scott Womack
+2198,Basketball,Kearney,Troy Resler
+2199,Basketball,Ste. Genevieve,Jordanna Walk
+2200,Basketball,Sullivan,Jason Merkel
+2201,Basketball,Incarnate Word Academy,Dan Rolfes
+2202,Basketball,"Notre Dame (Cape Girardeau, MO)",Kirk Boeller
+2203,Basketball,Rolla,Charley Parker
+2204,Basketball,Boonville,Jaryt Hunziker
+2205,Basketball,Westminster Christian,Shannon Lawrence
+2206,Basketball,Union,Dusty Weiskopf
+2207,Basketball,Mexico,Ed Costley
+2208,Basketball,North County,Zac McVey
+2209,Basketball,Grain Valley,Katie Woolsey
+2210,Basketball,Odessa,Bud Nelson
+2211,Basketball,St. Clair,mark verticchio
+2212,Basketball,Camdenton,Staci Caffey
+2213,Basketball,Grandview,Heath Cooper
+2214,Basketball,Parkway North,Brett Katz
+2215,Basketball,Hannibal,Evan Cerven
+2216,Basketball,Smithville,Trevor Mosby
+2217,Basketball,Lincoln College Prep,Jeff Atkins
+2218,Basketball,"Central (Cape Girardeau, MO)",Sherri Shirrell
+2219,Basketball,Warrensburg,Valerie Stambersky
+2220,Basketball,Salem,Jake Reardon
+2221,Basketball,Warrenton,Phillip Philyaw
+2222,Basketball,Vashon,John Albert
+2223,Basketball,St. Francis Borgia,Stacia Parsell
+2224,Basketball,Ursuline Academy,Jim Ewing
+2225,Basketball,MICDS,Scott Small
+2226,Basketball,Burroughs,John Merritt
+2227,Basketball,St. Charles,Ben Owens
+2228,Basketball,Pembroke Hill,Jim McMurray
+2229,Basketball,Helias,Alan Lepper
+2230,Basketball,Moberly,Trisha Lyons
+2231,Basketball,Perryville,Victoria Lohmann
+2232,Basketball,Marshall,Paul Alberson
+2233,Basketball,Clayton,Heath Kent
+2234,Basketball,St. Joseph's Academy,Julie Matheny
+2235,Basketball,Sikeston,Alisha Wills
+2236,Basketball,Center,Katrina Johnigan
+2237,Basketball,Notre Dame de Sion,Chad Lynn
+2238,Basketball,St. Dominic,Jeff Menke
+2239,Basketball,Pacific,Bill Thoele
+2240,Basketball,Farmington,Andy Sherrill
+2241,Basketball,Potosi,Brett Hale
+2242,Basketball,Logan-Rogersville,Denny McHenry
+2243,Basketball,Owensville,Ryan Flanagan
+2244,Basketball,Webb City,Lance Robbins
+2245,Basketball,Savannah,Aaron Cooper
+2246,Basketball,Kirksville,Emily Powell
+2247,Basketball,Monett,Kelly George
+2248,Basketball,Oak Grove,Toni Leon
+2249,Basketball,University City,Danna Walker
+2250,Basketball,Platte County,Rebecca Strobbe
+2251,Basketball,"Notre Dame (St. Louis, MO)",Megan Brady
+2252,Basketball,Benton,Matt Ziesel
+2253,Basketball,Excelsior Springs,JD Biermann
+2254,Basketball,Hazelwood East,Terry Credmen
+2255,Basketball,DeSoto,Al Boulicault
+2256,Basketball,Capital City,Ryan Madison
+2257,Basketball,Pleasant Hill,Justin Mefford
+2258,Basketball,McDonald County,Blake Short
+2259,Basketball,Affton,Brian Byrd
+2260,Basketball,Bolivar,Ben Glasgow
+2261,Basketball,Neosho,Matt Hixson
+2262,Basketball,Reeds Spring,Lesley Reeves-Eakins
+2263,Basketball,Fulton,Dillan Brunk
+2264,Basketball,Riverview Gardens,Jamal Thompson
+2265,Basketball,Hillcrest,Meagan Nunn
+2266,Basketball,Winnetonka,Brock Tiefenbrunn
+2267,Basketball,Harrisonville,Shawn Gibbs
+2268,Basketball,Lafayette,Brad Spinner
+2269,Basketball,Washington,Greg Traffas
+2270,Basketball,Hillsboro,Joe Fehlker
+2271,Basketball,Roosevelt,Tyrone Jones
+2272,Basketball,Raytown South,Aaron Ihm
+2273,Basketball,Dexter,Chad Allen
+2274,Basketball,Ruskin,Shannon Higgins
+2275,Basketball,Liberty (MO),Chad Fleming
+2276,Basketball,Howell Central,Haley Leake
+2277,Basketball,Kirkwood,Ron Sanford
+2278,Basketball,Jefferson City,Kay Foster
+2279,Basketball,Blue Springs,Mark Spigarelli
+2280,Basketball,Rock Bridge,Jill Nagel
+2281,Basketball,Fort Zumwalt North,Gary Bradshaw
+2282,Basketball,Staley,Sherry Butts
+2283,Basketball,Holt,Justin Wilmes
+2284,Basketball,Willard,Mike Percival
+2285,Basketball,Lee's Summit West,Jared Broughton
+2286,Basketball,Republic,kris flood
+2287,Basketball,Webster Groves,Patti Perkins
+2288,Basketball,Park Hill,Aaron Neeser
+2289,Basketball,Liberty North,Brian Rockers
+2290,Basketball,Lebanon,Jacky Payne
+2291,Basketball,North Kansas City,Jeff Lacy
+2292,Basketball,Oak Park,zane tanner
+2293,Basketball,Poplar Bluff,John Pattillo
+2294,Basketball,Hazelwood Central,Wendy Reeves
+2295,Basketball,Troy-Buchanan,Damond Lacy
+2296,Basketball,Truman,Jim Page
+2297,Basketball,Branson,Keri Nichols
+2298,Basketball,Parkway Central,Brian Guilfoyle
+2299,Basketball,Eureka,James Alsup
+2300,Basketball,Belton,Brad Batchelder
+2301,Basketball,Raytown,Jan Handley
+2302,Basketball,"Central (St. Joseph, MO)",Jared Boone
+2303,Basketball,Kickapoo,Jim Pendergrass
+2304,Basketball,Chrisman,Lindsay Thompson
+2305,Basketball,Jackson,Tyler Abernathy
+2306,Basketball,"Central (Springfield, MO)",Caitlin Russell
+2307,Basketball,Fort Zumwalt West,Amanda Kreuger
+2308,Basketball,Nixa,Jim Middleton
+2309,Basketball,Carthage,Scott Moore
+2310,Basketball,Smith-Cotton,Jon Tester
+2311,Basketball,Fort Zumwalt South,Melanie Schmit
+2312,Basketball,Fox,Jeremy Donald
+2313,Basketball,Parkway South,Thomas Williams
+2314,Basketball,Lindbergh,Bill Thoele
+2315,Basketball,Raymore-Peculiar,Jonathan Benson
+2316,Basketball,Pattonville,James Dalton
+2317,Basketball,Park Hill South,Joshua Dorr
+2318,Basketball,Parkway West,Allie Boedeker
+2319,Basketball,Hickman,Anna Rorvig
+2320,Basketball,Lee's Summit North,Tricia Lillygren
+2321,Basketball,Lafayette,Jennifer Porter
+2322,Basketball,Battle,Michael Fernandez
+2323,Basketball,St. Teresa's Academy,Christy Collins
+2324,Basketball,Howell,Dawn Schuster
+2325,Basketball,Fort Osage,Lindsay Thompson
+2326,Basketball,Glendale,Trish Marsh
+2327,Basketball,Waynesville,brittany Matlock
+2328,Basketball,Timberland,EMILY HOEHN
+2329,Basketball,Lee's Summit,Jessica Crawford
+2330,Basketball,Parkview,Keri Nichols
+2331,Basketball,Mehlville,Chris Cook
+2332,Basketball,Joplin,Vicki Spivy
+2333,Basketball,Lutheran,Erin Pauk
+2334,Basketball,St. Francis Borgia,Stacia Parsell
+2335,Basketball,St. Dominic,Jeff Menke
+2336,Basketball,Cardinal Ritter College Prep,Darren Wade
+2337,Basketball,Trinity Catholic,Teron Sharp
+2338,Basketball,Notre Dame,Megan Brady
+2339,Basketball,Living Word Christian,David Sparks
+2340,Basketball,Mt. Vernon,Doug Hepler
+2341,Basketball,Hollister,Jimmy Lincoln
+2342,Basketball,Logan-Rogersville,Denny McHenry
+2343,Basketball,Monett,Kelly George
+2344,Basketball,Seneca,Drew Schulte
+2345,Basketball,McDonald County,Blake Short
+2346,Basketball,Springfield Catholic,Jacob Morlan
+2347,Basketball,Lamar,Mandy Moyer
+2348,Basketball,Reeds Spring,Lesley Reeves-Eakins
+2349,Basketball,Van Buren,Randal Jenkins
+2350,Basketball,Eminence,Lee Richardson
+2351,Basketball,Alton,Stephanie Miller
+2352,Basketball,Van Buren,Randal Jenkins
+2353,Basketball,South Iron,Lawrence Graves
+2354,Basketball,Southern Reynolds,Jim Seal
+2355,Basketball,Lesterville,Melissa St.Gemme
+2356,Basketball,Loyola-Sacred Heart,Betsy Cornelius
+2357,Basketball,Sweet Grass County,Alycia Nathe
+2358,Basketball,Harlem,Clayton D
+2359,Basketball,Colstrip,Roxie Wilson
+2360,Basketball,Lincoln County,Ryan Holder
+2361,Basketball,Columbus,Ted Miller
+2362,Basketball,Glasgow,Willie Thibault
+2363,Basketball,Whitehall,Kerry Sacry
+2364,Basketball,Florence-Carlton,Bryan Neuman
+2365,Basketball,Shelby,Kara Peterson
+2366,Basketball,Malta,Terry Lindgren
+2367,Basketball,Fairfield,Dustin Gordon
+2368,Basketball,Jefferson,Karson Klass
+2369,Basketball,Bigfork,Jason Grende
+2370,Basketball,Baker,Clayton Hornung
+2371,Basketball,Huntley Project,Connor Novakovich
+2372,Basketball,Rocky Boy,Cameron McCormick
+2373,Basketball,Joliet,John Nelson
+2374,Basketball,Lodge Grass,Trivian Rides The Bear
+2375,Basketball,St. Ignatius,Les Rice
+2376,Basketball,Broadwater,Dan Hazlett
+2377,Basketball,Wolf Point,Jeff Neubauer
+2378,Basketball,Conrad,Tyler Bucklin
+2379,Basketball,Choteau,Carissa Jenkins
+2380,Basketball,Poplar,les bighorn
+2381,Basketball,Shepherd,Paul Martin
+2382,Basketball,Manhattan,Neil Harvey
+2383,Basketball,Cut Bank,Brandon Kavanagh
+2384,Basketball,Arlee,Bill Stockton
+2385,Basketball,Powell County,Bob Schalk
+2386,Basketball,Clark Fork co-op [Superior/Alberton],Jeff Schultz
+2387,Basketball,Fort Benton,Austin McGrann
+2388,Basketball,Melstone,J.R. Pierce
+2389,Basketball,Belt,Jeff Graham
+2390,Basketball,Roy/Winifred,Dave Udelhoven
+2391,Basketball,Plenty Coups,Mary Goes Ahead-Volk
+2392,Basketball,MonDak [Westby/Grenora],Dylan MacLean
+2393,Basketball,Charlo,bret thompson
+2394,Basketball,Augusta,Matt Bean
+2395,Basketball,West Yellowstone,Nubia Allen
+2396,Basketball,Seeley-Swan,Shawn Holmes
+2397,Basketball,Manhattan Christian,Scott Wolf
+2398,Basketball,Hot Springs,Scott Wigton
+2399,Basketball,Carter County,Jim Pardee
+2400,Basketball,Simms,Jackie Whaley
+2401,Basketball,Granite,Sarah Knutson
+2402,Basketball,North Star,Brian Campbell
+2403,Basketball,Park City,Koree Anderson
+2404,Basketball,Gardiner,Schalene Darr
+2405,Basketball,Ennis,Zach Jepson
+2406,Basketball,Darby,JP McCrossin
+2407,Basketball,Culbertson,Valli Hauge
+2408,Basketball,Cascade,Robin McKnight
+2409,Basketball,Circle,Jason Jessen
+2410,Basketball,Drummond,Mike Bradshaw
+2411,Basketball,Dodson,Collette Stiffarm
+2412,Basketball,Box Elder,Joel Rosette
+2413,Basketball,Twin Bridges,Josh Keller
+2414,Basketball,Savage,Darcy Kessel
+2415,Basketball,Garfield County,Tom Billing
+2416,Basketball,Valley Christian,Brennan Koch
+2417,Basketball,Heart Butte,Lyle Mac Donald
+2418,Basketball,Frazer,Dori Talks Different
+2419,Basketball,Centerville,Brian Davison
+2420,Basketball,Lincoln,Kurtis Janzen
+2421,Basketball,Chester-Joplin-Inverness,Pat Goldhahn
+2422,Basketball,St. Regis,Brooks Sanford
+2423,Basketball,Bainville,Tanya Wilson
+2424,Basketball,Lone Peak,Connie Lunt
+2425,Basketball,North Toole County,Griff Bye
+2426,Basketball,White Sulphur Springs,Nancy Hereim
+2427,Basketball,Broadview/Lavina,Bart Erickson
+2428,Basketball,Fromberg,Samantha Anttila
+2429,Basketball,Sheridan,Wendy Fabel
+2430,Basketball,Big Sandy,Thomas Dilworth
+2431,Basketball,Chinook,Charlie Robinson
+2432,Basketball,Victor,Ryan Tolley
+2433,Basketball,Nashua/Opheim,Nikki Taylor
+2434,Basketball,Lima,Jack Hutchison
+2435,Basketball,Terry,Jason Grey Eagle
+2436,Basketball,Two Eagle River,Mark Scheckleford
+2437,Basketball,Brockton,Don Linthicum
+2438,Basketball,Dutton-Brady,Tim Tharp
+2439,Basketball,Stillwater Christian,Jennah Mitchell
+2440,Basketball,Billings Christian,Rachel Harp
+2441,Basketball,Gallatin Valley Christian HomeSchool,Joe Perry
+2442,Basketball,Flathead Valley HomeSchool,Mark Kenney
+2443,Basketball,Foothills Community Christian,Sydnie Fulbright
+2444,Basketball,Dawson,Richy Powell
+2445,Basketball,Sidney,Dan Peters
+2446,Basketball,Browning,Lockley Bremner
+2447,Basketball,Columbia Falls,Dan Fairbank
+2448,Basketball,Ronan,Ron Hanson
+2449,Basketball,Libby,Jim May
+2450,Basketball,Billings Central Catholic,Jeff Malby
+2451,Basketball,Beaverhead County,Gabe Walker
+2452,Basketball,Hamilton,Mark Albert
+2453,Basketball,Frenchtown,Lori Quinn
+2454,Basketball,Corvallis,Jeff Olson
+2455,Basketball,Butte Central Catholic,Meg Murphy
+2456,Basketball,North Bend Central,Aaron Sterup
+2457,Basketball,Chadron,Jonn McLain
+2458,Basketball,Broken Bow,Kelly Cooksley
+2459,Basketball,Chase County,Randy Longoria
+2460,Basketball,St. Paul,Rick Peters
+2461,Basketball,Lincoln Christian,Nick Orduna
+2462,Basketball,Ogallala,Chris Mestl
+2463,Basketball,West Point-Beemer,Taylor Shepard
+2464,Basketball,Syracuse,Andrew Pryor
+2465,Basketball,Malcolm,Andy Klepper
+2466,Basketball,Milford,Phil Stauffer
+2467,Basketball,Wahoo,Linda Walker
+2468,Basketball,Norfolk Catholic,Tim Kassmeier
+2469,Basketball,O'Neill,Brock Eichelberger
+2470,Basketball,Battle Creek,Seth Montag
+2471,Basketball,Brownell Talbot,Brad Dunlap
+2472,Basketball,Adams Central,Joshua Lewis
+2473,Basketball,Winnebago,Treivan Bear
+2474,Basketball,Roncalli Catholic,Don Jensen
+2475,Basketball,Gothenburg,Brent Streeter
+2476,Basketball,Ord,Dexter Goodner
+2477,Basketball,Fairbury,Lyle Thompson
+2478,Basketball,Kearney Catholic,Rick Petri
+2479,Basketball,Mitchell,Shawn Harvey
+2480,Basketball,Arlington,Morgan Mruz
+2481,Basketball,Wakefield/Allen,Kent Emswiler
+2482,Basketball,Douglas County West,Russ Ninemire
+2483,Basketball,Lincoln Lutheran,Allen Simpson
+2484,Basketball,Ashland-Greenwood,Barry Fangmeyer
+2485,Basketball,Central City,Daniel Negus
+2486,Basketball,Louisville,Wally Johnson
+2487,Basketball,Southern Valley,Richard McDonald
+2488,Basketball,Ainsworth,Stephen Crile
+2489,Basketball,David City,Beth B
+2490,Basketball,Scotus,Jarrod Ridder
+2491,Basketball,Auburn,Grant Cole
+2492,Basketball,Pierce,Darren Sindelar
+2493,Basketball,Boone Central/Newman Grove,Andy Imus
+2494,Basketball,Boys Town,Michele Matulevicz
+2495,Basketball,Gordon-Rushville,Randy Hurlburt
+2496,Basketball,Minden,Taylor Maulsby
+2497,Basketball,Lakeview,Monte Jones
+2498,Basketball,Valentine,Ian Bish
+2499,Basketball,Concordia,Trent Minneman
+2500,Basketball,Hershey,
+2501,Basketball,Falls City,max milam
+2502,Basketball,Wilber-Clatonia,Jesi Markvicka
+2503,Basketball,Logan View/Scribner-Snyder,Nick Hegge
+2504,Basketball,Wayne,Rocky Ruhl
+2505,Basketball,Cozad,Zachary Stauffer
+2506,Basketball,Gibbon,Chelsey Jacobitz
+2507,Basketball,Fort Calhoun,Allie Schleifer
+2508,Basketball,Conestoga,Tony Thies
+2509,Basketball,St. Cecilia,Greg Berndt
+2510,Basketball,Oakland-Craig,Joe Anderson
+2511,Basketball,South Loup,Abe Hinman
+2512,Basketball,Crofton,Aaron Losing
+2513,Basketball,Superior,Jim Sullivan
+2514,Basketball,Guardian Angels Central Catholic,Jerry Stracke
+2515,Basketball,Ponca,Bob Hayes
+2516,Basketball,Lourdes Central Catholic,Clay Carlton
+2517,Basketball,Cross County,Mitch Boshart
+2518,Basketball,North Central,Alex McCleary
+2519,Basketball,Bancroft-Rosalie/Lyons-Decatur Northeast,Rod Peters
+2520,Basketball,Clarkson/Leigh,Matt Murren
+2521,Basketball,Summerland [Clearwater/Ewing/Orchard],Greg Appleby
+2522,Basketball,Elm Creek,Mike Ford
+2523,Basketball,Bridgeport,Dave Kuhlen
+2524,Basketball,Southern,Jeff Murphy
+2525,Basketball,Fillmore Central,Shad Eberhardt
+2526,Basketball,Grand Island Central Catholic,stacia rice
+2527,Basketball,Morrill,Josh Guerue
+2528,Basketball,Thayer Central,Erin Saathoff
+2529,Basketball,Centennial,Jake Polk
+2530,Basketball,Boyd County,Jeff Hart
+2531,Basketball,Maxwell,Kassie Schuett
+2532,Basketball,Yutan,Rod Henkel
+2533,Basketball,Sutton,Josh Rapp
+2534,Basketball,Ravenna,Noah Maulsby
+2535,Basketball,Elmwood-Murdock,Paul Dwyer
+2536,Basketball,Blue Hill,Tim Streff
+2537,Basketball,Homer,Merlyn Tremayne
+2538,Basketball,Freeman,Kristin Kroeker
+2539,Basketball,Arcadia/Loup City,Jason Bott
+2540,Basketball,Wood River,Phil Smith
+2541,Basketball,Bayard,Zach Nesbitt
+2542,Basketball,Aquinas,Nathan Wall
+2543,Basketball,Mead,Lyle Havelka
+2544,Basketball,Cedar Bluffs,Brian Dunker
+2545,Basketball,Burwell,Garrett Mann
+2546,Basketball,Tekamah-Herman,David Eriksen
+2547,Basketball,Lutheran-Northeast,Mike Wiederin
+2548,Basketball,Johnson County Central,Karen Hunzeker
+2549,Basketball,Doniphan-Trumbull,Jerry Caraway
+2550,Basketball,Shelby-Rising City,Turner Trofholz
+2551,Basketball,Hi-Line [Eustis-Farnam/Elwood],Patrick Ropers
+2552,Basketball,Howells-Dodge,Scott Polacek
+2553,Basketball,Centura,Laethion Brown
+2554,Basketball,Stanton,Greg Wegner
+2555,Basketball,Madison,Joe Crilly
+2556,Basketball,West Holt,Riley Bonifas
+2557,Basketball,Bishop Neumann,Jason Simons
+2558,Basketball,Wisner-Pilger,Brooke Scheitel
+2559,Basketball,Hemingford,Jordan Haas
+2560,Basketball,Cornerstone Christian School,Amy Kieser
+2561,Basketball,Tri County,Hannah Gay
+2562,Basketball,Sandy Creek,Jeremy Borer
+2563,Basketball,Pleasanton,Jordan Arensdorf
+2564,Basketball,Chambers/Wheeler Central,Laurel O'Malley
+2565,Basketball,Weeping Water,Joel Haveman
+2566,Basketball,South Platte,Andie Cheleen
+2567,Basketball,Maywood/Hayes Center,Kimberly Stengel
+2568,Basketball,Humphrey/Lindsay Holy Family,Kandee Hanzel
+2569,Basketball,Fullerton,Stacy Kramer
+2570,Basketball,Overton,Nicole Arp
+2571,Basketball,Dundy County-Stratton,Matt Thomas
+2572,Basketball,Elkhorn Valley,Brendan Dittmer
+2573,Basketball,St. Patrick's,Nathan Stienike
+2574,Basketball,Palmer,Brandon Rolf
+2575,Basketball,Meridian,Robert Schropfer
+2576,Basketball,Cambridge,Jarod Albers
+2577,Basketball,Archbishop Bergan,Nate Pribnow
+2578,Basketball,Pender,Luke Hoffman
+2579,Basketball,Hitchcock County,Mark Brown
+2580,Basketball,Elgin/Pope John,Randy Eisenhauer
+2581,Basketball,Alma,Amanda Siebels
+2582,Basketball,Humboldt-Table Rock-Steinauer,Karmen Tomek
+2583,Basketball,East Butler,James Kriz
+2584,Basketball,Diller-Odell,John Mohr
+2585,Basketball,Laurel-Concord-Coleridge,Marcus Messersmith
+2586,Basketball,Osmond,David Schmit
+2587,Basketball,Johnson-Brock,Landonn Mackey
+2588,Basketball,Hartington-Newcastle,Josh Morten
+2589,Basketball,Heartland,Greg Veerhusen
+2590,Basketball,Omaha Nation,Peggy Hayes
+2591,Basketball,Sandhills Valley,Meka Melvin
+2592,Basketball,Cedar Catholic,Craig Wortmann
+2593,Basketball,Shelton,Jeff Thober
+2594,Basketball,Franklin,Adam Boettcher
+2595,Basketball,Pawnee City,Dani Niss
+2596,Basketball,Kimball,Chauncey Pedersen
+2597,Basketball,Creighton,Kyle Kibbie
+2598,Basketball,Axtell,Alyssa Prososki
+2599,Basketball,Southwest,Dennis Hengen
+2600,Basketball,Central Valley,Dori Gills
+2601,Basketball,Neligh-Oakdale,christy Knutson
+2602,Basketball,Kenesaw,Jace Morgan
+2603,Basketball,Twin River,Bryan Pilakowski
+2604,Basketball,Wausa,Brandon Kirby
+2605,Basketball,Niobrara/Verdigre,Kimberly Miller
+2606,Basketball,Harvard,Thad Fields
+2607,Basketball,Omaha Christian Academy,Natasha Kerrigan
+2608,Basketball,Perkins County,Katie Cross
+2609,Basketball,McCool Junction,Alyssa VanWesten
+2610,Basketball,High Plains,Kimmie alspaugh
+2611,Basketball,Deshler,Kaitlyn Buss
+2612,Basketball,Ansley/Litchfield,Travis Olson
+2613,Basketball,Sutherland,Jason Gunderson
+2614,Basketball,Arapahoe,Preston Blackmore
+2615,Basketball,Plainview,Brandi Alexander
+2616,Basketball,Amherst,Nathan Dietz
+2617,Basketball,Lawrence-Nelson,Andy Peterson
+2618,Basketball,Mullen,Clint Svoboda
+2619,Basketball,St. Francis,Bryan Reichmuth
+2620,Basketball,Wynot,Steve Wieseler
+2621,Basketball,Sacred Heart,Luke Santo
+2622,Basketball,Silver Lake,Joshua Drake
+2623,Basketball,Bruning-Davenport/Shickley,Shana Gerberding
+2624,Basketball,Loomis,Stacia Fertig
+2625,Basketball,Sterling,Josh Pfeiffer
+2626,Basketball,Sioux County,Barry Swisher
+2627,Basketball,Arthur County,Kesston Fink
+2628,Basketball,Dorchester,Brandon Bruha
+2629,Basketball,Cody-Kilgore,Allie O'Neill
+2630,Basketball,Anselmo-Merna,Trenton Kirchmann
+2631,Basketball,Leyton,Jed Benish
+2632,Basketball,Exeter-Milligan,Jackson Krejci
+2633,Basketball,Stuart,Colin Schurman
+2634,Basketball,Crawford,Julie Micheel
+2635,Basketball,Nebraska Christian,Erin Mankin
+2636,Basketball,Sumner-Eddyville-Miller,John Rohde
+2637,Basketball,Bertrand,Shaun Kidder
+2638,Basketball,Bloomfield,Terri Mlady
+2639,Basketball,Hampton,Margo LaBrie
+2640,Basketball,Wauneta-Palisade,Matt Cox
+2641,Basketball,Giltner,Nancy Lockmon
+2642,Basketball,Garden County,Chad Dormann
+2643,Basketball,Wilcox-Hildreth,Cody Whipkey
+2644,Basketball,Santee,Jason Folkers
+2645,Basketball,Minatare,Schyler Ferguson
+2646,Basketball,Brady,Lance Arterburn
+2647,Basketball,Randolph,Marcus Papenhausen
+2648,Basketball,Elba,Sarah Morrow
+2649,Basketball,Wallace,Shawn Sullivan
+2650,Basketball,Heartland Lutheran,Brad Bills
+2651,Basketball,St. Edward,Tyler Gray
+2652,Basketball,St. Mary's,Traci Berg
+2653,Basketball,Nebraska Lutheran,Benjy Wells
+2654,Basketball,Medicine Valley,Derek Bantam
+2655,Basketball,Winside,Devin Gnat
+2656,Basketball,Creek Valley,Missy Koenen
+2657,Basketball,Lewiston,Schuyler Kuhlmann
+2658,Basketball,Twin Loup,Ken Wright
+2659,Basketball,Osceola,Mallory Berggren
+2660,Basketball,Hay Springs,ron olson
+2661,Basketball,Paxton,Sadie Waugh
+2662,Basketball,Riverside,Will Wragge
+2663,Basketball,Sandhills/Thedford,Bec Ray
+2664,Basketball,Red Bank Regional,James Young
+2665,Basketball,Allentown,Shoresporys Jersey
+2666,Basketball,Burlington Township,Jason Williams
+2667,Basketball,Neptune,John Brown
+2668,Basketball,Colts Neck,Jeanene Healy
+2669,Basketball,Hopewell Valley Central,Coleen Ross
+2670,Basketball,Northern Burlington,Edward Fitzpatrick
+2671,Basketball,Wall Township,Colleen Wisher
+2672,Basketball,Middletown North,Chris Hoffman
+2673,Basketball,Matawan Regional,Felicia Oliver
+2674,Basketball,Ocean Township,Maggie Kinkela
+2675,Basketball,Brick Township,Kevin Stockhoff
+2676,Basketball,Nottingham,Lauren Adams
+2677,Basketball,Freehold Boro,Jennifer Brzucki
+2678,Basketball,Monroe Township,Sandy Mascali
+2679,Basketball,Long Branch,Shannon Coyle
+2680,Basketball,North Brunswick,Shaun Morrell
+2681,Basketball,Trenton Central,REGINALD MURRAY
+2682,Basketball,Old Bridge,johnny jackson
+2683,Basketball,Montgomery,Matt Margon
+2684,Basketball,Hightstown,Doug Shunk
+2685,Basketball,West Windsor-Plainsboro South,Bryan Fisher
+2686,Basketball,East Brunswick,K Motusesky
+2687,Basketball,West Windsor-Plainsboro North,Frank Moore
+2688,Basketball,Hudson Catholic,Pete Vincent
+2689,Basketball,Paramus Catholic,s s
+2690,Basketball,Mother Seton,Camille Mammolite
+2691,Basketball,Pope John XXIII,mike carlin
+2692,Basketball,St. Dominic Academy,David Wunsch
+2693,Basketball,DePaul Catholic,Chris Iannarone
+2694,Basketball,Saddle River Day,Danny Brown
+2695,Basketball,"Immaculate Conception (Montclair, NJ)",Jimmy Kreie
+2696,Basketball,Marist,Reggie Quinn
+2697,Basketball,Morris Catholic,William Lovett
+2698,Basketball,St. Mary,Jamie Lobue
+2699,Basketball,Villa Walsh Academy,Coach Connors
+2700,Basketball,Academy of St. Elizabeth,Jeff Moeller
+2701,Basketball,Mary Help of Christians Academy,Maria Martin
+2702,Basketball,"Immaculate Conception (Lodi, NJ)",jeffrey horohonich
+2703,Basketball,Eastern Christian,Steve King
+2704,Basketball,St. John-Vianney,Dawn Karpell
+2705,Basketball,Paul VI,Lisa Steele
+2706,Basketball,Red Bank Catholic,Joe Montano
+2707,Basketball,Union Catholic,Kathy Matthews
+2708,Basketball,Mount St. Mary Academy,Joseph Kozoh
+2709,Basketball,St. Rose,Mary Beth Chambers
+2710,Basketball,Bishop Eustace Prep,John Considine III
+2711,Basketball,Notre Dame,james martino
+2712,Basketball,The Pingry School,David White
+2713,Basketball,Camden Catholic,Chris Palladino
+2714,Basketball,Trenton Catholic Academy,Bob Fusik
+2715,Basketball,Wildwood Catholic,Steve DiPatri
+2716,Basketball,Calvary Christian,Tom Fogarty
+2717,Basketball,Our Lady of Mercy Academy,Tom McNelia
+2718,Basketball,Trinity Hall,Matthew McCarthy
+2719,Basketball,Gill St. Bernard's,Aaron Gratch
+2720,Basketball,Mater Dei,Michael Pineiro
+2721,Basketball,Holy Spirit,Tim Whitworth
+2722,Basketball,Holy Cross,Joe Larubbio
+2723,Basketball,Wardlaw Hartridge,Michael Howell
+2724,Basketball,Timothy Christian,Miriam Hartzler
+2725,Basketball,Ranney,Tom Moriau
+2726,Basketball,Cresskill,Jennifer Rilli
+2727,Basketball,North Warren Regional,Jill Masker
+2728,Basketball,Midland Park,david kessinger
+2729,Basketball,Park Ridge,Ryan Dennis
+2730,Basketball,Saddle Brook,Jeffrey Horohonich
+2731,Basketball,Wood-Ridge,Lou Wejnert
+2732,Basketball,Passaic Arts & Science Charter,Natasha Charles
+2733,Basketball,New Milford,David Wilson
+2734,Basketball,Boonton,mike carlin
+2735,Basketball,Bogota,Morgan Taylor
+2736,Basketball,Wallington,Brian Staples
+2737,Basketball,Los Lunas,Marty Zeller
+2738,Basketball,Kirtland Central,Devon Manning
+2739,Basketball,Bernalillo,Raymond Aragon
+2740,Basketball,Portales,Wade Fraze
+2741,Basketball,Goddard,Jared Neighbors
+2742,Basketball,Highland,Lonnie Neal
+2743,Basketball,Gallup,Todd McBroom
+2744,Basketball,Pojoaque Valley,Seledon Martinez
+2745,Basketball,Silver,Raymond Torrez
+2746,Basketball,Espanola Valley,Joe Estrada
+2747,Basketball,Valley,Joseph Tafoya
+2748,Basketball,Grants,Joshua Grine
+2749,Basketball,Bloomfield,Tom Adair
+2750,Basketball,Lovington,Wade Scott
+2751,Basketball,St. Pius X,Bree Rode
+2752,Basketball,Miyamura,Joshua Dupont
+2753,Basketball,Moriarty,Erin Edwards
+2754,Basketball,Shiprock,Vernetta Begay
+2755,Basketball,Taos,David Sanchez
+2756,Basketball,Hope Christian,David Medina
+2757,Basketball,Artesia,Jeff Houghtaling
+2758,Basketball,Chaparral,Jodi Copley
+2759,Basketball,Santa Teresa,Eric Legarreta
+2760,Basketball,Del Norte,David Gonzales
+2761,Basketball,Valencia,Micaela Medina
+2762,Basketball,Aztec,Robert McCaskill
+2763,Basketball,Albuquerque Academy,Taryn Bachis
+2764,Basketball,Ruidoso,Troy Schmidt
+2765,Basketball,Hobbs,Joe Carpenter
+2766,Basketball,Volcano Vista,Lisa Villareal
+2767,Basketball,Piedra Vista,Joe Reed
+2768,Basketball,La Cueva,Robert Perea
+2769,Basketball,Centennial,Louie Laborin
+2770,Basketball,Sandia,Lee Kettig
+2771,Basketball,Mayfield,George Maya
+2772,Basketball,Carlsbad,John Zumbrun
+2773,Basketball,Cibola,Lori Mabrey
+2774,Basketball,Farmington,Larenson Henderson
+2775,Basketball,Deming,Kimberly Garcia
+2776,Basketball,Cleveland,Susan Kubala
+2777,Basketball,West Mesa,Manny Otero
+2778,Basketball,Onate,Evelyn Reyes
+2779,Basketball,Albuquerque,Doug Dorame
+2780,Basketball,Alamogordo,Manny Vigil
+2781,Basketball,Manzano,Roger Williams
+2782,Basketball,Clovis,Jeff Reed
+2783,Basketball,Santa Fe,Nate Morris
+2784,Basketball,Las Cruces,LORI SELBY
+2785,Basketball,Capital,Darren Casados
+2786,Basketball,Eldorado,Leroy Barela
+2787,Basketball,Atrisco Heritage Academy,Joe Montoya
+2788,Basketball,Rio Rancho,Scott Peterson
+2789,Basketball,Roswell,Fernando Sanchez
+2790,Basketball,Gadsden,Ana Valtierra
+2791,Basketball,Melrose,Caleb King
+2792,Basketball,Logan,Glynna Strand
+2793,Basketball,Roy/Mosquero,Blair Clavel
+2794,Basketball,Gateway Christian,Holly Tipton
+2795,Basketball,Pine Hill,Carlett Daniels
+2796,Basketball,To'hajiilee,Visaria Apachito
+2797,Basketball,Fort Sumner,Ben Segura
+2798,Basketball,Tatum,Greg Slover
+2799,Basketball,Mountainair,Adrienne Bargas
+2800,Basketball,Cimarron,Ashley Gonzales
+2801,Basketball,Clovis Christian,Kenny Duong
+2802,Basketball,Animas,Charles Richardson/Wanda Offutt
+2803,Basketball,Maxwell,Sara Davis-Sorrell
+2804,Basketball,Quemado,Buster Green
+2805,Basketball,Jemez Valley,JoAnne Smith
+2806,Basketball,Hondo Valley,Adam Herrera
+2807,Basketball,Evangel Christian Academy,Earl Santillanes
+2808,Basketball,Des Moines,Amanda Boggs
+2809,Basketball,Walatowa Charter,Gina Gachupin
+2810,Basketball,Cliff,P.J. Bryant
+2811,Basketball,New Mexico School for the Deaf,Johanna Scherling
+2812,Basketball,Dora,skay@doraschools.com Kay
+2813,Basketball,Floyd,Dawn Kuchta
+2814,Basketball,Carrizozo,Brittney LaMay
+2815,Basketball,Springer,Jesus Urquijo
+2816,Basketball,Grady/San Jon/House,Alicia Rush
+2817,Basketball,Reserve,Lisa Kellar
+2818,Basketball,Elida,Madison Haley
+2819,Basketball,Wagon Mound,Erik Garcia
+2820,Basketball,Lake Arthur,Amy Ellis
+2821,Basketball,Newcomb,Bill McLaughlin
+2822,Basketball,Rehoboth Christian,Adrian Pete
+2823,Basketball,Dulce,Cristiana Yepa
+2824,Basketball,Ramah,Tom Hall
+2825,Basketball,Navajo Pine,Wilbert Nez
+2826,Basketball,Tse' Yi' Gai,Thale Goodluck
+2827,Basketball,McCurdy,Lucretia Williams
+2828,Basketball,Academy for Technology and The Classics,Ron Drake
+2829,Basketball,Tierra Encantada,Kurtis Montoya
+2830,Basketball,Monte Del Sol Charter,Ray Roybal
+2831,Basketball,Lordsburg,Rodney Plowman
+2832,Basketball,Mescalero Apache,Elmer Chavez
+2833,Basketball,Cloudcroft,Jamie Barnett
+2834,Basketball,Capitan,Jason Lee
+2835,Basketball,Eunice,Dustin Tippit
+2836,Basketball,Loving,Derrick Martinez
+2837,Basketball,Jal,Dusty Loftis
+2838,Basketball,Liberty,Ryan Baldock
+2839,Basketball,Dunkirk,Ken Ricker
+2840,Basketball,Northeastern Clinton,Robb Garrand
+2841,Basketball,City Honors,Kristin Juergens
+2842,Basketball,Schalmont,Jeffrey Van Hoesen
+2843,Basketball,Mekeel Christian Academy,Kelsey Collins
+2844,Basketball,South Jefferson,Michelle Whitley
+2845,Basketball,Dansville,Kristen Kershner
+2846,Basketball,Waverly,Robert Kelly
+2847,Basketball,Putnam Valley,Kristi Dini
+2848,Basketball,Carle Place,Conor Reardon
+2849,Basketball,Iroquois,Stephen Sokolski
+2850,Basketball,Briarcliff,Don Hamlin
+2851,Basketball,Burgard,Patrick Ricci
+2852,Basketball,Waterloo,Michael Bree
+2853,Basketball,Marcellus,Lauren Collister
+2854,Basketball,Canton,Jim DiSalvo
+2855,Basketball,Hudson,Brice Ivery
+2856,Basketball,Christian Brothers Academy,John Niland
+2857,Basketball,Livonia,Karen Schuster
+2858,Basketball,Westhill,Sue Ludwig
+2859,Basketball,Adirondack,Jeremy Youngs
+2860,Basketball,Greenwich,jason slater
+2861,Basketball,Albertus Magnus,Thomas Anderson
+2862,Basketball,Avon,Pete Leone
+2863,Basketball,Palmyra-Macedon,Dan Harris
+2864,Basketball,Norwich,Josh Bennett
+2865,Basketball,Saranac,Tim Newell
+2866,Basketball,East Aurora,Gary Schutrum
+2867,Basketball,O'Neill,Kevin Clark
+2868,Basketball,Ellenville,Samantha Ellis
+2869,Basketball,Rondout Valley,Sherry Cafiero
+2870,Basketball,Vernon-Verona-Sherrill,Randy Thomas
+2871,Basketball,Eden,Joseph Dougherty
+2872,Basketball,Mechanicville,Blain Goverski
+2873,Basketball,Ravena-Coeymans-Selkirk,Kiley Shortell
+2874,Basketball,Hastings,Alyse La Padula
+2875,Basketball,Wellsville,Michelle Alvord
+2876,Basketball,Wilson,Brian Baker
+2877,Basketball,Cobleskill-Richmondville,Carlin DeMarinis
+2878,Basketball,Port Jefferson,Mike Weaver
+2879,Basketball,Ogdensburg Free Academy,Doug LOffler
+2880,Basketball,Cairo-Durham,Richard Grounds
+2881,Basketball,Penn Yan Academy,Katrina Davenport
+2882,Basketball,Irvington,gina maher
+2883,Basketball,Newark Valley,Mike Stauder
+2884,Basketball,Fonda-Fultonville,Flip Boshart
+2885,Basketball,Mt. Markham,Steve Gates
+2886,Basketball,Onteora,andrew occhi
+2887,Basketball,Clinton,Thomas Trevisani
+2888,Basketball,Cazenovia,Paul Harney
+2889,Basketball,General Brown,Janelle Ferris
+2890,Basketball,Mattituck,Steve Van Dood
+2891,Basketball,Griffith Institute,Bob Gainey
+2892,Basketball,Midlakes,Nate Rich
+2893,Basketball,Batavia,Marty Hein
+2894,Basketball,Pleasantville,Dillon Clark
+2895,Basketball,Newfane,Kevin Klumpp
+2896,Basketball,Bronxville,Donald Lucas
+2897,Basketball,Alden,Lance Cayea
+2898,Basketball,Health Sciences Charter,Tiffany Prunty
+2899,Basketball,International Prep at Grover,Chelsea Bush
+2900,Basketball,Homer,C.J. Kudla
+2901,Basketball,Catskill,Larry Farrell
+2902,Basketball,Ichabod Crane,Melissa Vooris
+2903,Basketball,Southampton,richard wingfield
+2904,Basketball,Babylon,Christopher Ryan
+2905,Basketball,Hornell,Brian Dyring
+2906,Basketball,Southwestern,Dave Turnbull
+2907,Basketball,Owego Free Academy,Luke McEvoy
+2908,Basketball,Fredonia,Dan Vona
+2909,Basketball,Holland Patent,DOMINICK TIMPANO
+2910,Basketball,Greece Olympia,Jeff Jung
+2911,Basketball,Johnstown,Timothy Derwin
+2912,Basketball,Edgemont,Anik Chaudhry
+2913,Basketball,Chester,Peter Rickard
+2914,Basketball,Depew,Charlie Guay
+2915,Basketball,Hoosick Falls,Rich Cooney
+2916,Basketball,Chittenango,kassandra kleine
+2917,Basketball,Solvay,Shawn Mitchell
+2918,Basketball,Rye Neck,Cathy Toolan
+2919,Basketball,Corinth,David Montero
+2920,Basketball,Jordan-Elbridge,Leslie Ahern
+2921,Basketball,Mynderse Academy,Jerry Anderson
+2922,Basketball,Buffalo Academy for Visual & Performing Arts,Sarah Galante
+2923,Basketball,Chenango Forks,N Fersch
+2924,Basketball,East,Kelly Kane
+2925,Basketball,Haverling,Randy Abrams
+2926,Basketball,Akron,Antoinette Abrams
+2927,Basketball,Williamson,Beth Brennan
+2928,Basketball,Skaneateles,Camille Murphy
+2929,Basketball,Albion,Lucian Price
+2930,Basketball,Maryvale,Tim Klimtzak
+2931,Basketball,Tonawanda,Amanda Jaworski
+2932,Basketball,Beekmantown,Kate Duprey
+2933,Basketball,Glens Falls,Mark Girard
+2934,Basketball,Le Roy,Mary Leposa
+2935,Basketball,Lowville,Christopher Riley
+2936,Basketball,Eastchester,Mary Kate Burke
+2937,Basketball,Greece Odyssey,Dale Meier
+2938,Basketball,Cleveland Hill,Darci Secor
+2939,Basketball,North Rose-Wolcott,Gary Lockwood
+2940,Basketball,Nanuet,Brian Metcalf
+2941,Basketball,Westlake,Sean Mayer
+2942,Basketball,Broadalbin-Perth,Michael Magliocca
+2943,Basketball,Watervliet,tim mitchell
+2944,Basketball,Plattsburgh,Brad LaValley
+2945,Basketball,Rochester Prep,Dennis Thomas
+2946,Basketball,Attica,Marissa Sell
+2947,Basketball,Cohoes,Morgan Blizinski
+2948,Basketball,Greenville,Bruce VanWormer
+2949,Basketball,Windsor Central,Megan Touhey
+2950,Basketball,Royalton-Hartland,Grace Swick
+2951,Basketball,Wayland-Cohocton,Joel Shaffer
+2952,Basketball,Albany Academy for Girls,Jean Juste
+2953,Basketball,Allegany-Limestone,Chad Lyter
+2954,Basketball,Susquehanna Valley,Chad Freije
+2955,Basketball,Spackenkill,Don Neise
+2956,Basketball,Newark,Justin Fladd
+2957,Basketball,Kennedy,Melissa Schultz
+2958,Basketball,Olean,Chelsea Bowker
+2959,Basketball,Bishop Maginn,Arthur Danzy
+2960,Basketball,Highland,Jim Malak
+2961,Basketball,Mexico,David Passer
+2962,Basketball,Dryden,Laszlo Engel
+2963,Basketball,Medina,Larry Lash
+2964,Basketball,Da Vinci,Jim Connors
+2965,Basketball,Potsdam,William Mitchell
+2966,Basketball,Lackawanna,Emily Oakes
+2967,Basketball,Taconic Hills,Carl Campbell
+2968,Basketball,Hampton Bays,David Flannery
+2969,Basketball,Schuylerville,Jason Mehan
+2970,Basketball,Geneva,Ed Collins
+2971,Basketball,Oyster Bay,Sandy Rossen
+2972,Basketball,Malverne,Lorenzo Jenkins
+2973,Basketball,Marlboro Central,Marion Casey
+2974,Basketball,Young Women's College Prep,Jess Lindsay
+2975,Basketball,Fallsburg,Daniel Redmond
+2976,Basketball,Altmar-Parish-Williamstown,Michelle Whitley
+2977,Basketball,Tri-Valley,Jason Closs
+2978,Basketball,Pembroke,Ronald Funke
+2979,Basketball,Cambridge,Bob Phillips
+2980,Basketball,Maple Hill,Jabari Holder
+2981,Basketball,Holland,Samuel Arnold
+2982,Basketball,Newfield,Brandon Steinorth
+2983,Basketball,Unatego,Robert Zeh
+2984,Basketball,Keshequa,Pete Piraino
+2985,Basketball,Lyons,Kristin Bassett
+2986,Basketball,Duanesburg,Chris Herron
+2987,Basketball,Canisteo-Greenwood,Lester York
+2988,Basketball,Warrensburg,Scott Smith
+2989,Basketball,Byron-Bergen,Rick Krzewinski
+2990,Basketball,Franklinville,Allan Dunlap
+2991,Basketball,Delaware Academy,Todd Bruce
+2992,Basketball,Cooperstown,mike niles
+2993,Basketball,Red Jacket,George Hotchkiss
+2994,Basketball,Wheatland-Chili,Gary Ward
+2995,Basketball,Portville,Inga Welty
+2996,Basketball,West Canada Valley,BRIAN ELLIS
+2997,Basketball,Berne-Knox-Westerlo,Thomas Galvin
+2998,Basketball,Red Creek,Mike Krauza
+2999,Basketball,Syracuse Academy of Science,Reginald Pickard
+3000,Basketball,Whitman,Bri Parzych
+3001,Basketball,Union Springs,Andy Kalet
+3002,Basketball,"Seton Catholic Central (Binghamton, NY)",Colleen Jayne
+3003,Basketball,Falconer,Emily Scholeno
+3004,Basketball,Clyde-Savannah,Steven Dunn
+3005,Basketball,Oakfield-Alabama,Jeff Schlagenhauf
+3006,Basketball,Norwood-Norfolk,Jason Gallant
+3007,Basketball,Chautauqua Lake,Bill Persons
+3008,Basketball,Greene,Dave Gorton
+3009,Basketball,Moriah,Steve Pelkey
+3010,Basketball,Bishop Grimes,John Cifonelli
+3011,Basketball,Dundee,Michael Strait
+3012,Basketball,AuSable Valley,Roger Long
+3013,Basketball,Mayfield,Brian Moore
+3014,Basketball,Salem,keith beattie
+3015,Basketball,Dolgeville,Jennifer Morse
+3016,Basketball,St. Regis Falls,Jeff Sevey
+3017,Basketball,Walton,Gary Backus
+3018,Basketball,Frewsburg,Jeffrey Collver
+3019,Basketball,Maple Grove,Bill Price
+3020,Basketball,Odessa-Montour,Greg Gavich
+3021,Basketball,Silver Creek,Tammy Rice
+3022,Basketball,East Rochester,Mark Florack
+3023,Basketball,Bolivar-Richburg,Justin Thomas
+3024,Basketball,Gananda Central,Karin Meuwissen
+3025,Basketball,York,Kaitlin Kolb
+3026,Basketball,Cassadaga Valley,Todd Fryberger
+3027,Basketball,St. Lawrence Central,Chad Gauthier
+3028,Basketball,Haldane,Jessica Perrone
+3029,Basketball,The Leffell School,Andrew Wauben
+3030,Basketball,Warsaw,Samantha Downey
+3031,Basketball,Perry,Rodney Allen
+3032,Basketball,Randolph,Shawn Huntington
+3033,Basketball,Hoosic Valley,larny chapko
+3034,Basketball,Beaver River,Don Neddo
+3035,Basketball,Watkins Glen,Alicia Learn
+3036,Basketball,Tapestry,Coach Kulu
+3037,Basketball,Salamanca,Bryelle Wallin
+3038,Basketball,Alexander,Marcia Hirsch
+3039,Basketball,North Salem,eric buzzetto
+3040,Basketball,Cuba-Rushford,Aaron Wight
+3041,Basketball,Schoharie,Eric Croote
+3042,Basketball,Letchworth,Mike Grasso
+3043,Basketball,Bainbridge-Guilford,Bobby Conway
+3044,Basketball,Little Falls,Pam Munger
+3045,Basketball,Valhalla,Stephen Boyer
+3046,Basketball,Webber,Katelyn Draper
+3047,Basketball,Ellicottville,Chelsea Cole
+3048,Basketball,Canajoharie,Joe Fowler
+3049,Basketball,Addison,Corey Driskell
+3050,Basketball,Chatham,John Roloson
+3051,Basketball,Webutuck,Tyler Albrecht
+3052,Basketball,SS Seward,Joe DiMattina
+3053,Basketball,South Seneca,Heather Mott
+3054,Basketball,Middleburgh,Mike Terrell
+3055,Basketball,Cattaraugus-Little Valley,Matt Minnekine
+3056,Basketball,Geneseo,Meghan Curley
+3057,Basketball,Rensselaer,Kristin Alonzo
+3058,Basketball,Barker,Dave Luckman
+3059,Basketball,East Rockaway,Cheri Poland
+3060,Basketball,Gowanda,Ross John
+3061,Basketball,Westfield/Brocton,Dave Mathews
+3062,Basketball,Bloomfield,Mike Schunk
+3063,Basketball,Stillwater,Matthew LeMoyne
+3064,Basketball,Granville,Adam Langworthy
+3065,Basketball,Ticonderoga,Rick Smith
+3066,Basketball,Hamilton,Benjamin Carter
+3067,Basketball,Harley Allendale Columbia,Jason Hermance
+3068,Basketball,Caledonia-Mumford,Mike Reed
+3069,Basketball,Rochester Academy,Ronnie Joseph
+3070,Basketball,Frankfort-Schuyler,jeff adasek
+3071,Basketball,"Notre Dame (Utica, NY)",Mike Plonisch
+3072,Basketball,South Lewis,David Martin
+3073,Basketball,Tioga,Joe Robinson
+3074,Basketball,Unadilla Valley,Brandi Whitbeck
+3075,Basketball,Voorheesville,Andrew Karins
+3076,Basketball,Middle Early College,Debra Stanczyk
+3077,Basketball,Candor,Norm Szwec
+3078,Basketball,Global Concepts,Jiliya Johnson
+3079,Basketball,"Seton Catholic Central (Plattsburgh, NY)",Danielle Castine
+3080,Basketball,Hadley Luzerne,Tyler Byrnes
+3081,Basketball,Holley,Sal DeLuca
+3082,Basketball,Tupper Lake,Travis Dupuis
+3083,Basketball,Sherburne-Earlville,Karen Mulligan
+3084,Basketball,Campbell-Savona,Mike Mouzon
+3085,Basketball,Sodus,Matthew Miller
+3086,Basketball,Berlin/New Lebanon,Corie Noel
+3087,Basketball,Friends Academy,Jason Fiscina
+3088,Basketball,Harpursville,Kurt Ehrensbeck
+3089,Basketball,Sidney,Dylan Muller
+3090,Basketball,Fort Plain,Phil Karker
+3091,Basketball,Charles O. Dickerson,Neil Derache
+3092,Basketball,St. John the Baptist,Kate Gordon
+3093,Basketball,St. Catharine Academy,Sandra Capifali
+3094,Basketball,St. Francis Prep,Joann Wagner
+3095,Basketball,Bishop Loughlin,phinnigan edwards
+3096,Basketball,Our Lady of Mercy Academy,Randy Todd
+3097,Basketball,Moore Catholic,John Hood
+3098,Basketball,Cardinal Spellman,Jane Morris
+3099,Basketball,Kellenberg Memorial,John Heitner
+3100,Basketball,Maria Regina,Theresa Hanneman
+3101,Basketball,Archbishop Molloy,Joe Harnischfeger
+3102,Basketball,Bishop Kearney,Rocco Sellitto
+3103,Basketball,Preston,William McCaffrey
+3104,Basketball,Sacred Heart,Tracey Smith
+3105,Basketball,Sacred Heart Academy,dennis o'brien
+3106,Basketball,St. Joseph,Michael Toro
+3107,Basketball,Kennedy Catholic,Len Yearwood
+3108,Basketball,St. Barnabas,Margaret O'Brien
+3109,Basketball,Monsignor Scanlan,Tom Catalanotto
+3110,Basketball,Mary Louis Academy,Joe Lewinger
+3111,Basketball,St. Joseph Hill Academy,M Meagher
+3112,Basketball,St. Anthony's,Hugh Flaherty
+3113,Basketball,Aquinas,Priya Ragnauth
+3114,Basketball,Fontbonne Hall Academy,Stephen Oliver
+3115,Basketball,St. Edmund Prep,Danielle Madden
+3116,Basketball,St. Dominic,Shannon White
+3117,Basketball,Cathedral,Andrew Pipchinski
+3118,Basketball,Brookfield Central,Doreen Rogers
+3119,Basketball,Copenhagen,Natalie Scott
+3120,Basketball,Hamilton,Gary Weeks
+3121,Basketball,Elba,Tom Redband
+3122,Basketball,Deposit/Hancock,Todd Hertzog
+3123,Basketball,Fort Edward,Jason Thomas
+3124,Basketball,Panama,Jeff Angeletti
+3125,Basketball,Fillmore,Tom Parks
+3126,Basketball,Poland,Jason Potempa
+3127,Basketball,South Kortright Central,Josh Burroughs
+3128,Basketball,Madrid-Waddington,Bryan Harmer
+3129,Basketball,Schroon Lake,David Williams
+3130,Basketball,Northstar Christian Academy,Roger Leo
+3131,Basketball,Cherry Valley-Springfield,Jen Moore
+3132,Basketball,Franklin Central,Michael Dutcher
+3133,Basketball,Hammond Central,Head Coach Shawn Dack/Asst Coaches Chet Truskowski and Alyssa Crosby
+3134,Basketball,Lyme Central,Mark Wilson
+3135,Basketball,Sherman,Emily Eckwahl
+3136,Basketball,Immaculate Heart Central,Jeff St. Croix
+3137,Basketball,Hinsdale Central,Steve Noll
+3138,Basketball,Prattsburgh Central/Avoca Central,Jeff Gilbert
+3139,Basketball,Andover,Jacob Bannerman
+3140,Basketball,Lima Christian,David Tillapaugh
+3141,Basketball,Whitesville Central,Aaron Rawady
+3142,Basketball,Hammondsport/Bradford Central,Kevin Davis
+3143,Basketball,Heuvelton Central,Rob Powers
+3144,Basketball,Keene Central,Joshua Whitney
+3145,Basketball,Finney,Tim Blew
+3146,Basketball,Argyle,Terry Chamberlain
+3147,Basketball,Notre Dame,Tom McCulley
+3148,Basketball,Romulus,Charlie Luffman
+3149,Basketball,Germantown,Christina Pudney
+3150,Basketball,Notre Dame Bishop Gibbons,patrick moran
+3151,Basketball,Hartford Central,Jason Johnson
+3152,Basketball,Whitehall,Boyd Hunt
+3153,Basketball,Houghton Academy,Alex Wright
+3154,Basketball,Arkport Central/Canaseraga,Rob Patrick
+3155,Basketball,Pavilion,Ben Schwenebraten
+3156,Basketball,Belleville Henderson Central,Danielle Donie
+3157,Basketball,Loudonville Christian,Robert Scott
+3158,Basketball,Northville,Gene Frasier
+3159,Basketball,Sharon Springs Central,Joe Hilts
+3160,Basketball,Marathon,Andrew Pierce
+3161,Basketball,Sandy Creek,Lynne Morrison
+3162,Basketball,Bishop Ludden,Carm Petrera
+3163,Basketball,Clymer Central,Scott Neckers
+3164,Basketball,Edwards-Knox,Patty Taylor
+3165,Basketball,Jasper-Troupsburg,Kali Muhleisen
+3166,Basketball,Worcester,Chris Kaltenbach
+3167,Basketball,Saratoga Central Catholic,Ty Stacey
+3168,Basketball,Eugenio Maria de Hostos Charter,Rita Maybell
+3169,Basketball,Stockbridge Valley,Jacqueline Fort
+3170,Basketball,Heatly,Brian Ford
+3171,Basketball,Sackets Harbor Central,Sean Haley
+3172,Basketball,Alfred-Almond,Tom Weller
+3173,Basketball,La Fargeville,Colin Mingle
+3174,Basketball,Hunter-Tannersville,Ryan Funck
+3175,Basketball,Milford Central,James Weir
+3176,Basketball,Johnsburg Central,Allison Gonyo
+3177,Basketball,Kendall,Jeff Parizek
+3178,Basketball,Crown Point,Shelly Young
+3179,Basketball,Richfield Springs Central,Stacey Mayne
+3180,Basketball,Saranac Lake,Frank Johns
+3181,Basketball,Fabius Pompey,Marc Donahue
+3182,Basketball,North Collins,Vincent Fininzio
+3183,Basketball,Belfast,Lintz Bliven
+3184,Basketball,Alexandria Central,Justin West
+3185,Basketball,Chazy,Liz Garrand
+3186,Basketball,Smithtown Christian,John Vaeth
+3187,Basketball,Chesterton Academy,Mike Reggio
+3188,Basketball,McGraw,jason wilbur
+3189,Basketball,Oppenheim-Ephratah/St. Johnsville,Brian Seeley
+3190,Basketball,Friendship,Deb Kane
+3191,Basketball,Gilbertsville-Mt. Upton,Nicole Conway
+3192,Basketball,Wells,Donnie Beach
+3193,Basketball,Mount Morris,Dominic Chirico
+3194,Basketball,Madison Central,Payge Miller
+3195,Basketball,Genesee Valley,Bill Horn
+3196,Basketball,Pine Valley Central,Eric Spanbauer
+3197,Basketball,Riverside,Jodie Bowers
+3198,Basketball,Scio Central,Bethany Faulkner
+3199,Basketball,Lisbon Central,Dicky Marcellus
+3200,Basketball,Parishville-Hopkinton,Al Mason
+3201,Basketball,Morris Central,Rhoda Flint
+3202,Basketball,Margaretville Central,Justin Hamm
+3203,Basketball,Afton,lacy stanton
+3204,Basketball,Laurens Central,Steven West
+3205,Basketball,Fort Ann,Katelyn White
+3206,Basketball,Forestville Central,Sierra Finch
+3207,Basketball,Cardinal O'Hara,Darryl Oneil
+3208,Basketball,The Park School of Buffalo,Samantha Hutchins
+3209,Basketball,Sacred Heart Academy,Carrie Owens
+3210,Basketball,St. Mary's,Anthony Ottomano
+3211,Basketball,Christian Central Academy,Quintin Redfern
+3212,Basketball,Mount Mercy Academy,John Glose
+3213,Basketball,Buffalo Seminary,Eva Cunningham
+3214,Basketball,Nardin Academy,Janessa Vandegriff
+3215,Basketball,Mount St. Mary Academy,William Snyder
+3216,Basketball,Brandeis,Vera Springer
+3217,Basketball,Hyde Leadership,Matthew Hittenmark
+3218,Basketball,Academy of American Studies,Doug Condon
+3219,Basketball,Construction,jason salamanca
+3220,Basketball,"Roosevelt (New York, NY)",Mark Strasser
+3221,Basketball,Wagner,Tom Rizzo
+3222,Basketball,South Shore,Anwar Gladden
+3223,Basketball,East New York Family Academy,Fred Fortune
+3224,Basketball,Brooklyn Law & Tech,Michael Lloyd
+3225,Basketball,Fort Hamilton,anthony attanasio
+3226,Basketball,Medgar Evers College Prep,Devante Heath
+3227,Basketball,Harlem Village Academy,Dion Robertson
+3228,Basketball,Hunter College,william Potter
+3229,Basketball,New Utrecht,Howard Seff
+3230,Basketball,Mott Haven,William Mann
+3231,Basketball,All City Leadership Academy,Jonathon Amato
+3232,Basketball,Summit Academy,Dytanya Mixson
+3233,Basketball,Hamer,Debbie Smith
+3234,Basketball,Newtown,John Sarantonio
+3235,Basketball,"Kennedy (Queens, NY)",Lisa Byheny
+3236,Basketball,Bowne,Kathy Koutroulos
+3237,Basketball,Telecommunication Arts Tech,Marc. Cohen
+3238,Basketball,Rustin,Philip Sylvester
+3239,Basketball,Townsend Harris,Mara Cohen
+3240,Basketball,Gompers,jeremy harper
+3241,Basketball,Irving,Pearl Dixon
+3242,Basketball,Banneker Academy,Rodney Johnson
+3243,Basketball,Clinton School,Phil Andrews
+3244,Basketball,Bard,Michael Gordon
+3245,Basketball,Democracy Prep,Walter Flowers
+3246,Basketball,New Dorp,Alex Immella
+3247,Basketball,Bushwick,kenya wade
+3248,Basketball,Bronx High School of Science,Bob Gregory
+3249,Basketball,Erasmus Hall,Raymond Griffiths
+3250,Basketball,Tottenville,Cathy Morano
+3251,Basketball,Inwood Academy,Jason Marchena
+3252,Basketball,Information Tech,Geoffe Serrano
+3253,Basketball,Campus Magnet,Shannon Kohm
+3254,Basketball,Jamaica,Stephen Heiss
+3255,Basketball,Cleveland,John Ciano
+3256,Basketball,"Kennedy (Bronx, NY)",Glenn O'Neill
+3257,Basketball,Taft,milton wade
+3258,Basketball,Beacon,christina dahl
+3259,Basketball,Hillcrest,Lawanda Greene
+3260,Basketball,Art & Design,George Zicopoulos
+3261,Basketball,Math Science & Engineering,Nick Diunte
+3262,Basketball,Forest Hills,Megan Colby
+3263,Basketball,Wings Academy,JUAN GONZALEZ
+3264,Basketball,Manhattan Village Academy,Ryan Bittman
+3265,Basketball,"Roosevelt (Brooklyn, NY)",Phyllis Wright
+3266,Basketball,Boys & Girls,LaRon Mapp
+3267,Basketball,Barton,Michael Bedell
+3268,Basketball,Grady,Denise Mcghie
+3269,Basketball,Lehman,Joseph Yarusso
+3270,Basketball,Riverdale/Kingsbridge Academy,William Cushing
+3271,Basketball,Frederick Douglass Academy III,Shana Williams
+3272,Basketball,Grand Street Campus,Javier Bevacqua
+3273,Basketball,Jefferson,Clavin Young
+3274,Basketball,Millennium,Brian McCarthy
+3275,Basketball,Brooklyn Tech,David Weiss
+3276,Basketball,Madison,Richard Tighe
+3277,Basketball,Midwood,Mike Moore
+3278,Basketball,Bergtraum,ed grezinsky
+3279,Basketball,Francis Lewis,Stephen Tsai
+3280,Basketball,Washington,Jose Soriano
+3281,Basketball,Sinatra,Gary Gregory
+3282,Basketball,Addams,Milton Wade
+3283,Basketball,Far Rockaway,Michael Citron
+3284,Basketball,Van Buren,HERMAN CRUMP
+3285,Basketball,Pathways College Prep,ephesian miller
+3286,Basketball,Newcomers,Thomas Lehman
+3287,Basketball,East New York Transit Tech,Douglas Fileppo
+3288,Basketball,Fashion Industries,Thomasina Robinson
+3289,Basketball,John Adams,Thomas Glass
+3290,Basketball,Port Richmond,Nancy Cena
+3291,Basketball,Lane,Shayna Garrison
+3292,Basketball,Seward Park,Andre Lamy
+3293,Basketball,Queens Teaching,Jaime Selip
+3294,Basketball,Walton,Jason Norman
+3295,Basketball,Robeson Business Tech,esther georges
+3296,Basketball,Springfield Gardens,Janet Kleiner
+3297,Basketball,Petrides,Guistina Rossi
+3298,Basketball,Westinghouse,Richard Butz
+3299,Basketball,Van Arsdale,John LoSasso
+3300,Basketball,Brooklyn Collegiate,Rodney Johnson
+3301,Basketball,Wingate,David Reiter
+3302,Basketball,Percy Sutton,Jason McFall
+3303,Basketball,Manhattan Center for Science & Math,Jaywana Bradley
+3304,Basketball,Curtis,talia sutton
+3305,Basketball,Martin Luther King Jr Educational Campus,Larry Williams
+3306,Basketball,Roosevelt Educational,John Sanjurjo
+3307,Basketball,E.E. Smith,Latanya Hardy
+3308,Basketball,Southeast Guilford,Rachel Clark
+3309,Basketball,Freedom,Amber Reddick
+3310,Basketball,D.H. Conley,Shawn Moore
+3311,Basketball,Cuthbertson,Joel A
+3312,Basketball,Jesse Carson,Brooke Stouder
+3313,Basketball,Jacksonville,Monique Gidrey
+3314,Basketball,Eastern Alamance,Tim Krotish
+3315,Basketball,Enka,Aaron Reagan
+3316,Basketball,Southwestern Randolph,Seth Baxter
+3317,Basketball,Rocky Mount,Michael Gainey
+3318,Basketball,Asheville,Sonita Warren-Dixon
+3319,Basketball,Clayton,Marlon Lee
+3320,Basketball,Ashbrook,juan smith
+3321,Basketball,Central Cabarrus,Brandon Blalock
+3322,Basketball,Charlotte Catholic,robert conrad
+3323,Basketball,Northwood,Cameron Vernon
+3324,Basketball,West Rowan,Ashley Poole
+3325,Basketball,Harnett Central,Catherine Griffin
+3326,Basketball,White Oak,Deborah Lausterer
+3327,Basketball,Southern Durham,Teddy McKoy
+3328,Basketball,Northern Guilford,Kim Furlough
+3329,Basketball,Westover,Michael Ferguson
+3330,Basketball,Hickory,Barbara Helms
+3331,Basketball,East Rowan,Kevin Holland
+3332,Basketball,North Buncombe,Tami Ramsey
+3333,Basketball,Swansboro,Kim Miller
+3334,Basketball,Dudley,Frank McNeil
+3335,Basketball,Western Alamance,Ray Edmond
+3336,Basketball,Hunt,Tiffany Parks
+3337,Basketball,Union Pines,Anissa Little
+3338,Basketball,Weddington,Aaron Brown
+3339,Basketball,Northern Nash,Grover Battle
+3340,Basketball,Forestview,Kevin Gurganus
+3341,Basketball,Watauga,Laura Barry
+3342,Basketball,Asheboro,David Hayes
+3343,Basketball,Southwest Guilford,Nick Scarborough
+3344,Basketball,East Chapel Hill,Tameka Jones
+3345,Basketball,Person,Jay Carmichael
+3346,Basketball,East Wake,Toni Dupree
+3347,Basketball,Chapel Hill,John French
+3348,Basketball,Parkwood,Jesse Boyce
+3349,Basketball,Southern Wayne,Ricky Lofton
+3350,Basketball,Walter M. Williams,Andrea Stinson
+3351,Basketball,Erwin,Matt Carpenter
+3352,Basketball,Mount Tabor,Rick Anderson
+3353,Basketball,Cox Mill,Lin Smithson
+3354,Basketball,Triton,Wendy Simmons
+3355,Basketball,Northwest Cabarrus,Jarmaine Spruill
+3356,Basketball,Vance County,Sheila Kearney
+3357,Basketball,Smithfield-Selma,Dedrick Payton
+3358,Basketball,North Gaston,Courtney Wellman
+3359,Basketball,Franklinton,Matthew Hockaday
+3360,Basketball,Piedmont,Anthony George
+3361,Basketball,Alexander Central,Jon Presnell
+3362,Basketball,Orange,BJ Condron
+3363,Basketball,North Brunswick,Travis Fortune
+3364,Basketball,Western Guilford,Gina Miga
+3365,Basketball,C.B. Aycock,Randy Pate
+3366,Basketball,Southern Nash,Jordan Bass
+3367,Basketball,West Johnston,Laura Jefferson
+3368,Basketball,Northeast Guilford,Coach Polk
+3369,Basketball,Gray's Creek,Rick Rhoda
+3370,Basketball,Parkland,Ken Leak
+3371,Basketball,South Iredell,Marcus Chambers
+3372,Basketball,A.C. Reynolds,Amanda Whitaker
+3373,Basketball,Cape Fear,Brian Graham
+3374,Basketball,J.H. Rose,Danian Carr
+3375,Basketball,Cleveland,Robby White
+3376,Basketball,A.L. Brown,Mark Hogan
+3377,Basketball,Kings Mountain,Nicholas Inman
+3378,Basketball,Rockingham County,Jesse Wall
+3379,Basketball,West Carteret,Lindsey Howell
+3380,Basketball,Southern Alamance,Amy Sarratt
+3381,Basketball,New Hanover,Hilbert Sampson
+3382,Basketball,North Henderson,Zach Wilkins
+3383,Basketball,Northern,Tim Crutchfield
+3384,Basketball,Havelock,anna spear
+3385,Basketball,West Brunswick,Andrienne Bannerman
+3386,Basketball,Concord,Brian Lytton
+3387,Basketball,Douglas Byrd,Coach Jernard Grant
+3388,Basketball,Statesville,Gregory Stewart
+3389,Basketball,Southern Lee,Patrick Paye
+3390,Basketball,Huss,Bobby Lipscomb
+3391,Basketball,Tuscola,Pam Bryant
+3392,Basketball,Topsail,Jay Kapiko
+3393,Basketball,South Brunswick,CJ Nobles
+3394,Basketball,Montgomery Central,William Hunter
+3395,Basketball,T.C. Roberson,Laura Foster
+3396,Basketball,Eastern Guilford,Shamiah Harvey
+3397,Basketball,Sun Valley,Paul Swartz
+3398,Basketball,Southern Guilford,Kelly Smith
+3399,Basketball,South Johnston,Whitney Williams
+3400,Basketball,Lee County,La' Keisha Snipes
+3401,Basketball,Crest,Jessica Brunson
+3402,Basketball,Stuart Cramer,Carey Pohlman
+3403,Basketball,Western Harnett,Matthew Smith
+3404,Basketball,West Henderson,Chris Garner
+3405,Basketball,North Iredell,Roger Bumgarner
+3406,Basketball,Terry Sanford,Zakiyyah Marcell
+3407,Basketball,Fike,Jeff Nelson
+3408,Basketball,Jay M. Robinson,Alexis Hornbuckle
+3409,Basketball,Northside - Jacksonville,Ellen Church
+3410,Basketball,St. Stephens,Roger Shield
+3411,Basketball,Monroe,Leroy Osborne
+3412,Basketball,Cedar Ridge,William Dobbs
+3413,Basketball,Southeast Raleigh,Nicole Meyers
+3414,Basketball,Glenn,Melvin Heggie
+3415,Basketball,Mallard Creek,clarence johnson
+3416,Basketball,Providence,Jennifer Bean
+3417,Basketball,Apex Friendship,Scott Campbell
+3418,Basketball,Northwest Guilford,Haley Hackett
+3419,Basketball,Jack Britt,Nattlie McArthur
+3420,Basketball,Wakefield,Donald Williams
+3421,Basketball,Zebulon B. Vance,Donnell Rhyne
+3422,Basketball,Ashley,Adrienne Gale
+3423,Basketball,Jordan,Ty Cox
+3424,Basketball,Ragsdale,Ben Bradford
+3425,Basketball,E.A. Laney,Ashley Berting
+3426,Basketball,Hoggard,Boubacar Aw
+3427,Basketball,Millbrook,Chris East
+3428,Basketball,South Mecklenburg,Cristie Mitchell
+3429,Basketball,Hillside,Ovester Grays
+3430,Basketball,Independence,Lauren Galvani
+3431,Basketball,Garner Magnet,William Stigler
+3432,Basketball,North Mecklenburg,Jennifer Baker
+3433,Basketball,Knightdale,Martin Faison
+3434,Basketball,Holly Springs,Peace Easton
+3435,Basketball,Seventy-First,ignatius williams
+3436,Basketball,South Central,Robert Duck
+3437,Basketball,Myers Park,barbara Nelson
+3438,Basketball,David W. Butler,Mark Sanders
+3439,Basketball,Leesville Road,Don Proehl
+3440,Basketball,Richmond,Teddy Moseley
+3441,Basketball,Rolesville,Anthony McKoy
+3442,Basketball,East Forsyth,Aaron Grier
+3443,Basketball,Lake Norman,McKenzie Graham
+3444,Basketball,Hopewell,Scott Parkin
+3445,Basketball,Olympic,Jessica Freeman
+3446,Basketball,Purnell Swett,Jonathan Efird
+3447,Basketball,Hickory Ridge,Tolonda Simmons
+3448,Basketball,West Forsyth,Brittany Cox
+3449,Basketball,Green Level,Mike Robinson
+3450,Basketball,Ardrey Kell,Jeff Buseick
+3451,Basketball,Athens Drive,Allyson Stephenson
+3452,Basketball,Pinecrest,Ronshau Cole
+3453,Basketball,Green Hope,Mike Robinson
+3454,Basketball,South View,Brent Barker
+3455,Basketball,Heritage,Pat Kennedy
+3456,Basketball,Overhills,Nick Lewis
+3457,Basketball,Cardinal Gibbons,Jessica Lowe
+3458,Basketball,Panther Creek,Danielle Sullivan
+3459,Basketball,McDowell,Jennifer Kinninger
+3460,Basketball,Phillip O. Berry Academy of Technology,Kelvin Brim
+3461,Basketball,New Bern,Joe Davis
+3462,Basketball,Ronald Reagan,Eric Rader
+3463,Basketball,Lumberton,Sam Davis
+3464,Basketball,Apex,Charli Michael
+3465,Basketball,Rocky River,Amber Neely
+3466,Basketball,Middle Creek,Henry Harden
+3467,Basketball,Sanderson,Delano Tavares
+3468,Basketball,Hough,Andrae Butts
+3469,Basketball,West Mecklenburg,Shaunita Randolph
+3470,Basketball,Mooresville,Jay Clark
+3471,Basketball,R.J. Reynolds,T.J. Eggers
+3472,Basketball,Page,Ed Johnson
+3473,Basketball,Corinth Holders,Shannon Lee
+3474,Basketball,Pine Forest,Kayla Pless
+3475,Basketball,Grimsley,Titus Duff
+3476,Basketball,Porter Ridge,Angelia James
+3477,Basketball,Fuquay - Varina,Gail Siemer
+3478,Basketball,Scotland,Mallarie Snow
+3479,Basketball,West Charlotte,Reggie Mobley
+3480,Basketball,Cary,DeEarnest McLemore
+3481,Basketball,Wake Forest,Clint Williams
+3482,Basketball,Hoke County,LaToya Ray
+3483,Basketball,East Mecklenburg,leon white
+3484,Basketball,Riverside-Durham,Wendy Palmer
+3485,Basketball,Enloe,Keshia Smith
+3486,Basketball,Broughton,Tommy Moore
+3487,Basketball,Garinger,La'Tavia Rorie
+3488,Basketball,Harding University,Jonathan Simmons
+3489,Basketball,South Garner,Wyndell Holmes
+3490,Basketball,High Point Central,SHAY Hayes
+3491,Basketball,Oak Ridge Military Academy,Bobby Allison
+3492,Basketball,Winston-Salem Christian,ROCKY BRUNDAGE
+3493,Basketball,Mount Zion Christian Academy,James Houston
+3494,Basketball,Emerson Waldorf,Brian Watson
+3495,Basketball,Bradford Academy,Amy Fairchild
+3496,Basketball,Piedmont Classical,Zhaquandalee Greer
+3497,Basketball,Community Baptist,Kristin Billingsley
+3498,Basketball,Triad Baptist Christian Academy,Bret Yates
+3499,Basketball,Southern Wake Academy,Brythe Johnson
+3500,Basketball,New Life Christian Academy,Nathan Jones
+3501,Basketball,Quality Education Academy,Altamise Leath
+3502,Basketball,North East Carolina Prep,Alyssa Hamill
+3503,Basketball,Millers Creek Christian,Brian Evans
+3504,Basketball,Thomas Academy,Jonathan Crawley
+3505,Basketball,Triad Math and Science Academy,Marcus Van Hagen
+3506,Basketball,Bethany Community School,Jeff Kallam
+3507,Basketball,Noble Academy,Calvin Chadwick
+3508,Basketball,New Manna Christian,Curtis Styles
+3509,Basketball,Southview Christian,Alana Dysart
+3510,Basketball,Heritage Christian Academy,Monica Anderson
+3511,Basketball,Woodland Baptist Christian,Rachel Stephenson
+3512,Basketball,Calvary Christian,Lynette Cave
+3513,Basketball,Temple Baptist,Duane Boyer
+3514,Basketball,Tabernacle Christian,Lauren Hickman
+3515,Basketball,White Plains Christian,Ronnie Eaton
+3516,Basketball,Victory Christian,Reggie Smith
+3517,Basketball,New Life Christian Academy,Tammi Archer
+3518,Basketball,Fayetteville Street Christian,Allison Edwards
+3519,Basketball,Mount Calvary Christian,Leslie Callahan
+3520,Basketball,Community Christian Academy,David Ross
+3521,Basketball,Union Grove Christian,Zach Bowman
+3522,Basketball,Hilltop Christian,Rudy Manriquez
+3523,Basketball,Wilson Christian Academy,Brian Trull
+3524,Basketball,Tabernacle Christian,Charity Richardson
+3525,Basketball,Gospel Light Christian,Kevin Cain
+3526,Basketball,Berean Baptist Academy,Annie Levens-Morris
+3527,Basketball,Faith Christian Academy,Kimberly Howard
+3528,Basketball,Alamance Christian,PAUL BURNS
+3529,Basketball,Sheets Memorial Christian,Melly Bosch
+3530,Basketball,Vandalia Christian,Andy Flynn
+3531,Basketball,Faith Christian,Bruce McLanahan
+3532,Basketball,Bethel Christian Academy,Ashley Stroud
+3533,Basketball,Cramerton Christian Academy,Wendy Douglas
+3534,Basketball,Wilmington Christian Academy,Thomas Davis
+3535,Basketball,Trinity Christian,Charles Tubbs
+3536,Basketball,Victory Christian Center,Sanchia Chapman
+3537,Basketball,Northeast Academy,Joella Brown
+3538,Basketball,Grace Christian,Dwayne Whiteheart
+3539,Basketball,Pungo Christian Academy,Melanie Eddleman
+3540,Basketball,The Burlington School,Tavores Vanhook
+3541,Basketball,Lee Christian,Donna Taylor
+3542,Basketball,Northwood Temple Academy,Darius Moore
+3543,Basketball,Greenfield,Bruce Wall
+3544,Basketball,Neuse Christian Academy,Zachary Shank
+3545,Basketball,Terra Ceia Christian,Verm Parsons
+3546,Basketball,Kerr-Vance Academy,Marcus Foster
+3547,Basketball,Hobgood Academy,Pamela Tutor
+3548,Basketball,North Hills Christian,Marcus White
+3549,Basketball,Christ Covenant,Daniel Hines Entzminger
+3550,Basketball,Cape Fear Christian Academy,Bobby Lamb
+3551,Basketball,Lawrence Academy,Lee Hoffman
+3552,Basketball,Community Christian,Kenneth Atkinson
+3553,Basketball,United Faith Christian Academy,Lori Finanger
+3554,Basketball,Albemarle School,Tonya Jennings
+3555,Basketball,Crossroads Christian,Shane Wilder
+3556,Basketball,Southside Christian,Angie Register
+3557,Basketball,John Paul II Catholic,Chris Challender
+3558,Basketball,Cresset Christian Academy,Greg Hardy
+3559,Basketball,O'Neal,Lulu Brase
+3560,Basketball,Wayne Country Day,Maurice Jones
+3561,Basketball,Rocky Mount Academy,Katherine Johnston
+3562,Basketball,University Christian,Deborah Congro
+3563,Basketball,Salem Baptist Christian,Al Carrington
+3564,Basketball,Gaston Day,troy phillips
+3565,Basketball,St. Thomas More Academy,Jake Noland
+3566,Basketball,Faith Christian,Taylor Whitley
+3567,Basketball,Friendship Christian,Ric Nelson
+3568,Basketball,Trinity Academy,April Richerson
+3569,Basketball,Davidson Day,Albert Wilson
+3570,Basketball,Wayne Christian,Michael Richards
+3571,Basketball,Burlington Christian Academy,Callum Brown
+3572,Basketball,Statesville Christian,Mark McCollum
+3573,Basketball,Northside Christian Academy,Jody Patton
+3574,Basketball,"Thales Academy (Rolesville, NC)",Paula Cynar
+3575,Basketball,Hickory Christian Academy,Chris Sigmon
+3576,Basketball,Oakwood,Kris Arnold
+3577,Basketball,Carolina Friends,Justine Allpress
+3578,Basketball,Westminster Catawba Christian,Zachary Holz
+3579,Basketball,Harrells Christian Academy,Christian Rogers
+3580,Basketball,Freedom Christian Academy,Marcus Mcduffie
+3581,Basketball,Fayetteville Academy,Kevin Dennison
+3582,Basketball,Trinity of Durham and Chapel Hill,Mary Alice Pike
+3583,Basketball,Westchester Country Day,Mary-Ann Ross
+3584,Basketball,Epiphany,Juan Padro
+3585,Basketball,T.R. Miller,Ronald Jackson
+3586,Basketball,Pisgah,Carey Ellison
+3587,Basketball,Prattville Christian Academy,Tara Osborne
+3588,Basketball,Susan Moore,Natasha Smallwood
+3589,Basketball,Pike Road,Courtney Ward
+3590,Basketball,Lauderdale County,Brant Llewellyn
+3591,Basketball,Montgomery Academy,Barry Fencher
+3592,Basketball,Phil Campbell,Amy Moss
+3593,Basketball,Winfield,Joseph Wilson
+3594,Basketball,Straughn,Bradley Stephens
+3595,Basketball,Midfield,Charles Thomas
+3596,Basketball,Glencoe,Jamie Barkley
+3597,Basketball,New Hope,Craig McGill
+3598,Basketball,Bayside Academy,Brittany Davidson
+3599,Basketball,Hale County,Travis Jenkins
+3600,Basketball,Flomaton,Jarrod Green
+3601,Basketball,St. Michael Catholic,David Offerle
+3602,Basketball,Pike County,Kasey Parker
+3603,Basketball,Geneva,Rich bixby
+3604,Basketball,Pleasant Valley,David Bryant
+3605,Basketball,Sylvania,Jeremy Smith
+3606,Basketball,Lamar County,Chad Robinson
+3607,Basketball,St. James,Katie Barton
+3608,Basketball,Providence Christian,Mark Wright
+3609,Basketball,Carbon Hill,Donald Tittle
+3610,Basketball,Thomasville,Dereta Gavin
+3611,Basketball,Locust Fork,Barbara Roy
+3612,Basketball,Brindlee Mountain,Suzan Howard
+3613,Basketball,Hanceville,Carl Barnett
+3614,Basketball,Colbert Heights,Brad James
+3615,Basketball,Clements,Zach Meadows
+3616,Basketball,Beulah,Dwayne Thomas
+3617,Basketball,Piedmont,matt deerman
+3618,Basketball,Southside,Ed Dean
+3619,Basketball,Saks,Michelle Morgan
+3620,Basketball,Slocomb,Jarrod Price
+3621,Basketball,East Lawrence,Ernest Ferguson
+3622,Basketball,Wicksburg,Mandy Collins
+3623,Basketball,Mobile Christian,Clint Mitchell
+3624,Basketball,Holt,Deon Washington
+3625,Basketball,Greene County,Danielle Sanders
+3626,Basketball,Comer,Oren Barclay
+3627,Basketball,Pennington,Chrsitina Warren
+3628,Basketball,Bullock County,Kelvin Graves
+3629,Basketball,Westminster Christian,Becky Plott
+3630,Basketball,Wellborn,Shanese Morgan
+3631,Basketball,Opp,Bridgett Brantley
+3632,Basketball,Gordo,Alicia Ware
+3633,Basketball,Greensboro,Frances Dunn
+3634,Basketball,Anniston,Eddie Bullock
+3635,Basketball,Childersburg,Gavin King
+3636,Basketball,Rogers,Blake Prestage
+3637,Basketball,Headland,Jytu Blackmon
+3638,Basketball,Sipsey Valley,Denson Ferrell
+3639,Basketball,Handley,Logan Cofield
+3640,Basketball,Hillcrest,Tammie Stallworth-Patrick
+3641,Basketball,Hokes Bluff,Jason Shields
+3642,Basketball,Priceville,Terrie Nelson
+3643,Basketball,Oneonta,Amber Deline
+3644,Basketball,Trinity Presbyterian,Blake Smith
+3645,Basketball,Curry,Mike Elliott
+3646,Basketball,Montgomery Catholic,Jill Clark
+3647,Basketball,Fairview,justin billings
+3648,Basketball,Sumter Central,Tinnie Hall
+3649,Basketball,Good Hope,Amanda Swann
+3650,Basketball,UMS-Wright Prep,Terry Canova
+3651,Basketball,St. John Paul II,Kyle Overstreet
+3652,Basketball,Williamson,Tinika Holley
+3653,Basketball,Talladega,Jannie Keith
+3654,Basketball,Elmore County,Amy Rachel
+3655,Basketball,Haleyville,Senn Williams
+3656,Basketball,Booker T. Washington,Natasha Williams
+3657,Basketball,Cherokee County,Travis Barnes
+3658,Basketball,W.S. Neal,Michael Salter
+3659,Basketball,Andalusia,Teresa Herring
+3660,Basketball,Kate Duncan Smith DAR,Brandon Edwards
+3661,Basketball,Montevallo,Tena Niven
+3662,Basketball,Cleburne County,Bronson Ward
+3663,Basketball,White Plains,Michael Merriman
+3664,Basketball,Leeds,Melissa Causey
+3665,Basketball,Ashford,bill herbert
+3666,Basketball,Danville,Paul Wilson
+3667,Basketball,Ashville,Jonathan Nix
+3668,Basketball,Lincoln,Amanda Bailey
+3669,Basketball,West Morgan,phillip banks
+3670,Basketball,Escambia County,Layton Knight
+3671,Basketball,Loveless Academic Magnet Program,Michael Thornton
+3672,Basketball,Dallas County,Eddie Jackson
+3673,Basketball,Elkmont,Samuel Wallace
+3674,Basketball,Randolph School,Wright Ward
+3675,Basketball,West Blocton,Casey Lee
+3676,Basketball,Dale County,Evan Ballard
+3677,Basketball,Holtville,John Mason
+3678,Basketball,Charles Henderson,Dyniesha Jones
+3679,Basketball,Central,Michael Rivers
+3680,Basketball,Madison Academy,Brian Privett
+3681,Basketball,West Point,Regina Jones
+3682,Basketball,East Limestone,Josh Davis
+3683,Basketball,Ramsay,Ronnie Jackson
+3684,Basketball,Shelby County,sasha knighten
+3685,Basketball,Pleasant Grove,Jason Ford
+3686,Basketball,Center Point,ulysses haynes
+3687,Basketball,Jackson,Trinnia McKenzie-Smith
+3688,Basketball,LeFlore,darrell walton
+3689,Basketball,Marbury,Reginald Brown
+3690,Basketball,Valley,George Grimes
+3691,Basketball,Briarwood Christian,Jim Brown
+3692,Basketball,Brewer,Jeff Andrews
+3693,Basketball,Jasper,David Mccollum
+3694,Basketball,Carroll,Len Stanford
+3695,Basketball,Boaz,Brian Hinton
+3696,Basketball,Hamilton,Vess Hollingsworth
+3697,Basketball,St. Paul's Episcopal,John Redman
+3698,Basketball,Vigor,Shani Jones
+3699,Basketball,Lawrence County,K.C. Orr
+3700,Basketball,Wenonah,Trellice Moore
+3701,Basketball,Faith Academy,Martha Algernon
+3702,Basketball,Jemison,Stacy McGehee
+3703,Basketball,Alexandria,Phillip Hartsfield
+3704,Basketball,Demopolis,Tony Pittman
+3705,Basketball,Brewbaker Tech,Cynthia Thompson
+3706,Basketball,Madison County,Corey Head
+3707,Basketball,Citronelle,Carol Turner
+3708,Basketball,Dora,Michael Bridges
+3709,Basketball,Ardmore,Brittney Smith
+3710,Basketball,John Carroll Catholic,Ronald Steele
+3711,Basketball,Bibb County,Louis Dearman
+3712,Basketball,Scottsboro,Derek Wynn
+3713,Basketball,Greenville,Marcus Mickles
+3714,Basketball,Sylacauga,Derrick Crawford
+3715,Basketball,Russellville,james bostick
+3716,Basketball,Rehobeth,Brandon Sunday
+3717,Basketball,Chilton County,Paul DuBose
+3718,Basketball,Crossville,Jonathan Peppers
+3719,Basketball,Satsuma,Sherman Winston
+3720,Basketball,Central of Clay County,Coach Thornbury
+3721,Basketball,Beauregard,terry Welch
+3722,Basketball,St. Clair County,Justin Brandon
+3723,Basketball,Tallassee,Sarah Foreman
+3724,Basketball,Parker,Brerante Sledge
+3725,Basketball,Homewood,Kevin Tubbs
+3726,Basketball,Dothan,DiShon Benjamin
+3727,Basketball,Albertville,Matt Nelson
+3728,Basketball,"Carver (Birmingham, AL)",Jarvis Wilson
+3729,Basketball,Chelsea,Jason Harlow
+3730,Basketball,Fort Payne,Steve Sparks
+3731,Basketball,Athens,Eddie Murphree
+3732,Basketball,Opelika,Devin Booth
+3733,Basketball,McAdory,scott blair
+3734,Basketball,Eufaula,Jermieke Cliatt
+3735,Basketball,Park Crossing,Virginia Barber
+3736,Basketball,Pelham,Crosby Morrison
+3737,Basketball,Russell County,Demond L. McCoy McCoy
+3738,Basketball,Cullman,Josh Hembree
+3739,Basketball,Pell City,Jennifer Lee
+3740,Basketball,Rain,Precilla Hill
+3741,Basketball,"Carver (Montgomery, AL)",Adria Harris
+3742,Basketball,Minor,Ratassia Worsham
+3743,Basketball,Muscle Shoals,Brenda Mayes-Harris
+3744,Basketball,Northridge,Jason Bothwell
+3745,Basketball,Clay-Chalkville,Justin Haynie
+3746,Basketball,Gulf Shores,Brian Sexton
+3747,Basketball,Brookwood,Johnney Ford
+3748,Basketball,Hartselle,Gary Orr
+3749,Basketball,Jackson-Olin,Marshall Thomas
+3750,Basketball,Hillcrest,Steven Sims
+3751,Basketball,Stanhope Elmore,Todd Reynolds
+3752,Basketball,Daphne,Kimyatta Perry
+3753,Basketball,Robertsdale,Justin Moore
+3754,Basketball,Lanier,Courtney Ward
+3755,Basketball,Buckhorn,Steve Clemons
+3756,Basketball,Baldwin County,Brandon Hill
+3757,Basketball,Hueytown,Glynis Whitfield-Moss
+3758,Basketball,Oxford,Melissa Bennett
+3759,Basketball,Wetumpka,Jermel Bell
+3760,Basketball,Benjamin Russell,Latreisha Moon
+3761,Basketball,Saraland,larry burgess
+3762,Basketball,Huffman,Lin Slater
+3763,Basketball,Paul W. Bryant,Nequesha Jones
+3764,Basketball,Pinson Valley,Sara Halasz
+3765,Basketball,Blount,Edmond Wilder
+3766,Basketball,Bessemer City,Tahieta Clark
+3767,Basketball,Shades Valley,Gary Ferguson
+3768,Basketball,Decatur,Brad Boy
+3769,Basketball,Hoover,Krystle Johnson
+3770,Basketball,Foley,Sally Jeter
+3771,Basketball,Spain Park,Mike Chase
+3772,Basketball,Theodore,Terry McClure
+3773,Basketball,Gadsden City,Jeremy Brooks
+3774,Basketball,Austin,Bruce Hamilton
+3775,Basketball,McGill-Toolen,Carla Berry
+3776,Basketball,Vestavia Hills,John David Smelser
+3777,Basketball,Hewitt-Trussville,Tonya Hunter
+3778,Basketball,Florence,Will Copeland
+3779,Basketball,Auburn,Courtney Pritchett
+3780,Basketball,Davidson,Charlie Shipp
+3781,Basketball,Baker,Lauren Walker
+3782,Basketball,Jefferson Davis,Lakenya Knight
+3783,Basketball,Montgomery,Matthew Bosarge
+3784,Basketball,Sparkman,Patrick Delay
+3785,Basketball,Huntsville,Willie Moore
+3786,Basketball,Bob Jones,Jazmine Powers
+3787,Basketball,Grissom,Jeff Dunnavant
+3788,Basketball,Thompson,Marty Smith
+3789,Basketball,Mountain Brook,John London
+3790,Basketball,Oak Mountain,S C
+3791,Basketball,Enterprise,George Scott
+3792,Basketball,Tuscaloosa County,jacob HAAS
+3793,Basketball,Lee,Sonya Wilson
+3794,Basketball,James Clemens,Amber Deline
+3795,Basketball,Prattville,Kamesha Harrison
+3796,Basketball,Murphy,Sue Shaw
+3797,Basketball,Smiths Station,Tiffany Jordan
+3798,Basketball,Southern Academy,David Ingram
+3799,Basketball,Sparta Academy,Russ Brown
+3800,Basketball,Evangel Christian Academy,Haley Rosa
+3801,Basketball,Abbeville Christian Academy,Ray Stinson
+3802,Basketball,Heritage Christian Academy,Kelly Hill
+3803,Basketball,Restoration Academy,dewayne coker
+3804,Basketball,East Memorial Christian Academy,Talitha Jolley
+3805,Basketball,Marengo Academy,David Traywick
+3806,Basketball,North River Christian,Tenessia Robertson
+3807,Basketball,Monroe Academy,Caleb Smith
+3808,Basketball,Pickens Academy,Charli Parker
+3809,Basketball,Lakeside School,Tyrone Smith
+3810,Basketball,Autauga Academy,brian brock
+3811,Basketball,Coosa Valley Academy,Kimbo Rutledge
+3812,Basketball,Edgewood Academy,chris george
+3813,Basketball,Hooper Academy,Buzz Phillips
+3814,Basketball,Escambia Academy,Cale Thompson
+3815,indoortrack,Academy of Aerospace and Engineering,Jon Angello
+3816,indoortrack,Arlington,Steve Arnett
+3817,indoortrack,Civic Leadership,Bill King
+3818,indoortrack,Coolidge,Je Sammy
+3819,indoortrack,Hertford County,Benjamin Anthony
+3820,indoortrack,Metropolitan Learning Center,Aundre Suarez
+3821,indoortrack,Murphy,Davis Bryant
+3822,indoortrack,Myers Park,Lamont Hayes
+3823,indoortrack,North Middlesex Regional,John Caouette
+3824,indoortrack,Northside - Jacksonville,Sarah Flowers
+3825,indoortrack,Parker,Jackson Bowden
+3826,indoortrack,Princess Anne,Kevin Rhue
+3827,indoortrack,Somerville,Dave Dickerson
+3828,rugby,Bulls College Prep,Brian Cusack
+3829,rugby,Clayton,Pat Cunningham
+3830,snowboard,Reed,Thomas Boughner
+3831,snowboard,St. John's,Tim Williams
+3832,Speech,Amundsen,Alyssa Kalb
+3833,Speech,Cambridge,Gina Petersen
+3834,Speech,Gothenburg,Kaitlyn Clark
+3835,Speech,Joshua Springs Christian,Susan Alkire
+3836,Speech,Snow Canyon,Misty Kirk
+3837,Speech,South Miami,Jennifer Coco

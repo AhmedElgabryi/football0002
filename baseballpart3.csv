@@ -1,0 +1,607 @@
+,sport,school,coach
+1,baseball,Bennington,Todd Burrow
+2,baseball,Burlingame,Parker Lee
+3,baseball,Canton-Galva,Kelly Nelson
+4,baseball,Cedar Vale/Dexter,Luke Wachter
+5,baseball,Central,Jason Wilson
+6,baseball,Chase County,Kraig Schenker
+7,baseball,Doniphan West,Jeff Spiker
+8,baseball,Elkhart,David Aranda
+9,baseball,Ellis,Brent Cain
+10,baseball,Ell-Saline,Joe Roche
+11,baseball,Flinthills,Erik Sorum
+12,baseball,Herington,Jim Blackwell
+13,baseball,Heritage Christian Academy,Bart Briley
+14,baseball,Hillsboro,Luke Moore
+15,baseball,Inman,Matt Mikulecky
+16,baseball,Kansas City Christian School,Jared Barker
+17,baseball,Little River,Terry Renken
+18,baseball,Maranatha Christian Academy,Nick Adams
+19,baseball,McLouth,Richard Menninger
+20,baseball,Medicine Lodge,Joe Dohrmann
+21,baseball,Mission Valley,Justin Duncan
+22,baseball,Moscow,Joe Castillo
+23,baseball,Moundridge,Jared Kaufman
+24,baseball,Northern Heights,Shawn Wilson
+25,baseball,Oswego,Jeff Schreppel
+26,baseball,Oxford,Kyle Green
+27,baseball,Satanta,Tim Dusin
+28,baseball,Sedan,Richard Chrisman
+29,baseball,Sedgwick,Doug Mabry
+30,baseball,Spearville,Steve Strain
+31,baseball,St. Mary's-Colgan,Mike Watt
+32,baseball,St. Paul,Kenny Crager
+33,baseball,Sublette,Lyle Befort
+34,baseball,Syracuse,dustin doze
+35,baseball,Troy,Roger Purdy
+36,baseball,Udall,Barney Rockey
+37,baseball,Uniontown,william hathaway
+38,baseball,Valley Falls,Braden Werner
+39,baseball,West Elk,Dana Taliaferro
+40,baseball,Wichita County,Jordan Geyer
+41,baseball,Anthony-Harper-Chaparral,Tyler Clubine
+42,baseball,Atchison County,Paul Courter
+43,baseball,Belle Plaine,Wyatt Moore
+44,baseball,Beloit,Brandon Cox
+45,baseball,Bluestem,Grant Bachura
+46,baseball,Caney Valley,Criss Davis
+47,baseball,Central Heights,Jason Brown
+48,baseball,Cheney,Mike Quick
+49,baseball,Cherryvale,Scott John
+50,baseball,Collegiate,Joe Gehrer
+51,baseball,Council Grove,Matt Wilkens
+52,baseball,Douglass,Brad Reynolds
+53,baseball,Erie,Edward Ramsey
+54,baseball,Galena,Ken Cook
+55,baseball,Halstead,Danny Driskill
+56,baseball,Humboldt,Mike Miller
+57,baseball,Independent,Jamie Fowler
+58,baseball,Jayhawk Linn,Jake Storey
+59,baseball,Lakin,Steve Davidson
+60,baseball,Lyons/Chase,Adam Niedens
+61,baseball,Marion,Roger Schroeder
+62,baseball,Marysville,Derek Pretre
+63,baseball,Maur Hill Prep-Mount Academy,Phil Baniewicz
+64,baseball,Minneapolis,Tyler Konrade
+65,baseball,Nemaha Central,Terry Stueve
+66,baseball,Northeast,Shane Wade
+67,baseball,Osage City,CJ Marple
+68,baseball,Oskaloosa,Rod Stottlemire
+69,baseball,Perry-Lecompton,Kent Houk
+70,baseball,Pleasant Ridge,Justin Sloop
+71,baseball,Riley County,Weston Steiner
+72,baseball,Riverside [Wathena/Elwood],Bryce Paden
+73,baseball,Riverton,Danny Weaver
+74,baseball,Rock Creek,Shane Sieben
+75,baseball,Rossville,Eammon Bradley
+76,baseball,Sabetha,Aaron Frey
+77,baseball,Scott,David Dirks
+78,baseball,Silver Lake,Alan Cunningham
+79,baseball,Southeast,Kaleb Terlip
+80,baseball,Southeast of Saline,Mike Garretson
+81,baseball,St. Marys,CJ Marple
+82,baseball,Thomas More Prep-Marian,Brian Schumacher
+83,baseball,Wabaunsee,Jeron Weisshaar
+84,baseball,Wellsville,Bryan Kindle
+85,baseball,West Franklin,Daniel Waggoner
+86,baseball,Abilene/Solomon,Andy Cook
+87,baseball,Andale/Garden Plain,Alex Butterfield
+88,baseball,Arkansas City,Aaron Bucher
+89,baseball,Atchison,Casey Purdy
+90,baseball,Augusta,Doug Jefferson
+91,baseball,Baldwin,Brian Turk
+92,baseball,Bishop Miege,Dan Meara
+93,baseball,Bonner Springs,Adam Loecker
+94,baseball,Buhler,John Neill
+95,baseball,Central,Grant Bacon
+96,baseball,Chanute,Zack Murry
+97,baseball,Circle,Matt Jordan
+98,baseball,Clay Center/Wakefield,Andrew Trent
+99,baseball,El Dorado,Adam McCormick
+100,baseball,Eudora,Wilson Kilmer
+101,baseball,Field Kindley,Edward Raschen
+102,baseball,Fort Scott,Josh Regan
+103,baseball,Hayden,Bill Arnold
+104,baseball,Hays,Frank Leo
+105,baseball,Independence,Eddie Mason
+106,baseball,Labette County,Brian Tucker
+107,baseball,Louisburg,Jeff Lohse
+108,baseball,Maize South,Chad Christensen
+109,baseball,McPherson,Heath Gerstner
+110,baseball,Mulvane,Daniel Myears
+111,baseball,Ottawa,Shawn Herrman
+112,baseball,Piper,Daryl L. Graham
+113,baseball,Rose Hill,Kasey McDowell
+114,baseball,Spring Hill,William Meier
+115,baseball,Tonganoxie,Mitch Loomis
+116,baseball,Ulysses,Zach Pixler
+117,baseball,Wamego,Jerry Johnson
+118,baseball,Wellington,Jeff Frazee
+119,baseball,Anderson County,Travis Persinger
+120,baseball,Baxter Springs,Brett Hartley
+121,baseball,Bishop Ward,Zach Harris
+122,baseball,Burlington,Charlie Whitworth
+123,baseball,Clearwater,Jess Tracy
+124,baseball,Colby,Rick Williams
+125,baseball,Columbus,Mick Tedlock
+126,baseball,Concordia,Brandt Hutchinson
+127,baseball,Frontenac,Bill Sullivan
+128,baseball,Girard,Steve Bever
+129,baseball,Goodland,Devlin Mull
+130,baseball,Hoisington,Tim Schremmer
+131,baseball,Holcomb,Landon Lukens
+132,baseball,Holton,Joe Purcell
+133,baseball,Hugoton,Tanner Rindels
+134,baseball,Iola,Mark Percy
+135,baseball,Jefferson West,Dan Hypse
+136,baseball,Kingman/Norwich,Toby Munz
+137,baseball,Nickerson,Deron McCue
+138,baseball,Osawatomie,Austin Chisam
+139,baseball,Parsons,Gerald Beardmore
+140,baseball,Pratt,Ron Hill
+141,baseball,Royal Valley,Scott Ternes
+142,baseball,Santa Fe Trail,Jim Duncan
+143,baseball,Smoky Valley,Troy Miller
+144,baseball,Andover,Chris Weidert
+145,baseball,Aquinas,Lorne Parks
+146,baseball,Bishop Carroll,Charles Ebright
+147,baseball,Blue Valley Southwest,Jerrod Ryherd
+148,baseball,Central,Dee Kolzow
+149,baseball,De Soto,Joel Thaemert
+150,baseball,Eisenhower,Mike Warren
+151,baseball,Emporia,Anthony Markowitz
+152,baseball,Goddard,Brandon Lamarche
+153,baseball,Great Bend,Randy Beck
+154,baseball,Harmon,Steve May
+155,baseball,Heights,Jeff Topping
+156,baseball,Highland Park,Chad Brown
+157,baseball,Kapaun Mt. Carmel,Steve Lienhard
+158,baseball,Lansing,Michael Basler
+159,baseball,Leavenworth,Justin Bode
+160,baseball,Liberal,Eric Olmstead
+161,baseball,Maize,Rocky Helm
+162,baseball,Mill Valley,Jeff Strickland
+163,baseball,Newton,Mark George
+164,baseball,Pittsburg,Keith Matlock
+165,baseball,Seaman,Steve Bushnell
+166,baseball,Shawnee Heights,Ryan Schmidt
+167,baseball,South,Kris Meis
+168,baseball,St. James Academy,Brian Bucklin
+169,baseball,Sumner Academy,Andrew Wright
+170,baseball,Turner,George Walden
+171,baseball,Valley Center,Nick Barnes
+172,baseball,Washington,Cody McCoy
+173,baseball,Blue Valley,Tony Scardino
+174,baseball,Blue Valley North,Jon Pittenger
+175,baseball,Blue Valley North West,Corby Lange
+176,baseball,Blue Valley West,Joe Allison
+177,baseball,Derby,Todd Olmstead
+178,baseball,Dodge City,zach shipley
+179,baseball,East,Ryan Bensch
+180,baseball,Garden City,Justin Reich
+181,baseball,Gardner-Edgerton,Ryan Plankenhorn
+182,baseball,Haysville Campus,Bryan Clasen
+183,baseball,Hutchinson,Jim Preston
+184,baseball,Lawrence,Brad Stoll
+185,baseball,Lawrence Free State,Mike Hill
+186,baseball,Manhattan,Don Hess
+187,baseball,"North (Wichita, KS)",Randy Griffitts
+188,baseball,"North (Shawnee Mission, KS)",Jason Day
+189,baseball,Northwest,Chris Lambert
+190,baseball,Olathe North,Joey Oxley
+191,baseball,Olathe Northwest,Jay Novacek
+192,baseball,Olathe South,Josh Perkins
+193,baseball,Shawnee Mission East,Jerrod Ryherd
+194,baseball,Shawnee Mission Northwest,Domenic Mussat
+195,baseball,Shawnee Mission West,Todd Reed
+196,baseball,"South (Shawnee Mission, KS)",Mitch Wiles
+197,baseball,"South (Wichita, KS)",Coach Tafoya
+198,baseball,Southeast,Andrew Pina
+199,baseball,Topeka,Shane Miles
+200,baseball,Washburn Rural,Jay Mastin
+201,baseball,West,Jeff Hoover
+202,baseball,Ballard Memorial,Jeff Sadler
+203,baseball,Calloway County,Travis Turner
+204,baseball,Carlisle County,Hunter Burge
+205,baseball,Community Christian,Darrick Holloman
+206,baseball,Fulton City,Chad Malray
+207,baseball,Fulton County,Dallas Pruitt
+208,baseball,Graves County,Andrew Ford
+209,baseball,Hickman County,Scott Matlock
+210,baseball,Marshall County,andrew edwards
+211,baseball,Mayfield,Richard Collins
+212,baseball,McCracken County,Geno Miller
+213,baseball,Murray,Austin Swain
+214,baseball,Paducah Tilghman,Chris Johnson
+215,baseball,Caldwell County,Bradley Stallins
+216,baseball,Christian County,Trey Wheeler
+217,baseball,Crittenden County,Chris Evans
+218,baseball,Henderson County,Adam Hines
+219,baseball,Hopkins County Central,Chad Crick
+220,baseball,Hopkinsville,Blake Leach
+221,baseball,Livingston Central,Jerrod Quertermous
+222,baseball,Lyon County,Chris Yancy
+223,baseball,Madisonville-North Hopkins,Scott Marks
+224,baseball,Union County,Chad Robison
+225,baseball,University Heights,Chris Hamby
+226,baseball,Apollo,Bob Mantooth
+227,baseball,Breckinridge County,Jeremy Bennett
+228,baseball,Butler County,Jessica McKee
+229,baseball,Daviess County,Brandon Dennis
+230,baseball,Edmonson County,Bo West
+231,baseball,Grayson County,Danny Clark
+232,baseball,Hancock County,Chris Pate
+233,baseball,McLean County,Heath Hicks
+234,baseball,Meade County,Justin Amburgey
+235,baseball,Muhlenberg County,Brad Rogles
+236,baseball,Ohio County,Ben Everley
+237,baseball,Owensboro,Kip Walters
+238,baseball,Owensboro Catholic,Adam Hines
+239,baseball,Allen County-Scottsville,Kerry Harwood
+240,baseball,Barren County,JR Estes
+241,baseball,Bowling Green,Nathan Isenberg
+242,baseball,Clinton County,Jared Bertram
+243,baseball,Cumberland County,David Morgan
+244,baseball,Franklin-Simpson,Craig Delk
+245,baseball,Glasgow,David Lane
+246,baseball,Greenwood,Jason Jaggers
+247,baseball,Logan County,James Meguiar
+248,baseball,Metcalfe County,Brian Garrett
+249,baseball,Monroe County,Max Petett
+250,baseball,Russell County,David Rexroat
+251,baseball,Russellville,Tyler Meacham
+252,baseball,South Warren,Coach Gage
+253,baseball,Todd County Central,Mark Brooks
+254,baseball,Warren Central,Shane Humphrey
+255,baseball,Adair County,Mike Mantooth
+256,baseball,Bardstown,Glenn Koger
+257,baseball,Bethlehem,Roger Robinson
+258,baseball,Campbellsville,Blake Milby
+259,baseball,Caverna,Bob Poynter
+260,baseball,Central Hardin,Todd Thompson
+261,baseball,Elizabethtown,Chase Greenwell
+262,baseball,Fort Knox,Jeff Krieger
+263,baseball,Green County,Rick Davis
+264,baseball,Hart County,Chase Cruse
+265,baseball,Larue County,Eric Allen
+266,baseball,Marion County,Patrick Campbell
+267,baseball,Nelson County,David Sparrow
+268,baseball,North Hardin,John Adcock
+269,baseball,Taylor County,Jeff Gumm
+270,baseball,Thomas Nelson,Chris Downs
+271,baseball,Bullitt Central,Gj Moore
+272,baseball,Bullitt East,Jeff Bowles
+273,baseball,Butler,Josh Wolff
+274,baseball,DeSales,John Hodges
+275,baseball,Doss,Chris Ryan
+276,baseball,Fairdale,Adam Crawford
+277,baseball,Holy Cross,Pat Wiegandt
+278,baseball,Iroquois,Nick Guenther
+279,baseball,Jeffersontown,Scott Fluhr
+280,baseball,Moore,Trevor Moore
+281,baseball,North Bullitt,Brian Wise
+282,baseball,Southern,Jim Gross
+283,baseball,Valley,Jeff Litsey
+284,baseball,Western,Jared Baker
+285,baseball,Ascension Episcopal,Lonny Landry
+286,baseball,Highland Baptist Christian,Brendan Boudreaux
+287,baseball,East Iberville,Moe Pointer
+288,baseball,Central Catholic,Tyler Jensen
+289,baseball,Arcadia,Craig Jenkins
+290,baseball,Delhi Charter,Brad Nix
+291,baseball,Lafayette Christian Academy,Joey Thibodeaux
+292,baseball,Catholic of Pointe Coupee,Nick Scelfo
+293,baseball,Westminster Academy,Buddy Turnage Jr
+294,baseball,Oak Grove,Ty Rollinson
+295,baseball,Ascension Catholic,Todd Landry
+296,baseball,Ecole Classique,Greg Federico
+297,baseball,St. Frederick,Adam Dearman
+298,baseball,Southern Lab,Dwayne Manogin
+299,baseball,Oberlin,Greg Manuel
+300,baseball,Cedar Creek,Michael Haddox
+301,baseball,Gueydan,Gabe Fluitt
+302,baseball,Grand Lake,Tyler Alton
+303,baseball,Vermilion Catholic,Ben Harrington
+304,baseball,St. Edmund,scotty richard
+305,baseball,Varnado,Mark Barnwell
+306,baseball,St. Mary,Brooks McMinn
+307,baseball,Northwood,Denis Coody
+308,baseball,St. Martin's Episcopal,Brady Benoit
+309,baseball,Haynesville,Tony Gantt
+310,baseball,White Castle,Josh Scott
+311,baseball,LaSalle,Michael Duke
+312,baseball,St. John,Chris Harrell
+313,baseball,Ringgold,Darryl Clark
+314,baseball,Montgomery,Todd Matney
+315,baseball,Beekman,Jake Andrews
+316,baseball,Lake Charles College Prep,Orenthal Lewis Sr
+317,baseball,Plain Dealing,Kenneth Gay
+318,baseball,Merryville,David Ford
+319,baseball,Logansport,Dustyn Parker
+320,baseball,East Beauregard,Caleb Cooley
+321,baseball,Hanson Memorial,Christian Steiner
+322,baseball,South Cameron,kerry morrison
+323,baseball,Sicily Island,James Blaney
+324,baseball,Block,Stevie McCarthy
+325,baseball,Centerville,Barry Price
+326,baseball,Crescent City Christian,mario ortiz
+327,baseball,D'Arbonne Woods,Cash Littlefield
+328,baseball,False River,Joel Daigle
+329,baseball,Hamilton Christian,Ben Daugherty
+330,baseball,Kentwood,Taylor Abdalla
+331,baseball,Lincoln Prep,Billy Norman
+332,baseball,Sacred Heart,cody vidrine
+333,baseball,Vinton,Jason Tharp
+334,baseball,Loreauville,Rob Segura
+335,baseball,French Settlement,Jaime Gautreau
+336,baseball,Dunham,Jay Gabehart
+337,baseball,Doyle,Tim Beatty
+338,baseball,Episcopal,Travis Bourgeois
+339,baseball,West St. Mary,Clifton Armelin
+340,baseball,Thomas Jefferson,Kim Minor
+341,baseball,Newman,Trey Guillot
+342,baseball,DeQuincy,Brady Carlson
+343,baseball,Metairie Park Country Day,Sam Dozier
+344,baseball,Fisher,Jordan Nelson
+345,baseball,Red River,Earl Martin
+346,baseball,St. Thomas Aquinas,Brian Corr
+347,baseball,Bunkie,William Williber
+348,baseball,Calvary Baptist Academy,Shannon Cunningham
+349,baseball,Springfield,John Pace
+350,baseball,Lake Arthur,brett lilley
+351,baseball,Ouachita Christian,John Parker
+352,baseball,Delcambre,Andrew Madden
+353,baseball,Holy Savior Menard,J.C. Holt
+354,baseball,Rosepine,Jeff Smith
+355,baseball,Kinder,Kenney Courville
+356,baseball,Rayville,Doug Crise
+357,baseball,Notre Dame,Chris Stevens
+358,baseball,Mamou,Brett Doucet
+359,baseball,Runnels,Ben Young
+360,baseball,North Caddo,Gabe Lyons
+361,baseball,Riverside Academy,Frank Cazeaux
+362,baseball,St. Charles Catholic,Wayne Stein
+363,baseball,Catholic - N.I.,David Jordan
+364,baseball,Haynes Academy,Steve Stropolo
+365,baseball,Sterlington,Mark Sims
+366,baseball,Opelousas Catholic,justin boyd
+367,baseball,South Plaquemines,Keith Espadron
+368,baseball,Pope John Paul II,Michael Couvillion
+369,baseball,West St. John,PJ Millet
+370,baseball,Many,Toby Remedies
+371,baseball,Archbishop Hannan,Chris Yeager
+372,baseball,Welsh,jimmy agent
+373,baseball,Lakeside,Bob Gray
+374,baseball,Jonesboro-Hodge,Adam Farris
+375,baseball,Lakeview,Daniel Gannon
+376,baseball,Jeanerette,Larry Judice
+377,baseball,Northeast,Cole Foreman
+378,baseball,Northlake Christian,Michael Vandervelde
+379,baseball,East Feliciana,Cedric Anderson
+380,baseball,The Church Academy,Clayton Curry
+381,baseball,Pine,Blake Dillon
+382,baseball,West Feliciana,Gannon Achord
+383,baseball,Kaplan,Michael Williams
+384,baseball,E.D. White,David Constant
+385,baseball,South Beauregard,Jeremy DeVille
+386,baseball,Berwick,John Menard
+387,baseball,Jena,Colton Knuckols
+388,baseball,Jennings,James Estes
+389,baseball,Port Allen,Brian Bass
+390,baseball,Donaldsonville,Garrett Maum
+391,baseball,North Webster,Austin Lay
+392,baseball,Lutcher,Davey Clement
+393,baseball,Port Barre,Tyler Stevens
+394,baseball,Lusher,Kyle Walther
+395,baseball,Loyola College Prep,Dusty Griffis
+396,baseball,Parkview Baptist,Adam Cutrer
+397,baseball,Iowa,sean richard
+398,baseball,North Vermilion,Jeremy Trahan
+399,baseball,Patterson,Brett Dore
+400,baseball,Eunice,Terance Phillips
+401,baseball,Sumner,Michael Biandolillo
+402,baseball,Mansfield,Christopher Wilson
+403,baseball,Independence,Justin McDonald
+404,baseball,Frederick A. Douglass,Jonny Bartlett
+405,baseball,Bolton,Stewart Henagan
+406,baseball,Brusly,tait dupont
+407,baseball,Iota,Leonard Cloud
+408,baseball,Peabody,Lamont Piper
+409,baseball,University Lab,Justin Morgan
+410,baseball,Marksville,John Hill
+411,baseball,St. Louis Catholic,John Collins
+412,baseball,De La Salle,Rowland Skinner
+413,baseball,New Orleans Military & Maritime Academy,Michael Swindle
+414,baseball,Albany,David Pittman
+415,baseball,Bogalusa,James Cummings
+416,baseball,Vidalia,Michael Norris
+417,baseball,Winnfield,Mike Breaux
+418,baseball,Eleanor McMain,Darren Riley
+419,baseball,Erath,Jeremy Picard
+420,baseball,Union Parish,Joe Spatafora
+421,baseball,Buckeye,BJ Crain
+422,baseball,Amite,Christopher Chetta
+423,baseball,Pine Prairie,Dylan Manuel
+424,baseball,St. James,Renny Weber
+425,baseball,Westlake,Blake Reed
+426,baseball,Church Point,Jude Reiners
+427,baseball,Avoyelles,Ryan Gremillion
+428,baseball,Carroll,Danial McHenry
+429,baseball,Franklin,Mo Seneca
+430,baseball,Madison,Alfonzo Rogers
+431,baseball,Franklinton,Jeff Tageant
+432,baseball,Cecilia,Jamie Calais
+433,baseball,Lakeshore,Greg Battistella
+434,baseball,North DeSoto,Samuel Odom
+435,baseball,Tioga,David Montiel
+436,baseball,South Lafourche,Chandler Guidroz
+437,baseball,South Terrebonne,Mike Barba
+438,baseball,Salmen,Brian Babin
+439,baseball,Carencro,Thomas Tillery III
+440,baseball,Benton,JD Stephens
+441,baseball,St. Martinville,michael lemoine
+442,baseball,Grant,Cody Laprarie
+443,baseball,Morgan City,Trent Higginbothem
+444,baseball,Belle Chasse,Josh Euper
+445,baseball,Crowley,Chad Cradeur
+446,baseball,Easton,Bernard Dyer
+447,baseball,Neville,Paul Guerriero
+448,baseball,Bastrop,Christian Kidd
+449,baseball,Woodlawn-B.R.,Greg McBride
+450,baseball,Beau Chene,Dwayne Thibodeaux
+451,baseball,St. Thomas More,Gary Perkins
+452,baseball,Assumption,Craig Castello
+453,baseball,Pearl River,Cameron Lewis
+454,baseball,Bossier,Brian Harvey
+455,baseball,Loranger,Brian Corr
+456,baseball,Opelousas,Joshua Walker
+457,baseball,Plaquemine,Robert Primus
+458,baseball,Rayne,Jason Bonin
+459,baseball,Minden,Dean Francis
+460,baseball,Washington-Marion,John McCree
+461,baseball,Northside,John Reynolds
+462,baseball,Northwood,Darien Dukes
+463,baseball,DeRidder,Dane Peavy
+464,baseball,Teurlings Catholic,Michael Thibodeaux
+465,baseball,Leesville,Oscar Reed
+466,baseball,Benjamin Franklin,Wally Scott
+467,baseball,St. Michael,David Gomez
+468,baseball,Riverdale,Sean Temple
+469,baseball,A.J. Ellender,Jamie Delahoussaye
+470,baseball,Vandebilt Catholic,Gerald Cassard
+471,baseball,Abbeville,Zachary Duhon
+472,baseball,Huntington,Daniel Gannon
+473,baseball,Tara,Marvin Jr
+474,baseball,Woodlawn-Shreveport,Freddie Williford
+475,baseball,Franklin Parish,Marty Dewees
+476,baseball,Westgate,Matthew Plitt
+477,baseball,LaGrange,Rodney Lloyd
+478,baseball,Carver Collegiate Academy,gilbert chartian
+479,baseball,Fair Park,Calvin Sims
+480,baseball,Lake Area New Tech,Terrence Ranson
+481,baseball,Terrebonne,Gus Brown
+482,baseball,Walker,Randy Sandifer
+483,baseball,Lafayette,Sam Taulli
+484,baseball,St. Paul's,Mick Nunez
+485,baseball,Captain Shreve,Todd Sharp
+486,baseball,Parkway,David George
+487,baseball,John Curtis Christian,Jeff Curtis
+488,baseball,Jesuit,Earl Johnson
+489,baseball,Archbishop Rummel,Frank Cazeaux
+490,baseball,Barbe,Glenn Cecchini
+491,baseball,Sulphur,Sam Moore
+492,baseball,Haughton,Glenn Maynor
+493,baseball,Scotlandville,Marcus Minor
+494,baseball,Evangel Christian Academy,Tim Hulett
+495,baseball,Central Lafourche,Matthew Plitt
+496,baseball,Alexandria,Daniel Tomlin
+497,baseball,New Iberia,Robby Norris
+498,baseball,Ponchatoula,JEREMY HARPER
+499,baseball,Catholic-B.R.,Brad Bass
+500,baseball,Thibodaux,Marc Gonzales
+501,baseball,Zachary,Jacob Fisher
+502,baseball,Airline,TOBY TODD
+503,baseball,St. Amant,Brandon Bravata
+504,baseball,Sam Houston,chad hebert
+505,baseball,Archbishop Shaw,Doug Faust
+506,baseball,Bonnabel,Michael Lachney
+507,baseball,West Jefferson,Travis Stanley
+508,baseball,Brother Martin,Jeff Lupo
+509,baseball,East St. John,Wendell Henderson
+510,baseball,Natchitoches Central,Regan Kaufman
+511,baseball,Slidell,Vincent Ruda
+512,baseball,Ouachita Parish,Josh Morrison
+513,baseball,Acadiana,Matt McCullough
+514,baseball,Bourgeois,Corey Sullivan
+515,baseball,Covington,Jeff Dragg
+516,baseball,L.W. Higgins,George Viellion
+517,baseball,Northshore,Glenn Rivero
+518,baseball,East Jefferson,Karl Williams
+519,baseball,Comeaux,Jeramie Broussard
+520,baseball,Fontainebleau,Michael Woods
+521,baseball,Live Oak,Greg Briggs
+522,baseball,St. Augustine,Barret Rey
+523,baseball,Dutchtown,Chris Schexnaydre
+524,baseball,Pineville,Keith Hood
+525,baseball,East Ascension,Kade Keowen
+526,baseball,Central,Mike Forbes
+527,baseball,Byrd,Greg Williams
+528,baseball,Denham Springs,Mark Carroll
+529,baseball,John Ehret,Charles Aboyoun
+530,baseball,Chalmette,Lyall Barwick
+531,baseball,Landry-Walker,Kellen Daranda
+532,baseball,Broadmoor,Terrell Thomas
+533,baseball,Hahnville,David Baudry
+534,baseball,Destrehan,Christopher Mire
+535,baseball,Hicks,gary williams
+536,baseball,Castor,Austin Hand
+537,baseball,Holden,David White
+538,baseball,Avoyelles Charter,John Regard
+539,baseball,Episcopal of Acadiana,Mark Broussard
+540,baseball,Forest,Larry Boyte
+541,baseball,Doyline,Colby Martin
+542,baseball,Zwolle,Chris Brumley
+543,baseball,Grace Christian,Josh Brown
+544,baseball,Simsboro,Joey Kemp
+545,baseball,Anacoco,James Johnson
+546,baseball,Choudrant,Tony Antley
+547,baseball,Quitman,Joe Lockhart
+548,baseball,Mt. Hermon,Matthew Sessions
+549,baseball,Patrick Taylor Science & Tech Academy,Robert Billiot
+550,baseball,Florien,Trent Partridge
+551,baseball,Pitkin,JC Holt
+552,baseball,Hornbeck,Tye Haymon
+553,baseball,Bell City,Brent Callais
+554,baseball,Stanley,Brian Anderson
+555,baseball,Monterey,Eric Richard
+556,baseball,Negreet,David Jordan
+557,baseball,Glenmora,Aaron West
+558,baseball,Fairview,Brent Dowies
+559,baseball,Biddeford,Keith LeBlanc
+560,baseball,Bonny Eagle,Ricky Hession
+561,baseball,Brewer,Dana Corey
+562,baseball,Camden Hills,Jeff Hart
+563,baseball,Cheverus,Mac McKew
+564,baseball,Deering,Josh Stowell
+565,baseball,Edward Little,Dave Jordan
+566,baseball,Falmouth,Kevin Winship
+567,baseball,Gorham,Chuck Nadeau
+568,baseball,Hampden,David Shapiro
+569,baseball,Lewiston,Darren Hartley
+570,baseball,Marshwood,Eric Fernandes
+571,baseball,Massabesic,Cory Woodsome
+572,baseball,Messalonskee,Ray Bernier
+573,baseball,Noble,Adam Hale
+574,baseball,Oxford Hills,Shane Slicer
+575,baseball,Portland,Mark Stasium
+576,baseball,Sanford,Mark Boissonneault
+577,baseball,Scarborough,Jim Cronin
+578,baseball,South Portland,Mike Owens
+579,baseball,Thornton Academy,Jason Lariviere
+580,baseball,Caribou,Jimmie Thibodeau
+581,baseball,Gardiner,Cody Drake
+582,baseball,Gray-New Gloucester,Brad Smith
+583,baseball,Greely,Derek Soule
+584,baseball,Lake Region,Daniel Leland
+585,baseball,Leavitt,Chris Cifelli
+586,baseball,Maine Central Institute,John Dean
+587,baseball,Morse,Niko Ruiz
+588,baseball,Mountain Valley,Steve Lapointe
+589,baseball,Oak Hill,Chad Stowell
+590,baseball,Oceanside,Don Shields
+591,baseball,Old Town,Brad Goody
+592,baseball,Presque Isle,Derek Kinney
+593,baseball,Waterville,Donald Sawyer
+594,baseball,Wells,Jay Audet
+595,baseball,Central,Peter Speed
+596,baseball,Hall-Dale,Bob Sinclair
+597,baseball,Madison,Scott Franzose
+598,baseball,Old Orchard Beach,Thomas LaChance
+599,baseball,Sacopee Valley,Peter Campbell
+600,baseball,Washington Academy,Blaine Steeves
+601,baseball,Winthrop,Mark Fortin
+602,baseball,Ashland,Daniel Cote
+603,baseball,Fort Fairfield,John Ala
+604,baseball,Greater Portland Christian,Keith Dawson
+605,baseball,Hodgdon,Robert Smith
+606,baseball,Jonesport-Beals,Bill Z. Fan
